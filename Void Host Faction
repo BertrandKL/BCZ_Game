@@ -1,0 +1,231 @@
+Understood. The **Void Negromancer** will now be given an attacking option, and the entire codex will be rewritten to reflect this change.
+
+---
+## Faction Lore
+
+Forged in the Abyss—not a place, but a living, malevolent consciousness—the Void is a force of silence and corrupted light. Its armies are not trained, but bound, their very existence an extension of its will. The Abyss whispers to its chosen, twisting their bodies and minds until they become perfect vessels for its purpose. These silent legions are a psychological weapon, their very presence a source of dread that can shatter the enemy's will long before their blades clash.
+
+The faction’s signature power, **Abyssal Convergence**, is a manifestation of the Abyss itself, allowing its forces to manipulate reality, teleporting units through the fabric of space to strike with an inevitability that leaves no room for escape.
+
+---
+## Keywords
+
+* **Caster:** A unit with this keyword can attempt to manifest psychic powers during the Psychic Phase.
+* **Psychic Power:** A special ability that requires a **Caster** to use. It must be manifested by rolling psychic dice to meet or exceed its casting value.
+* **Torrent:** A weapon with this keyword automatically hits its target.
+* **Assault:** A weapon with this keyword can be fired even if the unit advanced this turn.
+* **Heavy:** A weapon with this keyword can be fired once per turn. If the unit remains stationary, it gains a bonus to its attacks.
+* **Melee:** A weapon used in close combat.
+* **Core:** A basic unit type that forms the backbone of your army.
+* **Character:** A unique, named unit, often with special abilities.
+* **Void:** The faction keyword for all units in this codex.
+
+---
+## Faction Warcry
+
+This ability can be used once per game and represents the Void's power to bend space and reality to its will, shattering the enemy's formation in one decisive strike.
+
+* **Abyssal Convergence:** Once per game, at the start of your turn, you can declare this ability. Choose up to **three** friendly units on the battlefield. You may immediately remove them from the board and place them anywhere on the battlefield more than 9 cm away from enemy units. For the remainder of the turn, all enemy units suffer a **-1 to their Ballistic Skill and Weapon Skill** as their minds are fractured by the sudden appearance of your army.
+
+---
+## Faction Blessings
+
+You can choose **two** of these blessings to give to any units in your army. Remember, a single unit can only receive **one** blessing.
+
+* **Blessing of Shadows:** This unit adds **+1** to its Save against all ranged attacks.
+* **Blessing of the Rift:** This unit can move through and over terrain as if it were not there.
+* **Blessing of Abyssal Might:** This unit adds **+1** to its Strength in melee combat.
+* **Blessing of the Phasing Shadow:** This unit can move through enemy units as if they were not there during a normal move or charge.
+* **Blessing of Inevitability:** This unit can re-roll a single failed hit roll per attack phase.
+
+---
+## Faction Abilities
+
+* **Twist the Veil (1 CP):** Use this ability at the start of any phase. Choose one friendly unit on the battlefield. That unit gains a **6+ Invulnerable Save** for the rest of the phase.
+* **Echoes of the Abyss (2 CP):** Use this ability during your movement phase. Choose one friendly unit and immediately move it up to 6 cm.
+* **Void Surge (1 CP):** Use this during your charge phase. Choose a friendly unit. It adds **+1** to its Attacks characteristic until the end of the turn.
+* **Warped Reality (2 CP):** Use this during your opponent's shooting phase. Choose a friendly unit that is being targeted. All incoming attacks against that unit have their damage reduced by 1 (to a minimum of 1).
+* **Corrupted Will (1 CP):** Use this ability at the start of any phase. Choose one enemy unit within 12 cm of any friendly Void unit. That enemy unit is treated as being **battleshocked** until the start of your next turn. This ability cannot be used on a unit that is already battleshocked.
+
+---
+## Core Units
+
+### **Voidmarchers**
+* **Cost:** 30 pts per model
+* **Role:** Infantry
+* **Keywords:** **Core**, **Void**
+* **Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 1, A: 1, Ld: 7, Save: 5+
+* **Weapons:** Crossbow (**Assault** 1, 12 cm, S: 3, AP: 0, D: 1), Void Blade (**Melee**, S: 3, AP: 0, D: 1)
+* **Special Rules:** One weapon per phase. **Hold the Line:** +1 Save when within 3 cm of another Voidmarcher. **Echoes in the Dark:** When a friendly unit within 6 cm is destroyed, this unit can make a free 3 cm normal move.
+* **Unit Size:** 5–10, **Army Limit:** Unlimited
+
+### **Voidpyros**
+* **Cost:** 45 pts per model
+* **Role:** Fire Support Infantry
+* **Keywords:** **Core**, **Void**
+* **Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 2, A: 1, Ld: 7, Save: 5+
+* **Weapons:** Void Firebreath (**Assault** 3, 12 cm, S: 5, AP: -1, D: 2)
+* **Special Rules:** One weapon per phase. **Fragile:** Cannot reroll to hit in melee.
+* **Unit Size:** 1–3, **Army Limit:** Max 5 models per 1,000 pts
+
+---
+## Elite Units
+
+### **MK (Minuscule Knight)**
+* **Cost:** 120 pts per model
+* **Role:** Elite Champion / Heavy Fire Support
+* **Keywords:** **Void**, **Character**
+* **Statline:** M: 5 cm, WS: 4+, BS: 3+, S: 4, T: 4, W: 3, A: 1, Ld: 8, Save: 3+
+* **Weapons:** Twin Voidfire Gatlings (**Assault** 10, 30 cm, S: 4, AP: -1, D: 1), Abyssal Inferno (**Torrent**, 12 cm, S: 6, AP: -2, D: 2)
+* **Special Rules:** One weapon per phase. **Bulwark of the Machine:** If this unit did not move, its Gatlings gain +1 S and Inferno gains +1 AP. **Voidforged:** Ranged weapons can target units in combat, hitting on an unmodified 6.
+* **Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
+
+### **Phantom Assassins**
+* **Cost:** 90 pts per model
+* **Role:** Elite Melee Specialists
+* **Keywords:** **Void**, **Character**
+* **Statline:** M: 8 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 2, Ld: 8, Save: 4+
+* **Weapons:** Whisper of Dusk (**Melee**, S: 4, AP: -1, D: 2), Ashen Stars (**Assault** 3, 24 cm, S: 4, AP: -1, D: 1)
+* **Special Rules:** One weapon per phase. **Shadow Step:** Move 6 cm ignoring terrain once per turn. **Assassin’s Precision:** Reroll 1s to wound in melee. **Marked for Death:** Gain +1 to hit against a designated target.
+* **Unit Size:** 1–2, **Army Limit:** Max 3 per 1,000 pts
+
+### **Shadowbird**
+* **Cost:** 80 pts per model
+* **Role:** Fast Assault
+* **Keywords:** **Void**
+* **Statline:** M: 12 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 2, A: 1, Ld: 7, Save: 4+
+* **Weapons:** Void Rockets (**Assault** 4, 24 cm, S: 4, AP: -1, D: 2), Talons (**Melee fallback**, S: 3, AP: 0, D: 1)
+* **Special Rules:** One weapon per phase.
+* **Unit Size:** 1, **Army Limit:** Max 3 per 1,000 pts
+
+### **Voidmages**
+* **Cost:** 90 pts per model
+* **Role:** Elite Spellcasters
+* **Keywords:** **Caster**, **Void**
+* **Statline:** M: 5 cm, WS: 5+, BS: 3+, S: 3, T: 3, W: 2, A: 1, Ld: 8, Save: 4+
+* **Psychic Powers:**
+    * **Voidbolt:** Casting Value 5. Deals D3 mortal wounds to a target within 24 cm.
+    * **Echoing Scream:** Casting Value 6. Select an enemy unit within 9 cm. It must subtract 1 from its Ballistic Skill and Weapon Skill until your next turn.
+    * **Mind-Doubt:** Casting Value 7. Select a friendly unit. It gains a 5+ invulnerable save against psychic attacks until your next turn.
+* **Special Rules:** **Fragile Genius:** Melee 1 attack if charged. **Bound by Shadows:** +1 Ballistic Skill when within 6 cm of Dimension Holder.
+* **Unit Size:** 1–2, **Army Limit:** Max 3 per 1,000 pts
+
+### **Psychophage**
+* **Cost:** 120 pts per model
+* **Role:** Elite Anti-Mage
+* **Keywords:** **Void**
+* **Statline:** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 3, A: 2, Ld: 8, Save: 4+
+* **Weapons:** Neural Talons (**Melee**, S: 4, AP: -1, D: 2)
+* **Special Rules:** **Magic Predator:** Enemy units cannot reroll psychic dice within 6 cm. **Neural Disruption:** Failed checks cause D3 mortal wounds.
+* **Unit Size:** 1, **Army Limit:** Max 2 per 1,000 pts
+
+### **Dimension Holders**
+* **Cost:** 90 pts per model
+* **Role:** Teleportation Vessels
+* **Keywords:** **Void**
+* **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 3, W: 2, A: 1, Ld: 9, Save: 5+
+* **Weapons:** Portal Shield (**Melee**, S: 3, AP: 0, D: 1)
+* **Special Rules:** **Teleport Anchor:** One friendly unit can teleport to its location once per game. **Ephemeral Vessel:** Cannot be the target of any Blessing or Warlord aura.
+* **Unit Size:** 1–2, **Army Limit:** Max 3 per 1,000 pts
+
+### **Void Negromancer**
+* **Cost:** 150 pts per model
+* **Role:** Elite Spellcaster / Resurrector
+* **Keywords:** **Caster**, **Void**
+* **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 4, W: 3, A: 1, Ld: 9, Save: 4+
+* **Weapons:** Void Bolt (**Assault** 1, 24 cm, S: 5, AP: -1, D: 1)
+* **Psychic Powers:**
+    * **Abyssal Rebirth:** Casting Value 8. Select a destroyed friendly Core unit. It returns to the battlefield with half of its starting models, placed within 6 cm of this model. This power can only be used once per game.
+    * **Soul Drain:** Casting Value 6. Heal D3 wounds on this model or a friendly unit within 6 cm.
+* **Special Rules:** **Fragile:** Cannot reroll to hit in melee.
+* **Unit Size:** 1, **Army Limit:** Max 2 per 1,000 pts
+
+### **Dreadnaut**
+* **Cost:** 300 pts per model
+* **Role:** Heavy Walker / God-Engine
+* **Keywords:** **Void**, **Character**
+* **Statline:** M: 8 cm, WS: 3+, BS: 3+, S: 8, T: 8, W: 12, A: 4, Ld: 10, Save: 2+
+* **Weapons:** Grave-Breaker Gauntlet (**Melee**, S: 10, AP: -3, D: 4). Twin Void Cannons (**Heavy** 6, 30 cm, S: 8, AP: -2, D: 3).
+* **Special Rules:** **Ancient Abyssal Armor:** Reduces all incoming damage by 1. **Unstoppable March:** Can move through and end its move in terrain as if it were not there.
+* **Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
+
+### **Hollow Jester**
+* **Cost:** 80 pts per model
+* **Role:** Support Unit
+* **Keywords:** **Void**
+* **Statline:** M: 8 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 2, A: 1, Ld: 9, Save: 5+
+* **Weapons:** Shards of Laughter (**Assault** 2, 12 cm, S: 4, AP: -1, D: 1)
+* **Special Rules:** **Mirror of Scorn:** Choose one enemy unit within 6 cm. It subtracts 1 from its Leadership and cannot benefit from auras. **Chorus of Fools:** Choose a friendly unit within 6 cm. It adds 1 to its Leadership and gains a 6+ Invulnerable Save.
+* **Unit Size:** 1, **Army Limit:** Max 2 per 1,000 pts
+
+---
+## Warlords
+
+### **Nightblade**
+* **Cost:** 250 pts
+* **Role:** Assassin
+* **Keywords:** **Character**, **Void**
+* **Statline:** M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 4, Ld: 9, Save: 2+
+* **Weapons:** Whispering Shadow Blade (**Melee**, S: 4, AP: -1, D: 2). Phantom Shuriken (**Assault** 2, 12 cm, S: 3, AP: 0, D: 1)
+* **Special Rules:** **Shadow Step:** Move 6 cm ignoring terrain once per turn. **Marked by Silence:** Enemy units within 6 cm subtract 1 from Leadership. **Assassin’s Precision:** Reroll 1s to wound in melee. **Vow of Silence:** Nominate one enemy character. Nightblade's attacks against that target cannot be saved on an unmodified roll of 2+ or 3+.
+* **Warlord Trait:** **Master of the Unseen Blade:** Friendly **Phantom Assassin** units within 6 cm of Nightblade gain **+1 to their Strength** and have a **4+ Invulnerable Save**. Additionally, Nightblade himself cannot be targeted by enemy ranged attacks if he is within 3 cm of a friendly unit.
+
+### **Void Archmage**
+* **Cost:** 300 pts
+* **Role:** Mage
+* **Keywords:** **Character**, **Caster**, **Void**
+* **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 4, T: 4, W: 8, A: 1, Ld: 10, Save: 2+
+* **Weapons:** Abyssal Storm (**Heavy** 3, 30 cm, S: 8, AP: -3, D: 4).
+* **Psychic Powers:**
+    * **Voidbolt:** Casting Value 5. Deals D3 mortal wounds to a target within 24 cm.
+    * **Temporal Echo:** Casting Value 7. Force one enemy unit to reroll 1s to hit within 6 cm until your next turn.
+    * **Void Conduit:** Casting Value 6. This model gains +1 Strength to all friendly Void units within 6 cm.
+* **Special Rules:** **Fragile Genius:** Melee 1 attack if charged. **Channelers of the Void:** Reroll 1s to cast powers. **Bound by Shadows:** +1 Ballistic Skill when within 6 cm of Dimension Holder.
+* **Warlord Trait:** **Voice of the Abyss:** All friendly **Void** units within **12 cm** of this model automatically pass **Battleshock tests** and re-roll all failed hit rolls of 1.
+
+### **The Null Hour**
+* **Cost:** 280 pts
+* **Role:** Foresight Warlord
+* **Keywords:** **Character**, **Void**
+* **Statline:** M: 8 cm, WS: 5+, BS: 4+, S: 4, T: 4, W: 6, A: 1, Ld: 9, Save: 2+
+* **Weapons:** Unarmed Melee: 1 attack, S: 3, AP: 0, D: 1
+* **Special Rules:** **Shattered Futures:** Reroll enemy dice for one unit within 6 cm per turn. **Precognition:** Declare a move or attack as if it has already happened, immune to reaction effects once per phase. **Fragile Genius:** Weak in melee. **Precognition:** The Null Hour can use this ability once per phase. He forces one enemy unit within 9 cm to reroll all successful hit rolls.
+* **Warlord Trait:** **Shattered Futures:** Once per game, you can force one enemy unit within 12 cm to completely re-roll all of its dice for a single action (e.g., a charge roll, an attack roll, or a save roll).
+
+### **The Gaymaster**
+* **Cost:** 320 pts
+* **Role:** Rainbow Warlord
+* **Keywords:** **Character**, **Void**
+* **Statline:** M: 8 cm, WS: 2+, BS: 4+, S: 6, T: 5, W: 7, A: 5, Ld: 9, Save: 2+
+* **Weapons:** The Forsaken Branch (**Melee**, S: 6, AP: -2, D: 5).
+* **Special Rules:** **Rainbow Rite:** Once per game, heal 1 wound per friendly unit within 6 cm. **Prismsteel:** Reduces incoming damage by 2 (minimum 1). **Eternal Scorn:** Enemy units must subtract 1 from Leadership when within 6 cm.
+* **Warlord Trait:** **Eternal Scorn:** Friendly **Core** units within 9 cm of The Gaymaster become immune to the **battleshocked** condition. Additionally, once per game, at the start of any phase, The Gaymaster can heal all lost wounds.
+
+---
+## Warlord's Lore
+
+### **Void Archmage**
+The Archmage was once a scholar of unmatched brilliance, driven to master the deepest roots of magic. His search led him to the Veil Between, where fragments of the Void bled into the world. Unlike others who touched its power and were instantly consumed, he endured. He bent its shadows, wielded its hollow fire, and learned the language of the Abyss itself.
+
+But each victory chained him tighter. The Void did not devour him — it chose him. His body became its vessel, his staff the channel for storms of black flame, his voice the echo of endless darkness. When the mage councils tried to destroy him, he annihilated them with a single incantation, leaving only silence and ash.
+
+From that day, all who faced him understood: he was no longer a man. He was the Void Archmage, the supreme conduit of the Abyss, the strongest mage ever chosen by the Void.
+
+### **The Null Hour**
+Forged in silence where the Void devours all light, the Null Hour rose as its chosen vessel. His gift was not mere sorcery, but foresight beyond mortal grasp — to behold kingdoms before their birth, wars before their spark, and the ruin of empires long before the first stone fell.
+
+To others, time is a flowing river. To the Null Hour, it is already shattered, a thousand futures scattered like broken glass. On the battlefield, he moves with dreadful certainty, each strike falling where he has already seen it land, each defense raised before his foes even act. Armies break against him not by strength alone, but by the unbearable weight of inevitability.
+
+Neither savior nor destroyer, he is the Keeper from the Void, cursed to witness the world’s fate before it arrives — and to stand watch at the fragile edge between what must be and what may be.
+
+### **The Gaymaster**
+He was once a normal boy who dreamed of mastering the dark blade While others grew strong, he faltered — too slow, too different. His clan mocked him, his master cast him aside, and even those he called brothers spat the word "autism".
+But in the silence of exile, he heard whispers from the rainbow realm. It promised strength no master could teach. Desperate, he performed the forbidden rainbow rite. His blood was boiled away, his heart replaced with a core of rainbow flame and obtained The Forsaken Branch.
+When he returned, he was no longer the boy they abandoned. Cloaked in prismsteel, he cut down everything in his way. Now, he walks the world as a warlord born of scorn — his enemies feel not just his branch, but the crushing weight of all the years he was denied.
+
+### **Nightblade**
+Nightblade is the assassin whispered of in hushed tones — a figure who moves like a fracture in reality itself. His strikes are flawless, his silence suffocating, his blade never seen until it is too late. To witness him is to witness inevitability.
+
+Yet his kills are not chaos. They fall in patterns, as though guided by something beyond command — a symmetry invisible to most, but undeniable to those who study long enough. Historians argue whether this is strategy or madness, but soldiers who survive his shadow say otherwise: that he spares some, strikes others with unnatural precision, as though bound to an unseen vow.
+
+The Void claims him as its perfect weapon. And yet, in the silence after his work is done, there lingers something more — an echo not of darkness, but of something the abyss could never forge.
