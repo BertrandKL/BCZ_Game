@@ -1,20 +1,19 @@
-Stat Glossary
+ Stat Glossary
+
 This section explains the meaning of each statistic on a unit's profile card, from Movement to Save. Knowing these values is key to understanding how your units will perform on the battlefield.
 
-M (Movement): This value determines how far a unit can move during the Movement Phase. A higher number means the unit is faster.
+* **M (Movement):** This value determines how far a unit can move during the Movement Phase. A higher number means the unit is faster.
+* **WS (Weapon Skill):** This stat is used in close-quarters melee combat. A unit with a high Weapon Skill has a better chance of hitting its target. A lower number is better (e.g., a WS of 2+ is excellent).
+* **BS (Ballistic Skill):** This stat is used for ranged attacks. A high Ballistic Skill means the unit is a skilled marksman and has a better chance of hitting its target. As with Weapon Skill, a lower number is better.
+* **S (Strength):** This stat represents a unit's physical power, for both melee and ranged attacks. When you roll to wound an enemy, you compare your unit's Strength to the enemy's Toughness. A higher Strength value makes it easier to wound.
+* **T (Toughness):** This stat represents a unit's resilience and durability. It determines how difficult it is for an enemy to inflict a wound on them. A higher Toughness value makes a unit harder to wound.
+* **W (Wounds):** This is the unit's "health." Each wound it takes reduces this value. Once a unit's Wounds are reduced to 0, it is destroyed.
+* **A (Attacks):** This value determines the number of times a model can attempt to hit an enemy in the Melee phase. A higher number means more attacks.
+    * **Note:** If a unit does not have a designated melee weapon, it defaults to a basic **Unarmed** attack with the following profile: **Melee**, S: User, AP: 0, D: 1. "S: User" means the attack uses the unit's own Strength characteristic.
+* **Ld (Leadership):** This stat represents a unit's mental fortitude and ability to resist fear and psychological effects. It is used for **Battleshock tests**. A higher number means the unit is more likely to stay in the fight.
+* **Save:** This is a unit's armor or natural durability. After an enemy successfully wounds your unit, you roll a die to see if you can "save" the wound. A lower number is better, as it makes the unit more resilient to incoming damage.
 
-WS (Weapon Skill): This stat is used in close-quarters melee combat. When a unit with a high Weapon Skill attacks in melee, it has a better chance of hitting its target. A lower number is better (e.g., a WS of 2+ is excellent).
+---
+**Why are some numbers better when they are lower?**
 
-BS (Ballistic Skill): This stat is used for ranged attacks. A high Ballistic Skill means the unit is a skilled marksman and has a better chance of hitting its target with a ranged weapon. As with Weapon Skill, a lower number is better.
-
-S (Strength): This stat represents a unit's physical power, for both melee and ranged attacks. When you roll to wound an enemy, you compare your unit's Strength to the enemy's Toughness. A higher Strength value makes it easier to wound.
-
-T (Toughness): This stat represents a unit's resilience and durability. It determines how difficult it is for an enemy to inflict a wound on them. A higher Toughness value makes a unit harder to wound.
-
-W (Wounds): This is the unit's "health." Each wound it takes reduces this value. Once a unit's Wounds are reduced to 0, it is destroyed.
-
-A (Attacks): This value determines the number of times a model can attempt to hit an enemy in the Melee phase. A higher number means more attacks.
-
-Ld (Leadership): This stat represents a unit's mental fortitude and ability to resist fear and psychological effects. It is used for Battleshock tests. A higher number means the unit is more likely to stay in the fight.
-
-Save: This is a unit's armor or natural durability. After an enemy successfully wounds your unit, you roll a die to see if you can "save" the wound. A lower number is better, as it makes the unit more resilient to incoming damage.
+In many tabletop wargames, stats are based on a die roll. A lower number in stats like **Weapon Skill**, **Ballistic Skill**, and **Save** means you need to roll a lower number on a die (usually a six-sided die, or D6) to succeed, which makes success more likely.
