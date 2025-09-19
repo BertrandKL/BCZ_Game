@@ -129,7 +129,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 ### **Void Negromancer**
 * **Cost:** 150 pts per model
 * **Role:** Elite Spellcaster / Resurrector
-* **Keywords:** **Caster**, **Void**
+* **Keywords:** **Caster**, **Void**, **Character**
 * **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 4, W: 3, A: 1, Ld: 9, Save: 4+, **OC: 1**
 * **Weapons:** Void Bolt (**Assault** 1, 24 cm, S: 5, AP: -1, D: 1)
 * **Psychic Powers:**
@@ -141,7 +141,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 ### **Dreadnaut**
 * **Cost:** 300 pts per model
 * **Role:** Heavy Walker / God-Engine
-* **Keywords:** **Void**, **Character**
+* **Keywords:** **Void**
 * **Statline:** M: 8 cm, WS: 3+, BS: 3+, S: 8, T: 8, W: 12, A: 4, Ld: 10, Save: 2+, **OC: 5**
 * **Weapons:** Grave-Breaker Gauntlet (**Melee**, S: 10, AP: -3, D: 4). Twin Void Cannons (**Heavy** 6, 30 cm, S: 8, AP: -2, D: 3).
 * **Special Rules:** **Ancient Abyssal Armor:** Reduces all incoming damage by 1. **Unstoppable March:** Can move through and end its move in terrain as if it were not there.
