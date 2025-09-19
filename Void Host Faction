@@ -11,7 +11,7 @@ The faction’s signature power, **Abyssal Convergence**, is a manifestation of 
 * **Psychic Power:** A special ability that requires a **Caster** to use. It must be manifested by rolling psychic dice to meet or exceed its casting value.
 * **Torrent:** A weapon with this keyword automatically hits its target.
 * **Assault:** A weapon with this keyword can be fired even if the unit advanced this turn.
-* **Heavy:** A weapon with this keyword can be fired once per turn. If the unit remains stationary, it gains a bonus to its attacks.
+* **Heavy:** A weapon with this keyword can be fired once per turn. If the unit remains stationary, it gains +1 BS and WS this turn.
 * **Melee:** A weapon used in close combat.
 * **Core:** A basic unit type that forms the backbone of your army.
 * **Character:** A unique, named unit, often with special abilities.
@@ -164,7 +164,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Keywords:** **Character**, **Void**
 * **Statline:** M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 4, Ld: 9, Save: 2+, **OC: 2**
 * **Weapons:** Whispering Shadow Blade (**Melee**, S: 4, AP: -1, D: 2). Phantom Shuriken (**Assault** 2, 12 cm, S: 3, AP: 0, D: 1)
-* **Special Rules:** **Shadow Step:** Move 6 cm ignoring terrain once per turn. **Marked by Silence:** Enemy units within 6 cm subtract 1 from Leadership. **Assassin’s Precision:** Reroll 1s to wound in melee. **Vow of Silence:** Nominate one enemy character. Nightblade's attacks against that target cannot be saved on an unmodified roll of 2+ or 3+.
+* **Special Rules:** **Shadow Step:** Move 6 cm ignoring terrain once per turn. **Marked by Silence:** Enemy units within 6 cm subtract 1 from Leadership. **Assassin’s Precision:** Reroll 1s to wound in melee. **Vow of Silence:** Nominate one enemy character. Nightblade's attacks against that target cannot be saved on an unmodified roll of 2+ or 3+. Cannot deliver the finishing blow to The Starchild and "Placeholder for hq".
 * **Warlord Trait:** **Master of the Unseen Blade:** Friendly **Phantom Assassin** units within 6 cm of Nightblade gain **+1 to their Strength** and have a **4+ Invulnerable Save**. Additionally, Nightblade himself cannot be targeted by enemy ranged attacks if he is within 3 cm of a friendly unit.
 
 ### **Void Archmage**
@@ -223,5 +223,5 @@ When he returned, he was no longer the boy they abandoned. Cloaked in prismsteel
 ### **Nightblade**
 Nightblade is the assassin whispered of in hushed tones — a figure who moves like a fracture in reality itself. His strikes are flawless, his silence suffocating, his blade never seen until it is too late. To witness him is to witness inevitability.
 
-Yet his kills are not chaos. They fall in patterns, as though guided by something beyond command — a symmetry invisible to most, but undeniable to those who study long enough. Historians argue whether this is strategy or madness but soldiers who survive his shadow say otherwise: that he spares some, strikes others with unnatural precision, as though bound to an unseen vow.
+Yet his kills are not chaos. They fall in patterns, as though guided by something beyond command — a symmetry invisible to most, but undeniable to those who study long enough. Historians argue whether this is strategy or madness but soldiers who survive his shadow say otherwise: that he spares some, strikes others with unnatural precision, as though bound to a fond memory, clinging to it as both weapon and curse.
 The Void claims him as its perfect weapon. And yet, in the silence after his work is done, there lingers something more - an echo not of darkness, but something the abyss could never forge.
