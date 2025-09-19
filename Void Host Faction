@@ -1,13 +1,11 @@
-Understood. The **Void Negromancer** will now be given an attacking option, and the entire codex will be rewritten to reflect this change.
-
----
-## Faction Lore
+Faction Lore
 
 Forged in the Abyss—not a place, but a living, malevolent consciousness—the Void is a force of silence and corrupted light. Its armies are not trained, but bound, their very existence an extension of its will. The Abyss whispers to its chosen, twisting their bodies and minds until they become perfect vessels for its purpose. These silent legions are a psychological weapon, their very presence a source of dread that can shatter the enemy's will long before their blades clash.
 
 The faction’s signature power, **Abyssal Convergence**, is a manifestation of the Abyss itself, allowing its forces to manipulate reality, teleporting units through the fabric of space to strike with an inevitability that leaves no room for escape.
 
 ---
+
 ## Keywords
 
 * **Caster:** A unit with this keyword can attempt to manifest psychic powers during the Psychic Phase.
@@ -41,6 +39,8 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 ---
 ## Faction Abilities
 
+You begin each game with **3 Command Points (CP)**. You may spend these points to use these unique faction abilities.
+
 * **Twist the Veil (1 CP):** Use this ability at the start of any phase. Choose one friendly unit on the battlefield. That unit gains a **6+ Invulnerable Save** for the rest of the phase.
 * **Echoes of the Abyss (2 CP):** Use this ability during your movement phase. Choose one friendly unit and immediately move it up to 6 cm.
 * **Void Surge (1 CP):** Use this during your charge phase. Choose a friendly unit. It adds **+1** to its Attacks characteristic until the end of the turn.
@@ -54,7 +54,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 30 pts per model
 * **Role:** Infantry
 * **Keywords:** **Core**, **Void**
-* **Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 1, A: 1, Ld: 7, Save: 5+
+* **Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 1, A: 1, Ld: 7, Save: 5+, **OC: 2**
 * **Weapons:** Crossbow (**Assault** 1, 12 cm, S: 3, AP: 0, D: 1), Void Blade (**Melee**, S: 3, AP: 0, D: 1)
 * **Special Rules:** One weapon per phase. **Hold the Line:** +1 Save when within 3 cm of another Voidmarcher. **Echoes in the Dark:** When a friendly unit within 6 cm is destroyed, this unit can make a free 3 cm normal move.
 * **Unit Size:** 5–10, **Army Limit:** Unlimited
@@ -63,7 +63,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 45 pts per model
 * **Role:** Fire Support Infantry
 * **Keywords:** **Core**, **Void**
-* **Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 2, A: 1, Ld: 7, Save: 5+
+* **Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 2, A: 1, Ld: 7, Save: 5+, **OC: 2**
 * **Weapons:** Void Firebreath (**Assault** 3, 12 cm, S: 5, AP: -1, D: 2)
 * **Special Rules:** One weapon per phase. **Fragile:** Cannot reroll to hit in melee.
 * **Unit Size:** 1–3, **Army Limit:** Max 5 models per 1,000 pts
@@ -75,7 +75,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 120 pts per model
 * **Role:** Elite Champion / Heavy Fire Support
 * **Keywords:** **Void**, **Character**
-* **Statline:** M: 5 cm, WS: 4+, BS: 3+, S: 4, T: 4, W: 3, A: 1, Ld: 8, Save: 3+
+* **Statline:** M: 5 cm, WS: 4+, BS: 3+, S: 4, T: 4, W: 3, A: 1, Ld: 8, Save: 3+, **OC: 3**
 * **Weapons:** Twin Voidfire Gatlings (**Assault** 10, 30 cm, S: 4, AP: -1, D: 1), Abyssal Inferno (**Torrent**, 12 cm, S: 6, AP: -2, D: 2)
 * **Special Rules:** One weapon per phase. **Bulwark of the Machine:** If this unit did not move, its Gatlings gain +1 S and Inferno gains +1 AP. **Voidforged:** Ranged weapons can target units in combat, hitting on an unmodified 6.
 * **Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
@@ -84,7 +84,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 90 pts per model
 * **Role:** Elite Melee Specialists
 * **Keywords:** **Void**, **Character**
-* **Statline:** M: 8 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 2, Ld: 8, Save: 4+
+* **Statline:** M: 8 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 2, Ld: 8, Save: 4+, **OC: 2**
 * **Weapons:** Whisper of Dusk (**Melee**, S: 4, AP: -1, D: 2), Ashen Stars (**Assault** 3, 24 cm, S: 4, AP: -1, D: 1)
 * **Special Rules:** One weapon per phase. **Shadow Step:** Move 6 cm ignoring terrain once per turn. **Assassin’s Precision:** Reroll 1s to wound in melee. **Marked for Death:** Gain +1 to hit against a designated target.
 * **Unit Size:** 1–2, **Army Limit:** Max 3 per 1,000 pts
@@ -93,7 +93,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 80 pts per model
 * **Role:** Fast Assault
 * **Keywords:** **Void**
-* **Statline:** M: 12 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 2, A: 1, Ld: 7, Save: 4+
+* **Statline:** M: 12 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 2, A: 1, Ld: 7, Save: 4+, **OC: 1**
 * **Weapons:** Void Rockets (**Assault** 4, 24 cm, S: 4, AP: -1, D: 2), Talons (**Melee fallback**, S: 3, AP: 0, D: 1)
 * **Special Rules:** One weapon per phase.
 * **Unit Size:** 1, **Army Limit:** Max 3 per 1,000 pts
@@ -102,7 +102,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 90 pts per model
 * **Role:** Elite Spellcasters
 * **Keywords:** **Caster**, **Void**
-* **Statline:** M: 5 cm, WS: 5+, BS: 3+, S: 3, T: 3, W: 2, A: 1, Ld: 8, Save: 4+
+* **Statline:** M: 5 cm, WS: 5+, BS: 3+, S: 3, T: 3, W: 2, A: 1, Ld: 8, Save: 4+, **OC: 1**
 * **Psychic Powers:**
     * **Voidbolt:** Casting Value 5. Deals D3 mortal wounds to a target within 24 cm.
     * **Echoing Scream:** Casting Value 6. Select an enemy unit within 9 cm. It must subtract 1 from its Ballistic Skill and Weapon Skill until your next turn.
@@ -114,7 +114,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 120 pts per model
 * **Role:** Elite Anti-Mage
 * **Keywords:** **Void**
-* **Statline:** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 3, A: 2, Ld: 8, Save: 4+
+* **Statline:** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 3, A: 2, Ld: 8, Save: 4+, **OC: 2**
 * **Weapons:** Neural Talons (**Melee**, S: 4, AP: -1, D: 2)
 * **Special Rules:** **Magic Predator:** Enemy units cannot reroll psychic dice within 6 cm. **Neural Disruption:** Failed checks cause D3 mortal wounds.
 * **Unit Size:** 1, **Army Limit:** Max 2 per 1,000 pts
@@ -123,7 +123,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 90 pts per model
 * **Role:** Teleportation Vessels
 * **Keywords:** **Void**
-* **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 3, W: 2, A: 1, Ld: 9, Save: 5+
+* **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 3, W: 2, A: 1, Ld: 9, Save: 5+, **OC: 1**
 * **Weapons:** Portal Shield (**Melee**, S: 3, AP: 0, D: 1)
 * **Special Rules:** **Teleport Anchor:** One friendly unit can teleport to its location once per game. **Ephemeral Vessel:** Cannot be the target of any Blessing or Warlord aura.
 * **Unit Size:** 1–2, **Army Limit:** Max 3 per 1,000 pts
@@ -132,7 +132,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 150 pts per model
 * **Role:** Elite Spellcaster / Resurrector
 * **Keywords:** **Caster**, **Void**
-* **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 4, W: 3, A: 1, Ld: 9, Save: 4+
+* **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 4, W: 3, A: 1, Ld: 9, Save: 4+, **OC: 1**
 * **Weapons:** Void Bolt (**Assault** 1, 24 cm, S: 5, AP: -1, D: 1)
 * **Psychic Powers:**
     * **Abyssal Rebirth:** Casting Value 8. Select a destroyed friendly Core unit. It returns to the battlefield with half of its starting models, placed within 6 cm of this model. This power can only be used once per game.
@@ -144,7 +144,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 300 pts per model
 * **Role:** Heavy Walker / God-Engine
 * **Keywords:** **Void**, **Character**
-* **Statline:** M: 8 cm, WS: 3+, BS: 3+, S: 8, T: 8, W: 12, A: 4, Ld: 10, Save: 2+
+* **Statline:** M: 8 cm, WS: 3+, BS: 3+, S: 8, T: 8, W: 12, A: 4, Ld: 10, Save: 2+, **OC: 5**
 * **Weapons:** Grave-Breaker Gauntlet (**Melee**, S: 10, AP: -3, D: 4). Twin Void Cannons (**Heavy** 6, 30 cm, S: 8, AP: -2, D: 3).
 * **Special Rules:** **Ancient Abyssal Armor:** Reduces all incoming damage by 1. **Unstoppable March:** Can move through and end its move in terrain as if it were not there.
 * **Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
@@ -153,7 +153,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 80 pts per model
 * **Role:** Support Unit
 * **Keywords:** **Void**
-* **Statline:** M: 8 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 2, A: 1, Ld: 9, Save: 5+
+* **Statline:** M: 8 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 2, A: 1, Ld: 9, Save: 5+, **OC: 1**
 * **Weapons:** Shards of Laughter (**Assault** 2, 12 cm, S: 4, AP: -1, D: 1)
 * **Special Rules:** **Mirror of Scorn:** Choose one enemy unit within 6 cm. It subtracts 1 from its Leadership and cannot benefit from auras. **Chorus of Fools:** Choose a friendly unit within 6 cm. It adds 1 to its Leadership and gains a 6+ Invulnerable Save.
 * **Unit Size:** 1, **Army Limit:** Max 2 per 1,000 pts
@@ -165,7 +165,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 250 pts
 * **Role:** Assassin
 * **Keywords:** **Character**, **Void**
-* **Statline:** M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 4, Ld: 9, Save: 2+
+* **Statline:** M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 4, Ld: 9, Save: 2+, **OC: 2**
 * **Weapons:** Whispering Shadow Blade (**Melee**, S: 4, AP: -1, D: 2). Phantom Shuriken (**Assault** 2, 12 cm, S: 3, AP: 0, D: 1)
 * **Special Rules:** **Shadow Step:** Move 6 cm ignoring terrain once per turn. **Marked by Silence:** Enemy units within 6 cm subtract 1 from Leadership. **Assassin’s Precision:** Reroll 1s to wound in melee. **Vow of Silence:** Nominate one enemy character. Nightblade's attacks against that target cannot be saved on an unmodified roll of 2+ or 3+.
 * **Warlord Trait:** **Master of the Unseen Blade:** Friendly **Phantom Assassin** units within 6 cm of Nightblade gain **+1 to their Strength** and have a **4+ Invulnerable Save**. Additionally, Nightblade himself cannot be targeted by enemy ranged attacks if he is within 3 cm of a friendly unit.
@@ -174,7 +174,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 300 pts
 * **Role:** Mage
 * **Keywords:** **Character**, **Caster**, **Void**
-* **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 4, T: 4, W: 8, A: 1, Ld: 10, Save: 2+
+* **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 4, T: 4, W: 8, A: 1, Ld: 10, Save: 2+, **OC: 2**
 * **Weapons:** Abyssal Storm (**Heavy** 3, 30 cm, S: 8, AP: -3, D: 4).
 * **Psychic Powers:**
     * **Voidbolt:** Casting Value 5. Deals D3 mortal wounds to a target within 24 cm.
@@ -187,7 +187,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 280 pts
 * **Role:** Foresight Warlord
 * **Keywords:** **Character**, **Void**
-* **Statline:** M: 8 cm, WS: 5+, BS: 4+, S: 4, T: 4, W: 6, A: 1, Ld: 9, Save: 2+
+* **Statline:** M: 8 cm, WS: 5+, BS: 4+, S: 4, T: 4, W: 6, A: 1, Ld: 9, Save: 2+, **OC: 1**
 * **Weapons:** Unarmed Melee: 1 attack, S: 3, AP: 0, D: 1
 * **Special Rules:** **Shattered Futures:** Reroll enemy dice for one unit within 6 cm per turn. **Precognition:** Declare a move or attack as if it has already happened, immune to reaction effects once per phase. **Fragile Genius:** Weak in melee. **Precognition:** The Null Hour can use this ability once per phase. He forces one enemy unit within 9 cm to reroll all successful hit rolls.
 * **Warlord Trait:** **Shattered Futures:** Once per game, you can force one enemy unit within 12 cm to completely re-roll all of its dice for a single action (e.g., a charge roll, an attack roll, or a save roll).
@@ -196,7 +196,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 * **Cost:** 320 pts
 * **Role:** Rainbow Warlord
 * **Keywords:** **Character**, **Void**
-* **Statline:** M: 8 cm, WS: 2+, BS: 4+, S: 6, T: 5, W: 7, A: 5, Ld: 9, Save: 2+
+* **Statline:** M: 8 cm, WS: 2+, BS: 4+, S: 6, T: 5, W: 7, A: 5, Ld: 9, Save: 2+, **OC: 3**
 * **Weapons:** The Forsaken Branch (**Melee**, S: 6, AP: -2, D: 5).
 * **Special Rules:** **Rainbow Rite:** Once per game, heal 1 wound per friendly unit within 6 cm. **Prismsteel:** Reduces incoming damage by 2 (minimum 1). **Eternal Scorn:** Enemy units must subtract 1 from Leadership when within 6 cm.
 * **Warlord Trait:** **Eternal Scorn:** Friendly **Core** units within 9 cm of The Gaymaster become immune to the **battleshocked** condition. Additionally, once per game, at the start of any phase, The Gaymaster can heal all lost wounds.
