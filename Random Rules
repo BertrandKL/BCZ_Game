@@ -18,7 +18,6 @@ What are the Drawbacks? The biggest drawback is tactical inflexibility. You are 
 
 The Falling Back Rule
 Falling Back is a special type of move that a unit can make during its Movement Phase. It allows a unit that is currently in engagement range of an enemy unit to disengage and move to a safer position.
-
 Here are the rules for a Falling Back move:
 A unit can only fall back if it is currently in engagement range with at least one enemy unit at the start of its Movement Phase.
 The unit must move to a position where it is no longer within engagement range of any enemy unit.
