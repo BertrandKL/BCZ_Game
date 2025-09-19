@@ -15,3 +15,18 @@ Who Can Join? Any unit with the Character keyword (like Nightblade or the Void A
 How do Stats Work? The combined unit moves at the speed of its slowest model. For example, if Nightblade (M: 10 cm) joins a unit of Voidmarchers (M: 6 cm), the entire unit's Movement becomes 6 cm.
 What are the Benefits? The entire combined unit gains the benefit of the character's abilities and auras. If Nightblade joins a unit of Phantom Assassins, the entire unit gains the benefit of his Master of the Unseen Blade Warlord Trait.
 What are the Drawbacks? The biggest drawback is tactical inflexibility. You are combining two units into one high-value target, making them easier for the enemy to eliminate with a single powerful attack. You also lose the ability to have your units in two different places at once, which can cost you objectives.
+
+The Falling Back Rule
+Falling Back is a special type of move that a unit can make during its Movement Phase. It allows a unit that is currently in engagement range of an enemy unit to disengage and move to a safer position.
+
+Here are the rules for a Falling Back move:
+A unit can only fall back if it is currently in engagement range with at least one enemy unit at the start of its Movement Phase.
+The unit must move to a position where it is no longer within engagement range of any enemy unit.
+A unit that falls back can move up to its full Movement characteristic.
+
+Falling Back Restrictions
+A unit that falls back is penalized for retreating. After falling back, that unit cannot:
+Shoot with any of its ranged weapons this turn.
+Declare a charge this turn.
+Move to within engagement range of any enemy unit.
+Note: A unit cannot fall back if it is currently affected by a Battleshock test. Some special rules may allow a unit to ignore these restrictions.
