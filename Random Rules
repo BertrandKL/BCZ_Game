@@ -1,3 +1,11 @@
 The Reserve Rule:
 Entering Reserves: Before the game begins, you can choose to place any of your units into Reserves. These units do not start on the battlefield.
 Arriving from Reserves: At the end of your Movement Phase on turn two or later, you can bring your units in from Reserves. They must be placed on any battlefield edge that is not your opponent's deployment zone. The unit must be placed more than 9 cm away from any enemy model.
+
+Psychic Dice:
+Each time a Caster attempts to cast a Psychic Power, they roll two six-sided dice (2D6).
+The total you get from the sum of those two dice is what you compare to the power's casting value.
+A Void Archmage wants to cast Temporal Echo (casting value 7). He rolls two dice.
+A Voidmage wants to cast Echoing Scream (casting value 6). He also rolls two dice.
+A Void Negromancer wants to cast Abyssal Rebirth (casting value 8). He rolls two dice as well.
+
