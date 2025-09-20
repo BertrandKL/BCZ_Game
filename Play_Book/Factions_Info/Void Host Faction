@@ -73,7 +73,7 @@ MK (Minuscule Knight)
 Cost: 145 pts per model
 Role: Elite Champion / Anti-Tank
 Keywords: Void, Character
-Statline: M: 5 cm, WS: 4+, BS: 3+, S: 4, T: 4, W: 3, A: 1, Ld: 8, Save: 3+, OC: 3
+Statline: M: 5 cm, WS: 4+, BS: 3+, S: 4, T: 4, W: 8, A: 1, Ld: 8, Save: 3+, OC: 3
 Weapons: Void-Breaker Cannon (Heavy 1, 25 cm, S: 12, AP: -4, D: D6+3), Abyssal Mini-Cannons (Heavy 10, 24 cm, S: 5, AP: -1, D: 1)
 Special Rules: Bulwark of the Machine: If this unit did not move, its Cannon gains +1 BS. Voidforged: Ranged weapons can target units in combat, hitting on an unmodified 6.
 
@@ -112,7 +112,7 @@ Unit Size: 1, Army Limit: Max 1 per 1,000 pts
 * **Cost:** 120 pts per model
 * **Role:** Elite Anti-Mage
 * **Keywords:** **Void**
-* **Statline:** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 3, A: 2, Ld: 8, Save: 4+, **OC: 2**
+* **Statline:** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 5, W: 6, A: 2, Ld: 8, Save: 4+, **OC: 2**
 * **Weapons:** Neural Talons (**Melee**, S: 4, AP: -1, D: 2)
 * **Special Rules:** **Magic Predator:** Enemy units cannot reroll psychic dice within 6 cm. **Neural Disruption:** Failed checks cause D3 mortal wounds.
 * **Unit Size:** 1, **Army Limit:** Max 2 per 1,000 pts
@@ -196,7 +196,7 @@ Unit Size: 1, Army Limit: Max 1 per 1,000 pts
 * **Keywords:** **Character**, **Void**, **Warlord**
 * **Statline:** M: 8 cm, WS: 2+, BS: 4+, S: 6, T: 5, W: 7, A: 5, Ld: 9, Save: 2+, **OC: 3**
 * **Weapons:** The Forsaken Branch (**Melee**, S: 6, AP: -2, D: 5).
-* **Special Rules:** **Rainbow Rite:** Once per game, at the end of your Movement Phase, this model can heal all lost wounds. **Prismsteel:** Reduces incoming damage by 1 (minimum 1).
+* **Special Rules:** **Rainbow Rite:** Once per game, at the end of your Movement Phase, this model can heal all lost wounds. **Prismsteel:** Reduces incoming damage by 1 (minimum 1) and has an InvSv of 5+.
 * **Warlord Trait: Eternal Scorn:** Friendly **Core** units within 9 cm of The Gaymaster become immune to the **battleshocked** condition and can reroll all failed wound rolls.
 
 ---
