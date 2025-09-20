@@ -1,12 +1,29 @@
 Faction Lore
-The Lightborne are the first children of the Eternal Core, a sentient star from which all radiant life springs. They are a civilization defined by discipline, artistry, and an unyielding devotion to their purpose: to stand as the unblinking sun against the encroaching darkness of the Void. Their forms are living sculptures of light and metal, each movement a graceful, purposeful dance. They see war not as a brutish clash, but as a final, beautiful act of defiance. Every soldier, from the humblest Solar Sentinel to the colossal Attack Moon, 2is a fragment of the sun's power, a piece of the cosmos fighting to preserve its existence. They do not seek conquest, but to burn away the shadow until only the light remains. Their technology is not built, but grown from the Core's stellar energy, and their psychic powers are not summoned, but sung into existence through a collective harmony of souls.
+The Lightborne are the first children of the Eternal Core, a sentient star from which all radiant life springs. They are a civilization defined by discipline, artistry, and an unyielding devotion to their purpose: to stand as the unblinking sun against the encroaching darkness of the Void. Their forms are living sculptures of light and metal, each movement a graceful, purposeful dance. They see war not as a brutish clash, but as a final, beautiful act of defiance. Every soldier, from the humblest Solar Sentinel to the colossal Attack Moon, is a fragment of the sun's power, a piece of the cosmos fighting to preserve its existence. They do not seek conquest, but to burn away the shadow until only the light remains. Their technology is not built, but grown from the Core's stellar energy, and their psychic powers are not summoned, but sung into existence through a collective harmony of souls.
 
 Abilities
-Solar Advance: After making a Normal Move, a unit with this ability can add +3cm to its move. Costs 2 CP to use.
+Solar Shield Wall: A unit with this ability can add +1 to its Save characteristic against all incoming attacks. Costs 2 CP to use.
 
-Aura of Radiance: All friendly Lightborne Core units within 6cm of a model with this ability add +1 to their Leadership and can re-roll failed Morale tests. Costs 1 CP to use.
+Focused Volley: When a unit with this ability makes a ranged attack, it can re-roll all failed hit rolls. Costs 1 CP to use.
 
-Stellar Aegis: A unit with this ability can re-roll a single failed Save per turn. Costs 1 CP to use.
+Radiant Chorus: A unit with this ability that is within 6cm of a friendly Character can make an additional melee attack with each model. Costs 2 CP to use.
+
+Keywords
+Core: Units that form the backbone of the army.
+
+Elite: Specialized, powerful units with unique roles.
+
+Fly: Units that can ignore terrain and other models when moving.
+
+Caster: Units that can use Psychic Powers.
+
+Vehicle: An armored unit with high Toughness and Wounds.
+
+Artillery: A heavy weapon platform that can fire on targets it cannot see.
+
+Character: A single model that leads a unit or provides special abilities.
+
+Warlord: The designated leader of your army.
 
 Blessings
 A player can choose two of the following Blessings for their army before a game begins. A single unit can only receive one blessing.
@@ -71,6 +88,24 @@ Special Rules: Shield Wall: When this unit is targeted by a ranged attack, add +
 Unit Size: 3-6, Army Limit: Unlimited
 
 Elite Units
+Light-Singer
+
+Cost: 100 pts
+
+Role: Psychic Support
+
+Keywords: Character, Elite, Lightborne, Caster
+
+Statline: M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 4, A: 3, Ld: 9, Save: 3+, OC: 2
+
+Weapons: Light-Spear (Melee, S: 5, AP: -1, D: 2, Ranged Psychic Attack 1, 12 cm, S: 6, AP: -1, D: 1)
+
+Special Rules: Harmonious Command: All Lightborne Core units within 6cm of this model can use the Aura of Radiance ability for free once per battle. Psionic Resonance: Can re-roll one failed psychic test per turn.
+
+Psychic Powers: Mind-Blade: Casting Value 6. Select one enemy unit within 12 cm. That unit suffers D3 mortal wounds.
+
+Unit Size: 1, Army Limit: Max 1 per 1,000 pts
+
 Solar Racers
 
 Cost: 40 pts per model
@@ -93,7 +128,7 @@ Cost: 120 pts per model
 
 Role: Heavy Weapon Platform
 
-Keywords: Elite, Lightborne
+Keywords: Elite, Lightborne, Character
 
 Statline (per model): M: 1 cm, WS: 6+, BS: 3+, S: 8, T: 10, W: 8, A: 1, Ld: 9, Save: 2+, OC: 3
 
@@ -273,6 +308,5 @@ It is a legend whispered only in the deepest archives of the Sun Civilization, a
 
 Yet, this weapon was not a creation of the Lightborne alone. In the eons before the Abyss, the Lightborne made a desperate alliance with a race of enigmatic beings from outside of time and space, known only as the Paradox Faction. These architects of reality were masters of forging impossible, self-aware constructs, and the Attack Moon was their greatest contribution.
 
-When The Starchild brought her people's fight to a world consumed by the Void, she did not fight alone. Deep beneath the surface of the planet, hidden and dormant, she awoke the Attack Moon from its slumber. Its immense power is a last-ditch effort, a divine punishment from the Lightborne for the Void's endless malice—but a punishment brought to life by an even more alien and dangerous hand. Its quiet consciousness holds not a vision of the future, but the strange and inscrutable purpose of its co-creators.
-
+When The Starchild brought her people's fight to a world consumed by the Void, she did not fight alone. Deep beneath the surface of the planet, hidden and dormant, she awoke the Attack Moon from its slumber. Its immense power is a last-ditch effort, a divine punishment from the Lightborne for the Void's endless malice—but a punishment brought to life by an even more alien and dangerous hand. Its quiet consciousness holds not a vision of the future, but the strange and inscrutable purpose of its co-creators
 
