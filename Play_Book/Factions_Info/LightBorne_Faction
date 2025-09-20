@@ -32,9 +32,7 @@ Blessing of the Core: This unit gains a 6+ Invulnerable Save.
 
 Blessing of the Sun: This unit gains Sustained Hits 1 (A hit roll of 6+ scores 1 additional hit).
 
-Blessing of the Dawn: This unit that charges gains +1 to its Strength and Attacks characteristics during that turn.
-
-Blessing of Celestial Sight: This unit that targets an enemy unit within 12cm gains Ignores Cover.
+Blessing of the Dawn: This unit that charges gains +1 to its Strength and Leadership characteristic.
 
 Blessing of the Star-Singer: This unit with the Caster keyword can add +1 to its Psychic Test.
 
@@ -116,7 +114,7 @@ Keywords: Elite, Lightborne, Character
 
 Statline (per model): M: 5 cm, WS: 6+, BS: 3+, S: 8, T: 10, W: 8, A: 1, Ld: 9, Save: 2+, OC: 3
 
-Weapons: Heavy Solar Cannon (Heavy 3, 24 cm, S: 12, AP: -4, D: 4)
+Weapons: Heavy Solar Cannon (Heavy 3, 24 cm, S: 12, AP: -3, D: 3)
 
 Special Rules: Targeting Matrix: This unit can re-roll one failed hit roll per turn.
 
@@ -238,7 +236,7 @@ Special Rules:
 
 Solar Pulse: Once per turn in the Shooting Phase, this model can unleash a bolt of pure energy from her fists. This is treated as a ranged attack (Torrent, 12 cm, S: 8, AP: -2, D: 3).
 
-The Perfected Form: This model has a 5+ Invulnerable Save. In addition, once per battle, she can heal D3 lost wounds.
+The Perfected Form: This model has a 5+ Invulnerable Save.
 
 Warlord Trait:
 
