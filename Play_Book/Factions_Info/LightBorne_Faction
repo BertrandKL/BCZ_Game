@@ -57,7 +57,7 @@ Unit Size: 5-10, Army Limit: Unlimited
 
 Solar Guards
 
-Cost: 25 pts per model
+Cost: 30 pts per model
 
 Role: Infantry
 
@@ -67,25 +67,9 @@ Statline (per model): M: 6 cm, WS: 3+, BS: 5+, S: 5, T: 5, W: 2, A: 3, Ld: 8, Sa
 
 Weapons: Solar Scythe (Melee, S: 6, AP: -2, D: 2)
 
-Special Rules: Aegis Wall: This unit can only be targeted by an enemy unit within 12 cm. Hold the Line: This unit can hold objectives even if they are within engagement range of an enemy unit.
+Special Rules: Aegis Wall: This unit can only be targeted by an enemy unit within 18 cm. Hold the Line: This unit can hold objectives even if they are within engagement range of an enemy unit.
 
 Unit Size: 5-10, Army Limit: Unlimited
-
-Solar Shields
-
-Cost: 30 pts per model
-
-Role: Infantry
-
-Keywords: Core, Lightborne
-
-Statline (per model): M: 5 cm, WS: 5+, BS: 5+, S: 4, T: 5, W: 2, A: 1, Ld: 8, Save: 2+, OC: 2
-
-Weapons: Aegis Shield (Melee, S: 5, AP: -1, D: 1)
-
-Special Rules: Shield Wall: When this unit is targeted by a ranged attack, add +1 to its Save and it gains a 6+ Invulnerable Save. Adamantine Defense: This unit cannot move or charge.
-
-Unit Size: 3-6, Army Limit: Unlimited
 
 Elite Units
 Light-Singer
