@@ -29,3 +29,9 @@ Shoot with any of its ranged weapons this turn.
 Declare a charge this turn.
 Move to within engagement range of any enemy unit.
 Note: A unit cannot fall back if it is currently affected by a Battleshock test. Some special rules may allow a unit to ignore these restrictions.
+
+The Effects of Being Battleshocked
+When a unit is battleshocked, it suffers severe penalties that can make it nearly useless.
+The unit cannot make a charge move this turn.
+It cannot use any of its special rules or abilities.
+Its Objective Control (OC) value is reduced to 0.
