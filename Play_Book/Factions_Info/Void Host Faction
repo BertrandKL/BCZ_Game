@@ -15,6 +15,7 @@ The faction’s signature power, **Abyssal Convergence**, is a manifestation of 
 * **Melee:** A weapon used in close combat.
 * **Core:** A basic unit type that forms the backbone of your army.
 * **Character:** A unique, named unit, often with special abilities.
+* **Warlord:** A unique, named unit that leads your army. Two Warlords cannot form a unit.
 * **Void:** The faction keyword for all units in this codex.
 
 ---
@@ -161,7 +162,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 ### **Nightblade**
 * **Cost:** 250 pts
 * **Role:** Assassin
-* **Keywords:** **Character**, **Void**
+* **Keywords:** **Character**, **Void**, **Warlord**
 * **Statline:** M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 4, Ld: 9, Save: 2+, **OC: 2**
 * **Weapons:** Whispering Shadow Blade (**Melee**, S: 4, AP: -1, D: 2). Phantom Shuriken (**Assault** 2, 12 cm, S: 3, AP: 0, D: 1)
 * **Special Rules:** **Shadow Step:** Move 6 cm ignoring terrain once per turn. **Marked by Silence:** Enemy units within 6 cm subtract 1 from Leadership. **Assassin’s Precision:** Reroll 1s to wound in melee. **Vow of Silence:** Nominate one enemy character. Nightblade's attacks against that target cannot be saved on an unmodified roll of 2+ or 3+. Cannot deliver the finishing blow to The Starchild and The Dawnbreaker.
@@ -170,7 +171,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 ### **Void Archmage**
 * **Cost:** 300 pts
 * **Role:** Mage
-* **Keywords:** **Character**, **Caster**, **Void**
+* **Keywords:** **Character**, **Caster**, **Void**, **Warlord**
 * **Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 4, T: 4, W: 8, A: 1, Ld: 10, Save: 2+, **OC: 2**
 * **Weapons:** Abyssal Storm (**Heavy** 3, 30 cm, S: 8, AP: -3, D: 4).
 * **Psychic Powers:**
@@ -183,7 +184,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 ### **The Null Hour**
 * **Cost:** 280 pts
 * **Role:** Foresight Warlord
-* **Keywords:** **Character**, **Void**
+* **Keywords:** **Character**, **Void**, **Warlord**
 * **Statline:** M: 8 cm, WS: 5+, BS: 4+, S: 4, T: 4, W: 6, A: 1, Ld: 9, Save: 2+, **OC: 1**
 * **Weapons:** Unarmed Melee: 1 attack, S: 3, AP: 0, D: 1
 * **Special Rules:** **Shattered Futures:** Reroll enemy dice for one unit within 6 cm per turn. **Precognition:** Declare a charge or attack that can be done as if it has already happened and immune to any reaction effects once per turn. **Precognition:** The Null Hour can use this ability once per phase. He forces one enemy unit within 9 cm to reroll all successful hit rolls.
@@ -192,7 +193,7 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 ### **The Gaymaster**
 * **Cost:** 320 pts
 * **Role:** Rainbow Warlord
-* **Keywords:** **Character**, **Void**
+* **Keywords:** **Character**, **Void**, **Warlord**
 * **Statline:** M: 8 cm, WS: 2+, BS: 4+, S: 6, T: 5, W: 7, A: 5, Ld: 9, Save: 2+, **OC: 3**
 * **Weapons:** The Forsaken Branch (**Melee**, S: 6, AP: -2, D: 5).
 * **Special Rules:** **Rainbow Rite:** Once per game, at the end of your Movement Phase, this model can heal all lost wounds. **Prismsteel:** Reduces incoming damage by 1 (minimum 1).
