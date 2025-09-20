@@ -69,15 +69,15 @@ You can choose **two** of these blessings to give to any units in your army. Rem
 ---
 ## Elite Units
 
-### **MK (Minuscule Knight)**
-* **Cost:** 120 pts per model
-* **Role:** Elite Champion / Heavy Fire Support
-* **Keywords:** **Void**, **Character**
-* **Statline:** M: 5 cm, WS: 4+, BS: 3+, S: 4, T: 4, W: 3, A: 1, Ld: 8, Save: 3+, **OC: 3**
-* **Weapons:** Twin Voidfire Gatlings (**Assault** 10, 30 cm, S: 4, AP: -1, D: 1), Abyssal Inferno (**Torrent**, 12 cm, S: 6, AP: -2, D: 2)
-* **Special Rules: **Bulwark of the Machine:** If this unit did not move, its Gatlings gain +1 S and Inferno gains +1 AP. **Voidforged:** Ranged weapons can target units in combat, hitting on an unmodified 6.
-* **Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
+MK (Minuscule Knight)
+Cost: 145 pts per model
+Role: Elite Champion / Anti-Tank
+Keywords: Void, Character
+Statline: M: 5 cm, WS: 4+, BS: 3+, S: 4, T: 4, W: 3, A: 1, Ld: 8, Save: 3+, OC: 3
+Weapons: Void-Breaker Cannon (Heavy 1, 25 cm, S: 12, AP: -4, D: D6+3), Abyssal Mini-Cannons (Heavy 10, 24 cm, S: 5, AP: -1, D: 1)
+Special Rules: Bulwark of the Machine: If this unit did not move, its Cannon gains +1 BS. Voidforged: Ranged weapons can target units in combat, hitting on an unmodified 6.
 
+Unit Size: 1, Army Limit: Max 1 per 1,000 pts
 ### **Phantom Assassins**
 * **Cost:** 90 pts per model
 * **Role:** Elite Melee Specialists
