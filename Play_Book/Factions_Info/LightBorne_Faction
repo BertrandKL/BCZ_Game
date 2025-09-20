@@ -1,12 +1,16 @@
 Faction Lore
 The Lightborne are the first children of the Eternal Core, a sentient star from which all radiant life springs. They are a civilization defined by discipline, artistry, and an unyielding devotion to their purpose: to stand as the unblinking sun against the encroaching darkness of the Void. Their forms are living sculptures of light and metal, each movement a graceful, purposeful dance. They see war not as a brutish clash, but as a final, beautiful act of defiance. Every soldier, from the humblest Solar Sentinel to the colossal Attack Moon, is a fragment of the sun's power, a piece of the cosmos fighting to preserve its existence. They do not seek conquest, but to burn away the shadow until only the light remains. Their technology is not built, but grown from the Core's stellar energy, and their psychic powers are not summoned, but sung into existence through a collective harmony of souls.
 
-Abilities
-Solar Shield Wall: A unit with this ability can add +1 to its Save characteristic against all incoming attacks. Costs 2 CP to use.
+Faction Abilities
+Divine Will (1 CP): Use this ability at the start of any phase. Choose one friendly unit on the battlefield. That unit gains a 6+ Invulnerable Save for the rest of the phase.
 
-Focused Volley: When a unit with this ability makes a ranged attack, it can re-roll all failed hit rolls. Costs 1 CP to use.
+Solar Flare (2 CP): Use this ability during your shooting phase. Choose one friendly unit and immediately make an extra shooting attack.
 
-Radiant Chorus: A unit with this ability that is within 6cm of a friendly Character can make an additional melee attack with each model. Costs 2 CP to use.
+Radiant Assault (1 CP): Use this during your charge phase. Choose a friendly unit. It adds +1 to its Attacks characteristic until the end of the turn.
+
+Guiding Light (2 CP): Use this during your opponent's shooting phase. Choose a friendly unit that is being targeted. All incoming attacks against that unit have their damage reduced by 1 (to a minimum of 1).
+
+Aura of Purity (1 CP): Use this ability at the start of any phase. Choose one enemy unit within 12 cm of any friendly Lightborne unit. That enemy unit must subtract 1 from its Leadership until the start of your next turn.
 
 Keywords
 Core: Units that form the backbone of the army.
@@ -25,16 +29,18 @@ Character: A single model that leads a unit or provides special abilities.
 
 Warlord: The designated leader of your army.
 
-Blessings
-A player can choose two of the following Blessings for their army before a game begins. A single unit can only receive one blessing.
+Faction Blessings
+You can choose two of these blessings to give to any units in your army. Remember, a single unit can only receive one blessing.
 
-Blessing of the Core: This unit gains a 6+ Invulnerable Save.
+Blessing of the Core: This unit gains a 6+ Invulnerable Save against all attacks.
 
-Blessing of the Sun: This unit gains Sustained Hits 1 (A hit roll of 6+ scores 1 additional hit).
+Blessing of the Sun: A hit roll of 6+ scores 1 additional hit.
 
-Blessing of the Dawn: This unit that charges gains +1 to its Strength and Leadership characteristic.
+Blessing of the Dawn: When charging, this unit adds +1 to its Strength and Attacks.
 
-Blessing of the Star-Singer: This unit with the Caster keyword can add +1 to its Psychic Test.
+Blessing of the Forge: This unit can reroll a single failed save roll per turn.
+
+Blessing of the Light: This unit can add +1 to its Leadership.
 
 Core Units
 Solar Sentinels
