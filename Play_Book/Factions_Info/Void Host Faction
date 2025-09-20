@@ -249,11 +249,11 @@ Keywords: Character, Void, Warlord
 
 Statline: M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 4, Ld: 9, Save: 2+, OC: 2
 
-Weapons: Whispering Shadow Blade (Melee, S: 4, AP: -1, D: 2). Phantom Shuriken (Assault 2, 12 cm, S: 3, AP: 0, D: 1)
+Weapons: Whispering Shadow Blade (Melee, S: 4, AP: -2, D: 3). Phantom Shuriken (Assault 2, 12 cm, S: 3, AP: -1, D: 1)
 
 Special Rules: Shadow Step: Move 6 cm ignoring terrain once per turn. Marked by Silence: Enemy units within 6 cm subtract 1 from Leadership. Assassin’s Precision: Reroll 1s to wound in melee. Vow of Silence: Nominate one enemy character. Nightblade's attacks against that target ignore cover and gain a +1 to wound.
 
-Warlord Trait: Master of the Unseen Blade: Friendly Phantom Assassin units within 6 cm of Nightblade gain +1 to their Strength and have a 4+ Invulnerable Save. Additionally, Nightblade himself cannot be targeted by enemy ranged attacks if he is within 3 cm of a friendly unit.
+Warlord Trait: Master of the Unseen Blade: Friendly Phantom Assassin units within 6 cm of Nightblade gain +1 to their Strength and have a 4+ Invulnerable Save. Additionally, Nightblade himself cannot be targeted by enemy ranged attacks if he is within 6 cm of a friendly unit.
 
 Void Archmage
 
@@ -284,7 +284,7 @@ Role: Foresight Warlord
 
 Keywords: Character, Void, Warlord
 
-Statline: M: 8 cm, WS: 5+, BS: 4+, S: 4, T: 4, W: 6, A: 1, Ld: 9, Save: 2+, OC: 1
+Statline: M: 8 cm, WS: 5+, BS: 4+, S: 4, T: 4, W: 6, A: 1, Ld: 11, Save: 2+, OC: 1
 
 Weapons: Unarmed Melee: 1 attack, S: 3, AP: 0, D: 1
 
@@ -300,7 +300,7 @@ Role: Rainbow Warlord
 
 Keywords: Character, Void, Warlord
 
-Statline: M: 8 cm, WS: 2+, BS: 4+, S: 6, T: 5, W: 7, A: 5, Ld: 9, Save: 2+, OC: 3
+Statline: M: 8 cm, WS: 2+, BS: 4+, S: 6, T: 5, W: 8, A: 5, Ld: 9, Save: 2+, OC: 3
 
 Weapons: The Forsaken Branch (Melee, S: 6, AP: -2, D: 5).
 
