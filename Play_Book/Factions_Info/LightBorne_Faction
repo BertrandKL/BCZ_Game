@@ -29,6 +29,8 @@ Character: A single model that leads a unit or provides special abilities.
 
 Warlord: The designated leader of your army.
 
+Lightborne: The faction keyword for all units in this codex.
+
 Faction Blessings
 You can choose two of these blessings to give to any units in your army. Remember, a single unit can only receive one blessing.
 
@@ -51,7 +53,7 @@ Role: Infantry
 
 Keywords: Core, Lightborne
 
-Statline (per model): M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 1, A: 2, Ld: 8, Save: 5+, OC: 1
+Statline (per model): M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 1, A: 2, Ld: 8, Save: 5+, OC: 1
 
 Weapons: Plasma Rifle (Rapid Fire 1, 15 cm, S: 5, AP: -1, D: 1), Power Axe (Melee, S: 5, AP: -1, D: 1)
 
@@ -67,7 +69,7 @@ Role: Infantry
 
 Keywords: Core, Lightborne
 
-Statline (per model): M: 6 cm, WS: 3+, BS: 5+, S: 5, T: 4, W: 2, A: 3, Ld: 8, Save: 4+, OC: 1
+Statline (per model): M: 6 cm, WS: 3+, BS: 5+, S: 5, T: 4, W: 1, A: 3, Ld: 8, Save: 4+, OC: 1
 
 Weapons: Solar Scythe (Melee, S: 6, AP: -2, D: 2)
 
@@ -120,7 +122,7 @@ Keywords: Elite, Lightborne, Character
 
 Statline (per model): M: 5 cm, WS: 6+, BS: 3+, S: 8, T: 10, W: 8, A: 1, Ld: 9, Save: 2+, OC: 3
 
-Weapons: Heavy Solar Cannon (Heavy 3, 24 cm, S: 12, AP: -3, D: 3)
+Weapons: Heavy Solar Cannon (Heavy 3, 24 cm, S: 12, AP: -3, D: 2)
 
 Special Rules: Targeting Matrix: This unit can re-roll one failed hit roll per turn.
 
@@ -170,7 +172,8 @@ Statline: M: 8 cm, WS: 5+, BS: 3+, S: 8, T: 9, W: 15, A: 2, Ld: 9, Save: 3+, OC:
 
 Weapons: Twin Heavy Solar Cannons (Heavy 4, 30 cm, S: 10, AP: -3, D: 3), Crushing Fists (Melee, S: 10, AP: -2, D: 4, Clarification: The Colossus' "fists" are not hands, but powerful crushing appendages designed for melee combat.)
 
-Special Rules: Armored Plating: All incoming attacks against this model have their damage reduced by 1 (to a minimum of 1). 
+Special Rules: Armored Plating: All incoming attacks against this model have their damage reduced by 1 (to a minimum of 1).
+
 Unit Size: 1, Army Limit: Max 1 per 1,000 pts
 
 Sunstorm Catapults
@@ -200,29 +203,13 @@ Keywords: Character, Warlord, Caster, Lightborne
 
 Statline: M: 6 cm, WS: 5+, BS: 3+, S: 4, T: 5, W: 8, A: 1, Ld: 10, Save: 2+, OC: 3
 
-Weapons:
+Weapons: Wrath of the Sun (Heavy 1, 30 cm, S: 10, AP: -4, D: 6)
 
-Wrath of the Sun (Heavy 1, 30 cm, S: 10, AP: -4, D: 6)
+Special Rules: Divine Radiance: All friendly Lightborne units within 9 cm of this model add +1 to their Leadership and can reroll hit rolls of 1. Fated Strike: Once per turn, this model can reroll one of its failed to-hit or to-wound rolls.
 
-Special Rules:
+Warlord Trait: The Celestial Conduit: When this model attempts to manifest a Psychic Power, you can add +1 to its Psychic Test. Additionally, this model can attempt to manifest one additional Psychic Power per turn.
 
-Divine Radiance: All friendly Lightborne units within 9 cm of this model add +1 to their Leadership and can reroll hit rolls of 1.
-
-Fated Strike: Once per turn, this model can reroll one of its failed to-hit or to-wound rolls.
-
-Warlord Trait:
-
-The Celestial Conduit: When this model attempts to manifest a Psychic Power, you can add +1 to its Psychic Test. Additionally, this model can attempt to manifest one additional Psychic Power per turn.
-
-Psychic Powers:
-
-Celestial Nova: Casting Value 7. Select one enemy unit within 12 cm. That unit suffers D6 mortal wounds.
-
-Guiding Light: Casting Value 6. Select one friendly unit within 6 cm. That unit adds +1 to its hit rolls until your next turn.
-
-Solar Shield: Casting Value 5. Select this model. It gains a 3+ Invulnerable Save until your next turn.
-
-Cosmic Barrage: Casting Value 10. Select one enemy unit anywhere on the battlefield. That unit suffers 2D6 mortal wounds.
+Psychic Powers: Celestial Nova: Casting Value 7. Select one enemy unit within 12 cm. That unit suffers D6 mortal wounds. Guiding Light: Casting Value 6. Select one friendly unit within 6 cm. That unit adds +1 to its hit rolls until your next turn. Solar Shield: Casting Value 5. Select this model. It gains a 3+ Invulnerable Save until your next turn. Cosmic Barrage: Casting Value 10. Select one enemy unit anywhere on the battlefield. That unit suffers 2D6 mortal wounds.
 
 The Dawnbreaker
 
@@ -250,28 +237,18 @@ Keywords: Character, Warlord, Lightborne
 
 Statline: M: 0 cm, WS: 6+, BS: 2+, S: 10, T: 12, W: 20, A: 0, Ld: 10, Save: 2+, OC: 10
 
-Weapons:
+Weapons: The Solar Annihilator: (Heavy 1, 30 cm, S: 15, AP: -3, D: D3+1).
 
-The Solar Annihilator: (Heavy 1, 30 cm, S: 15, AP: -4, D: 6).
+Special Rules: Immobile Fortress: This model cannot move or charge. Orbital Bombardment: Once per turn, you can select one enemy unit anywhere on the battlefield and roll a dice. On a 4+, that unit suffers D3 mortal wounds. Beacon of Hope: All friendly Lightborne Character units that do not have the Warlord keyword within 6 cm of this model gain a 6+ Invulnerable Save.
 
-Special Rules:
-
-Immobile Fortress: This model cannot move or charge.
-
-Orbital Bombardment: Once per turn, you can select one enemy unit anywhere on the battlefield and roll a dice. On a 4+, that unit suffers D3 mortal wounds.
-
-Beacon of Hope: All friendly Lightborne Character units that do not have the Warlord keyword within 6 cm of this model gain a 6+ Invulnerable Save.
-
-Warlord Trait:
-
-The Unbreakable Core: All friendly Lightborne Core units within 6 cm of this model gain +1 to their Armor Save.
+Warlord Trait: The Unbreakable Core: All friendly Lightborne Core units within 6 cm of this model gain +1 to their Armor Save.
 
 Warlord's Lore
 The Starchild's Lore
 
 The Starchild was chosen by the stars themself, her heart bound to the Eternal Core. With its radiance she bore the gifts of her people — shields of dawn, wings of light, and the forbidden art to stir the hearts of suns. To the Sun Civilization she was both guardian and flame eternal.
 
-The chronicles tell of her greatest trial: the Archmage, once her ally, who sought wisdom beyond light and returned cloaked in Void. His betrayal scarred her people and became the wound remembered in song — the flame and the shadow locked in war across the galaxy. Yet old records note movements too familiar in the enemy’s ranks, a thin blade that slips through the chaos with uncanny precision before vanishing into smoke. Some accounts, dismissed as whispers, even suggest a desperate choice—a pact with the Abyss made not for power, but to protect a fragile hope from a fate worse than silence.
+The chronicles tell of her greatest trial: the Archmage, once her ally, who sought wisdom beyond light and returned cloaked in Void. His betrayal scarred her people and became the wound remembered in song — the flame and the shadow locked in war across the galaxy. Yet old records note movements too familiar in the enemy’s ranks, a thin blade that slips through the chaos with uncanny precision before vanishing into smoke. Some accounts, dismissed as whispers, even suggest a desperate choice—a pact with the Abyss made not for power, but to protect a fragile hope from a fate worse than silence. Now, the Starchild shines brighter than ever — not only as a beacon of her people, but as a reminder: even in endless war, light and shadow are never truly parted.
 
 The Dawnbreaker's Lore
 
@@ -283,5 +260,5 @@ It is a legend whispered only in the deepest archives of the Sun Civilization, a
 
 Yet, this weapon was not a creation of the Lightborne alone. In the eons before the Abyss, the Lightborne made a desperate alliance with a race of enigmatic beings from outside of time and space, known only as the Paradox Faction. These architects of reality were masters of forging impossible, self-aware constructs, and the Attack Moon was their greatest contribution.
 
-When The Starchild brought her people's fight to a world consumed by the Void, she did not fight alone. Deep beneath the surface of the planet, hidden and dormant, she awoke the Attack Moon from its slumber. Its immense power is a last-ditch effort, a divine punishment from the Lightborne for the Void's endless malice—but a punishment brought to life by an even more alien and dangerous hand. Its quiet consciousness holds not a vision of the future, but the strange and inscrutable purpose of its co-creators
+When The Starchild brought her people's fight to a world consumed by the Void, she did not fight alone. Deep beneath the surface of the planet, hidden and dormant, she awoke the Attack Moon from its slumber. Its immense power is a last-ditch effort, a divine punishment from the Lightborne for the Void's endless malice—but a punishment brought to life by an even more alien and dangerous hand. Its quiet consciousness holds not a vision of the future, but the strange and inscrutable purpose of its co-creators.
 
