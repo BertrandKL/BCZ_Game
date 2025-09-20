@@ -226,31 +226,19 @@ Cosmic Barrage: Casting Value 10. Select one enemy unit anywhere on the battlefi
 
 The Dawnbreaker
 
-Cost: 300 pts
+Cost: 280 pts
 
-Role: Lightbringer Warlord
+Role: Warlord
 
-Keywords: Character, Warlord, Lightborne
+Keywords: Character, Warlord
 
-Statline: M: 6 cm, WS: 2+, BS: 4+, S: 5, T: 5, W: 6, A: 5, Ld: 9, Save: 2+, OC: 3
+Statline: M: 6 cm, WS: 2+, BS: 2+, S: 5, T: 5, W: 6, A: 6, Ld: 10, Save: 2+, OC: 3
 
-Weapons:
+Weapons: Luminus Blades (Melee, S: 7, AP: -2, D: 2)
 
-Luminus Blades: (Melee, S: 6, AP: -3, D: 2, Solar Eruption: A hit roll of 6+ causes 1 additional mortal wound).
+Special Rules: Ultimate Life Form: Once per turn, you can choose one of the following modes: Light-Mode (+1 to Strength and Attacks) or Life-Mode (heal D3 wounds).
 
-Special Rules:
-
-Solar Pulse: Once per turn in the Shooting Phase, this model can unleash a bolt of pure energy from her fists. This is treated as a ranged attack (Torrent, 12 cm, S: 8, AP: -2, D: 3).
-
-The Perfected Form: This model has a 5+ Invulnerable Save.
-
-Warlord Trait:
-
-Ultimate Life Form: When making melee attacks, she can choose one of the following abilities:
-
-Light-Mode: Add +2 to her Strength and Attacks characteristic until the end of the phase.
-
-Perfected Blade: Add -1 to the Armor Penetration of her attacks.
+Warlord Trait: The Sun's Command: Once per battle, at the start of your Movement Phase, you can select up to two friendly units within 12 cm of this model. They may immediately make a free normal move of up to 6 cm.
 
 Attack Moon
 
