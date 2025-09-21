@@ -44,3 +44,5 @@ You total the OC characteristic of every model from your army that is within tha
 The player with the highest total OC value within range of the objective controls it at that moment.
 Example: You have 5 Solar Sentinels (OC: 1 each) and 1 Solar Colossus (OC: 6) within 3 cm of an objective. Your total OC is (5 * 1) + 6 = 11. If your opponent only has a unit of 10 Voidmarchers (OC: 1 each) near it, their total is 10. You control the objective because 11 > 10.
 
+CP Economy:
+You start with 0 CP. You gain 1 CP per round, leading to 5 CP by the end of the round if you are playing the gamemode Two Points.
