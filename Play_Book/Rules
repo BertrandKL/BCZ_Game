@@ -35,3 +35,11 @@ When a unit is battleshocked, it suffers severe penalties that can make it nearl
 The unit cannot make a charge move this turn.
 It cannot use any of its special rules or abilities.
 Its Objective Control (OC) value is reduced to 0.
+
+The Core Rule: Objective Control (OC)
+Each model has an Objective Control (OC) characteristic on its datasheet (e.g., OC: 1, OC: 3, OC: 10).
+To control an objective, you must have models from your army within 3 cm of the center of the objective marker.
+You total the OC characteristic of every model from your army that is within that 3 cm range.
+The player with the highest total OC value within range of the objective controls it at that moment.
+Example: You have 5 Solar Sentinels (OC: 1 each) and 1 Solar Colossus (OC: 6) within 3 cm of an objective. Your total OC is (5 * 1) + 6 = 11. If your opponent only has a unit of 10 Voidmarchers (OC: 1 each) near it, their total is 10. You control the objective because 11 > 10.
+
