@@ -34,6 +34,7 @@ The Effects of Being Battleshocked
 When a unit is battleshocked, it suffers severe penalties that can make it nearly useless.
 The unit cannot make a charge move this turn.
 It cannot use any of its special rules or abilities.
+It cannot benefit from blessings, Faction Warcries and Faction Abilities.
 Its Objective Control (OC) value is reduced to 0.
 
 The Core Rule: Objective Control (OC)
