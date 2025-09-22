@@ -1,159 +1,215 @@
-Paradox Codex
+Paradox Faction Codex
 
 Faction Lore
-The entities known as the Paradox Faction do not hail from a world, but from a state of being—a dimension where the fundamental laws of causality, identity, and consequence have collapsed into an infinite, self-referential loop. They are not invaders but corrections, manifestations of reality's immune response to existential contradictions. Their composition is a mystery; they appear as crystalline formations that are both solid and ephemeral, warriors of light that cast no shadow, and angels whose touch brings ruin. They operate on a logic that is incomprehensible to linear minds, where helping and harming are the same action viewed from different temporal perspectives. Their goal is not conquest but calibration, weaving a stable timeline from the fraying threads of possibility torn by the war between Lightborne and Void. To witness them is to witness a walking contradiction, a truth that is a lie, a salvation that is damnation, and an angel that has forever fallen.
+The Paradox Faction exists in the spaces between truth and falsehood, reality and illusion. They are masters of contradiction, wielding the power of the Knot of Eternity to bend causality itself. Their warriors do not simply fight—they rewrite the very nature of battle, making lies into truth and truth into weapons. Born from the spiraling world of Yith, where time coils upon itself, they understand that reality is merely a suggestion to be edited at will. Their technology defies logic, their tactics confound reason, and their very presence on the battlefield makes certainty impossible. They fight not to destroy their enemies, but to prove that victory was always inevitable—even when it wasn't.
 
 Faction Warcry
-Causality Breach: Once per game, at the start of your opponent's turn, you can declare this ability. Immediately after an enemy unit has finished moving, shooting, or charging, you may select that unit. That unit must immediately take a Battleshock test. If failed, the unit's action fails and it is considered to have not made that move, attack, or charge.
+Temporal Paradox: Once per game, at the start of any phase, you can declare this ability. Choose one friendly unit that was destroyed this turn. That unit is immediately restored to the battlefield at full strength, placed anywhere more than 6 cm from enemy units. This unit gains the Never Was rule until the end of the turn (cannot be targeted by enemy abilities or attacks, but also cannot affect the game in any way).
 
 Faction Abilities
-Temporal Shift (1 CP): Use at the start of any phase. Choose one friendly PARADOX unit. That unit can immediately make a Normal Move of up to 3 cm. This does not count as Falling Back if it was within Engagement Range.
-Fateweave (2 CP): Use when a friendly PARADOX unit is targeted by an attack. Force the attacking player to re-roll one hit roll and one wound roll for that attack.
-Paradoxical Charge (1 CP): Use during your Charge phase. Choose a friendly PARADOX unit. Until the end of the turn, that unit can charge even if it Advanced, and you can roll 3D6 for its charge, discarding the lowest result.
-Reality Anchor (2 CP): Use during your opponent's Movement phase. Choose one objective marker. Until the start of your next Command phase, that objective is immune to all other rules and abilities.
-Echo of the Future (3 CP): Use at the start of your Shooting phase. Choose one friendly PARADOX unit that has already shot. That unit can immediately shoot again.
+Reality Glitch (1 CP): Use at the start of any phase. Choose one friendly unit. Until the end of the phase, that unit counts as being in two places at once—it can act from both its current position and any point within 12 cm of its current location.
+Causal Loop (2 CP): Use during your opponent's turn. Choose one enemy unit that just made an attack. That attack never happened—reverse all effects and return the game state to before the attack was declared.
+False Truth (1 CP): Use when an enemy unit declares a charge against one of your units. That unit is actually charging a different friendly unit of your choice within 18 cm instead.
+Temporal Echo (3 CP): Use during your turn. Choose one friendly unit. It can act twice this turn, but the second action must be exactly identical to the first.
+Paradox Field (2 CP): Use at the start of any phase. Choose one terrain feature or objective marker. It doesn't exist this turn, but will return at the end of the turn.
 
-Faction Blessings (Choose two for your army, one per unit)
-Blessing of Chronos: This unit always counts as having Remained Stationary for firing Heavy weapons.
-Blessing of Possibility: Once per turn, when this unit is selected to shoot or fight, you can change one of its weapon’s Damage characteristic to D3 for that phase.
-Blessing of the Weave: This unit has a 5+ Invulnerable save. Each time a model makes a saving throw of 6+, the attacking unit suffers 1 mortal wound.
-Blessing of the Oracle: This unit can never be affected by the Battleshocked condition.
-Blessing of the Mender: Once per battle, at the start of your Command phase, this unit can heal D3 wounds.
+Faction Blessings
+You can choose two of these blessings to give to any units in your army. Remember, a single unit can only receive one blessing.
+Blessing of Uncertainty: When this unit is attacked, roll a D6. On a 5+, the attack was aimed at a different unit (opponent's choice) within 6 cm instead.
+Blessing of Contradiction: This unit can move through solid terrain and other units as if they don't exist, but must end its move in a legal position.
+Blessing of the Impossible: Once per turn, this unit can re-roll any single dice roll (including opponent's rolls that target this unit).
+Blessing of Retroactive Victory: If this unit is destroyed, roll a D6. On a 6, it was never destroyed and remains at 1 wound.
+Blessing of the Maybe: This unit's weapons have a 6+ chance to ignore armor saves entirely, regardless of AP value.
 
 Keywords
-Infantry: Units that move on foot.
-Caster: Units that can use Psychic Powers.
-Fly: Units that can ignore terrain and other models when moving.
-Vehicle: An armored unit with high Toughness and Wounds.
-Character: A single model that leads a unit or provides special abilities.
+Caster: A unit with this keyword can attempt to manifest psychic powers during the Psychic Phase.
+Psychic Power: A special ability that requires a Caster to use. It must be manifested by rolling psychic dice to meet or exceed its casting value.
+Torrent: A weapon with this keyword automatically hits its target.
+Assault: A weapon with this keyword can be fired even if the unit advanced this turn.
+Heavy: A weapon with this keyword can be fired once per turn. If the unit remains stationary, it gains +1 BS and WS this turn.
+Melee: A weapon used in close combat.
+Core: A basic unit type that forms the backbone of your army.
+Character: A unique, named unit, often with special abilities.
 Warlord: The designated leader of your army.
 Paradox: The faction keyword for all units in this codex.
-Temporal: Units with this keyword can use Paradox Faction abilities.
-[PRECISION]: When attacking a unit, you can allocate your attacks to any visible Character model in that unit.
+Mirage: When this unit is targeted, roll a D6. On a 4+, the attack targets a different unit within 6 cm instead.
+Temporal: This unit can act in previous phases—declare actions during deployment that take effect later.
+[CONFUSION]: Enemy units within 6 cm of this unit subtract 1 from hit rolls.
+[MISDIRECTION]: When this unit is attacked, the attacker must roll a D6. On a 4+, they attack themselves instead.
 
 Core Units
-Chronoweavers
-Cost: 24 pts per model
+Paradox Walkers
+Cost: 25 pts per model
 Role: Infantry
-Keywords: Core, Paradox, Temporal
-Statline (per model): M: 6 cm, WS: 5+, BS: 4+, S: 3, T: 3, W: 1, A: 2, Ld: 8, Save: 5+, OC: 1
-Weapons: Temporal Lance (12 cm, Assault 1, S: 4, AP: 0, D: 1), Chrono-blade (Melee, S: 3, AP: 0, D: 1)
-Special Rules: Temporal Echo: When targeted by a ranged attack, subtract 1 from the hit roll. Future Sight: This unit can never be wounded on an unmodified roll of 1-2.
+Keywords: Core, Paradox
+Statline (per model): M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 1, A: 2, Ld: 8, Save: 4+, OC: 1
+Weapons: Reality Rifle (Rapid Fire 1, 18 cm, S: 4, AP: -1, D: 1), Truth Blade (Melee, S: 4, AP: -1, D: 1)
+Special Rules: Quantum Footsteps: After this unit moves, it can immediately make a free 3 cm move in any direction. Collective Uncertainty: While this unit contains 5+ models, enemy units cannot target it with psychic powers.
 Unit Size: 5-10, Army Limit: Unlimited
 
-Reality Spinners
-Cost: 40 pts per model
+Mirage Sentinels
+Cost: 30 pts per model
 Role: Infantry
-Keywords: Core, Paradox, Caster
-Statline (per model): M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 3, W: 1, A: 1, Ld: 8, Save: 5+, OC: 2
-Weapons: Reality Threads (18 cm, Heavy 1, S: 5, AP: -1, D: D3)
-Special Rules: Fateweaver: Once per turn, when this unit manifests a psychic power, select one enemy unit within 18 cm. That unit must subtract 1 from its Save characteristic until your next turn.
-Psychic Powers: Temporal Slip: Casting Value 5. Select one friendly unit within 12 cm. That unit can immediately make a Normal Move of up to 3 cm.
+Keywords: Core, Paradox, Mirage
+Statline (per model): M: 6 cm, WS: 4+, BS: 3+, S: 4, T: 4, W: 1, A: 1, Ld: 8, Save: 5+, OC: 1
+Weapons: Phantom Cannon (Heavy 2, 24 cm, S: 6, AP: -2, D: 2), Void Edge (Melee, S: 4, AP: 0, D: 1)
+Special Rules: Impossible Shot: This unit's ranged weapons can target units that are not in line of sight, and ignore cover. Defensive Paradox: When this unit is charged, roll a D6. On a 4+, the charging unit takes D3 mortal wounds as they charge through a temporal rift.
 Unit Size: 5-10, Army Limit: Unlimited
 
 Elite Units
-Quantum Displacers
-Cost: 55 pts per model
-Role: Fast Attack
-Keywords: Elite, Paradox, Fly, Temporal
-Statline (per model): M: 10 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 2, A: 3, Ld: 9, Save: 4+, OC: 1
-Weapons: Entropy Blasters (18 cm, Assault 2, S: 5, AP: -1, D: 1), Phase Talons (Melee, S: 4, AP: -1, D: 1)
-Special Rules: Quantum Shift: During your Movement phase, this unit can be removed and set up anywhere more than 9 cm from enemy models. Uncertainty Principle: Enemy units targeting this unit subtract 1 from their hit rolls.
+Contradiction Engine
+Cost: 120 pts per model
+Role: Heavy Support
+Keywords: Elite, Paradox, Character
+Statline: M: 5 cm, WS: 6+, BS: 2+, S: 6, T: 7, W: 6, A: 1, Ld: 9, Save: 3+, OC: 3
+Weapons: Impossibility Cannon (Heavy 1, 30 cm, S: 12, AP: -4, D: D6+3)
+Special Rules: Logic Bomb: When this unit shoots, roll a D6 before making hit rolls. On a 1-3, all attacks automatically miss. On a 4-6, all attacks automatically hit and wound. Causal Disruption: Enemy units within 12 cm cannot use special rules that allow re-rolls.
+Unit Size: 1, Army Limit: Max 2 per 1,000 pts
+
+Temporal Assassins
+Cost: 85 pts per model
+Role: Elite Melee Specialists
+Keywords: Elite, Paradox, Character, Temporal
+Statline: M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 3, W: 3, A: 4, Ld: 9, Save: 4+, OC: 2
+Weapons: Paradox Blades (Melee, S: 5, AP: -2, D: 2, Misdirection), Temporal Shuriken (Assault 2, 18 cm, S: 4, AP: -1, D: 1)
+Special Rules: Yesterday's Strike: This unit can declare attacks during the previous turn that take effect during the current melee phase. Assassination Paradox: When this unit destroys an enemy Character, roll a D6. On a 4+, that Character was never deployed—refund its points to the opponent but they cannot be used this game.
+Unit Size: 1-3, Army Limit: Max 3 per 1,000 pts
+
+Reality Weavers
+Cost: 95 pts per model
+Role: Support Casters
+Keywords: Elite, Paradox, Caster, Mirage
+Statline: M: 6 cm, WS: 5+, BS: 4+, S: 3, T: 4, W: 4, A: 2, Ld: 9, Save: 3+, OC: 2
+Psychic Powers:
+* Temporal Shift: Casting Value 6. Move one friendly unit up to 12 cm, ignoring terrain and models.
+* Contradiction Field: Casting Value 7. Choose one enemy unit within 12 cm. Until your next turn, whenever they roll dice, they must use the opposite result (1 becomes 6, 2 becomes 5, etc.).
+* Reality Anchor: Casting Value 5. Choose one friendly unit within 6 cm. It becomes immune to all faction abilities and psychic powers (friendly and enemy) until your next turn.
+Special Rules: Paradox Conduit: When this unit successfully manifests a power, choose one friendly unit within 6 cm. That unit can immediately use any one faction ability for 0 CP.
+Unit Size: 1-2, Army Limit: Max 2 per 1,000 pts
+
+Schrödinger's Warriors
+Cost: 70 pts per model
+Role: Quantum Infantry
+Keywords: Elite, Paradox
+Statline: M: 8 cm, WS: 3+, BS: 3+, S: 4, T: 4, W: 2, A: 3, Ld: 9, Save: 4+, OC: 2
+Weapons: Probability Rifle (Assault 3, 15 cm, S: 4, AP: -1, D: 1), Quantum Blade (Melee, S: 4, AP: -1, D: 1)
+Special Rules: Quantum Superposition: This unit exists in two states simultaneously. At the start of each turn, choose: either it has +1 Toughness and cannot move, OR +2 Movement and -1 Toughness. Observer Effect: When an enemy unit targets this unit, both units take the same damage from the attack.
+Unit Size: 3-6, Army Limit: Max 2 per 1,000 pts
+
+Echo Dancers
+Cost: 65 pts per model
+Role: Elite Fast Attack
+Keywords: Elite, Paradox, Temporal
+Statline: M: 12 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 3, Ld: 8, Save: 4+, OC: 1
+Weapons: Phase Blades (Melee, S: 4, AP: -2, D: 1), Echo Shards (Assault 2, 15 cm, S: 4, AP: -1, D: 1)
+Special Rules: Temporal Echo: When this unit moves, it gains +2 to its Movement characteristic for that move. Dance of Ages: This unit can charge after advancing, and when it charges, it can move through enemy units without stopping.
 Unit Size: 3-6, Army Limit: Max 3 per 1,000 pts
 
-Causality Wardens
+Paradox Sentries
 Cost: 90 pts per model
-Role: Heavy Infantry
-Keywords: Elite, Paradox, Temporal
-Statline (per model): M: 5 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 3, A: 2, Ld: 9, Save: 3+, OC: 2
-Weapons: Paradox Cannon (24 cm, Heavy 2, S: 6, AP: -2, D: D3), Reality Staff (Melee, S: 5, AP: -1, D: 2)
-Special Rules: Anchor of Reality: Friendly PARADOX units within 6 cm automatically pass Battleshock tests. Temporal Correction: Once per turn, re-roll one hit roll or one save roll for this unit.
-Unit Size: 3-5, Army Limit: Max 2 per 1,000 pts
+Role: Elite Defensive Support
+Keywords: Elite, Paradox, Character
+Statline: M: 4 cm, WS: 4+, BS: 3+, S: 5, T: 6, W: 5, A: 2, Ld: 9, Save: 3+, OC: 3
+Weapons: Sentinel Cannon (Heavy 3, 30 cm, S: 7, AP: -2, D: 2), Guardian Blade (Melee, S: 6, AP: -1, D: 2)
+Special Rules: Impossible Defense: Enemy units cannot target friendly units that are closer to this model than they are to the attacking unit. Paradox Shield: Once per turn, when a friendly unit within 6 cm would take damage, this unit can take that damage instead.
+Unit Size: 1, Army Limit: Max 2 per 1,000 pts
 
-The Silent Scream
-Cost: 120 pts per model
-Role: Artillery
-Keywords: Elite, Paradox, Vehicle
-Statline: M: 4 cm, WS: 6+, BS: 3+, S: 6, T: 8, W: 10, A: 0, Ld: 9, Save: 3+, OC: 3
-Weapons: Sonic Disruption Cannon (36 cm, Heavy D6, S: 7, AP: -2, D: 2, [IGNORES COVER])
-Special Rules: Deafening Silence: Enemy units within 12 cm of this model cannot fire Overwatch or use any abilities that trigger on being targeted. Indirect Fire: This unit can target enemies without line of sight.
+Memory Thieves
+Cost: 80 pts per model
+Role: Elite Disruption
+Keywords: Elite, Paradox, Mirage
+Statline: M: 8 cm, WS: 4+, BS: 3+, S: 3, T: 4, W: 3, A: 2, Ld: 9, Save: 4+, OC: 2
+Weapons: Amnesia Ray (Assault 1, 18 cm, S: 5, AP: -1, D: 2), Forgotten Touch (Melee, S: 3, AP: 0, D: 1)
+Special Rules: Steal Memory: When this unit destroys an enemy model, choose one special rule that model had. One friendly Paradox unit within 6 cm gains that rule until the end of the game. Identity Crisis: Enemy Characters within 6 cm cannot use their special rules or Warlord traits.
 Unit Size: 1-2, Army Limit: Max 2 per 1,000 pts
 
-The Unmoving Walker
-Cost: 130 pts per model
-Role: Heavy Support
-Keywords: Elite, Paradox, Vehicle, Temporal
-Statline: M: 8 cm, WS: 5+, BS: 3+, S: 7, T: 8, W: 11, A: 4, Ld: 9, Save: 3+, OC: 4
-Weapons: Flux Cannon (24 cm, Heavy 3, S: 9, AP: -3, D: D3+1), Stable Legs (Melee, S: 7, AP: -1, D: 2)
-Special Rules: Relentless Advance: This model can shoot its Heavy weapons even after Advancing, but you must subtract 1 from the hit rolls. Immutable: This model always has a 6+ Invulnerable save. Each time it makes a saving throw of 6+, the invulnerable save is improved by 1 (to a maximum of 4+) until the end of the phase.
-Unit Size: 1-2, Army Limit: Max 2 per 1,000 pts
+Quantum Lancers
+Cost: 100 pts per model
+Role: Elite Cavalry
+Keywords: Elite, Paradox
+Statline: M: 14 cm, WS: 3+, BS: 4+, S: 5, T: 4, W: 3, A: 4, Ld: 8, Save: 4+, OC: 2
+Weapons: Probability Lance (Melee, S: 6, AP: -2, D: 3), Quantum Bolters (Assault 2, 18 cm, S: 5, AP: -1, D: 1)
+Special Rules: Quantum Charge: When this unit charges, roll a D6. On a 1-2, it moves normally. On a 3-4, it can charge through terrain and models. On a 5-6, it can charge any unit on the battlefield regardless of distance. Superposition Strike: This unit's melee attacks hit on 2+ against units that moved this turn, and on 5+ against units that didn't move.
+Unit Size: 2-4, Army Limit: Max 2 per 1,000 pts
 
-The Kindled Extinguisher
-Cost: 85 pts per model
-Role: Anti-Mage
-Keywords: Elite, Paradox, Caster
-Statline: M: 7 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 4, A: 2, Ld: 9, Save: 4+, OC: 2
-Weapons: Soulfire Lash (12 cm, Pistol 1, S: 5, AP: -2, D: D3), Quenching Blade (Melee, S: 4, AP: -1, D: 2)
-Special Rules: Dampening Aura: While an enemy PSYKER unit is within 12 cm of this model, subtract 2 from its Leadership characteristic. Psychic Siphon: Each time this model slays an enemy PSYKER model, it regains 1 lost wound.
-Unit Size: 1-2, Army Limit: Max 2 per 1,000 pts
-
-The Fate Executioners
-Cost: 110 pts per model
-Role: Elite Melee
-Keywords: Elite, Paradox, Temporal
-Statline (per model): M: 7 cm, WS: 3+, BS: 5+, S: 5, T: 4, W: 3, A: 4, Ld: 9, Save: 4+, OC: 2
-Weapons: Severing Glaive (Melee, S: 6, AP: -2, D: 2, [PRECISION])
-Special Rules: Inevitable Fate: Each time this model makes a charge move, you can select one enemy model within Engagement Range. That model cannot use any rules that would allow it to ignore wounds until the end of the phase.
-Unit Size: 1-3, Army Limit: Max 2 per 1,000 pts
-
-The Peacebringers
-Cost: 140 pts per model
-Role: Elite Infantry
-Keywords: Elite, Paradox, Infantry
-Statline (per model): M: 5 cm, WS: 3+, BS: 3+, S: 4, T: 4, W: 3, A: 3, Ld: 9, Save: 3+, OC: 2
-Weapons: Pacification Field Projector (18 cm, Assault 3, S: 5, AP: -1, D: 1, This weapon always wounds on an unmodified roll of 2+), Obedience Striker (Melee, S: 5, AP: -1, D: 1)
-Special Rules: For Your Own Good: Enemy units within 12cm of any Peacebringers models cannot fire Overwatch or Set to Defend. Cease Your Struggles: Each time this model makes an attack that slays an enemy model, the enemy unit must subtract 2 from its Leadership characteristic for the rest of the battle.
-Unit Size: 3-5, Army Limit: Max 2 per 1,000 pts
+Möbius Walkers
+Cost: 240 pts per model
+Role: Heavy Walker
+Keywords: Elite, Paradox, Character
+Statline: M: 7 cm, WS: 4+, BS: 3+, S: 7, T: 8, W: 10, A: 3, Ld: 10, Save: 2+, OC: 4
+Weapons: Infinite Loop Cannon (Heavy 6, 30 cm, S: 8, AP: -2, D: 3), Causal Claws (Melee, S: 9, AP: -3, D: 3)
+Special Rules: Temporal Loop: At the end of each turn, this unit returns to its position at the start of the turn (but keeps any damage taken). Paradox Engine: Once per turn, when this unit would be destroyed, roll a D6. On a 3+, it instead returns to full wounds but cannot act next turn.
+Unit Size: 1, Army Limit: Max 1 per 1,000 pts
 
 Warlords
+The Truth-Teller
+Cost: 280 pts
+Role: Deception Warlord
+Keywords: Character, Warlord, Caster, Paradox
+Statline: M: 8 cm, WS: 3+, BS: 3+, S: 5, T: 5, W: 7, A: 4, Ld: 10, Save: 2+, OC: 3
+Weapons: The Honest Lie (Melee, S: 6, AP: -3, D: 3, Precision)
+Psychic Powers:
+* Universal Truth: Casting Value 8. Choose one enemy unit within 18 cm. Until the end of the turn, that unit must re-roll all successful hit rolls and successful save rolls.
+* False Prophecy: Casting Value 6. Choose one enemy unit within 12 cm. At the start of each phase this turn, that unit suffers 1 mortal wound.
+Special Rules: Living Paradox: This model has a 5+ invulnerable save that cannot be modified by any means. Additionally, when this model would be destroyed, roll a D6. On a 5+, it is not destroyed and remains at 1 wound. Honest Deception: Enemy models within 9 cm cannot benefit from cover saves, as reality becomes uncertain around her.
+Warlord Trait: Master of Contradictions: Once per turn, you can force any dice roll anywhere on the battlefield to be re-rolled. Additionally, friendly Paradox units within 12 cm gain +1 to their Leadership characteristic.
 
-The Fractured Queen
-Cost: 290 pts
-Role: Unity Through Chaos
-Keywords: Character, Warlord, Caster, Paradox, Temporal
-Statline: M: 6 cm, WS: 3+, BS: 3+, S: 4, T: 5, W: 7, A: 4, Ld: 11, Save: 2+, OC: 4
-Weapons: Crown of Singularity (Melee, S: 5, AP: -3, D: 3), Discordant Hymn (12 cm, Pistol D3, S: 4, AP: -1, D: 1)
-Special Rules: A Tapestry of One: While this model is on the battlefield, all friendly PARADOX units can use her Leadership characteristic for Battleshock tests. All enemy units must subtract 1 from their Leadership. Mandate of Order: Once per turn, when an enemy unit within 18cm uses a Stratagem or faction ability, you can roll a D6. On a 4+, that ability fails and the CP/Resource is spent.
-Warlord Trait: The Beautiful Lie: At the start of your Command Phase, choose one: Until your next Command Phase, all friendly PARADOX units gain a 6+ Invulnerable save, OR all enemy units cannot re-roll any dice.
-Psychic Powers: Cacophony of Unity (CV:6): Select one enemy unit within 18cm. Until your next Psychic phase, that unit cannot benefit from any auras or abilities from its own faction. Harmonious Dissolution (CV:7): Select one friendly PARADOX unit within 12cm and one enemy unit within 18cm. Until your next Psychic phase, each time a model in the friendly unit makes a save, a model in the enemy unit suffers 1 mortal wound on an unmodified roll of 6.
+The Quantum Empress
+Cost: 320 pts
+Role: Temporal Sovereign
+Keywords: Character, Warlord, Paradox, Temporal
+Statline: M: 6 cm, WS: 2+, BS: 2+, S: 6, T: 6, W: 8, A: 5, Ld: 10, Save: 2+, OC: 4
+Weapons: Crown of Hours (Melee, S: 7, AP: -2, D: 4), Scepter of Maybe (Assault 1, 24 cm, S: 10, AP: -4, D: D6)
+Special Rules: Phase Step: This unit can move through terrain and enemy units as if they were not there, but must end its move in a legal position. Reality Anchor: Enemy units within 6 cm of this model cannot use faction abilities.
+Warlord Trait: Empress of When: At the start of the game, secretly choose one turn (between turns 2-4). During that turn, all friendly Paradox units gain +1 to hit and wound rolls. Additionally, once per game during your turn, you can declare a "Temporal Acceleration"—immediately gain 1 additional CP this turn.
 
 The False Oracle
-Cost: 260 pts
-Role: Seer of Futures
-Keywords: Character, Warlord, Caster, Paradox
-Statline: M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 4, W: 5, A: 1, Ld: 10, Save: 2+, OC: 2
-Weapons: Visions of Tomorrow (18 cm, Heavy 1, S: 5, AP: -2, D: D3+1)
-Special Rules: Foresight: Your opponent must declare all charges against this model before making any charge rolls. Probability Manipulation: Once per turn, when a friendly PARADOX unit within 12 cm makes a hit roll, change one hit roll of 1 to a 6.
-Warlord Trait: Eyes of Tomorrow: At the start of each battle round, select one objective marker. Until the end of the round, friendly PARADOX units within 6 cm of it add 1 to their Attacks and Leadership.
-Psychic Powers: Future Sight: Casting Value 5. Select one enemy unit within 24 cm. Until your next turn, that unit cannot benefit from cover. Destiny's Call: Casting Value 7. Select one friendly unit within 6 cm. That unit can immediately shoot or make a Normal Move as if it were the corresponding phase.
+Cost: 250 pts
+Role: Lies and Truth
+Keywords: Character, Warlord, Caster, Paradox, Mirage
+Statline: M: 7 cm, WS: 4+, BS: 2+, S: 4, T: 5, W: 6, A: 3, Ld: 10, Save: 2+, OC: 3
+Weapons: Gospel of Untruths (Heavy 3, 30 cm, S: 8, AP: -3, D: 3), Heretical Touch (Melee, S: 4, AP: -1, D: 2)
+Psychic Powers:
+* Prophetic Vision: Casting Value 7. Look at your opponent's hand/planned actions for next turn. You may change one of their decisions.
+* Mass Delusion: Casting Value 9. All enemy units on the battlefield must pass a Leadership test or become Battleshocked until your next turn.
+Special Rules: Oracle's Word: Once per turn, at the start of any phase, choose one enemy unit within 12 cm and declare what type of action they will take this phase (move, shoot, charge, or psychic). If they take that action, all friendly units within 6 cm gain +1 to hit until end of turn. Sacred Lies: Enemy Caster units within 12 cm subtract 2 from their psychic tests, as their powers are confused by contradictory truths.
+Warlord Trait: Evangelist of Maybe: All friendly Paradox units within 9 cm of this model gain the Mirage keyword. Additionally, once per game, choose one enemy unit within 12 cm. That unit's Objective Control value becomes 0 until the end of the turn.
 
 The Fallen Angel
-Cost: 300 pts
-Role: Divine Paradox
-Keywords: Character, Warlord, Paradox, Fly
-Statline: M: 12 cm, WS: 2+, BS: 2+, S: 5, T: 5, W: 7, A: 5, Ld: 10, Save: 2+, OC: 3
-Weapons: Halos of Penance (18 cm, Assault 3, S: 5, AP: -1, D: 1), Blade of Sorrow (Melee, S: 6, AP: -3, D: 3)
-Special Rules: Divine Torment: Each time this model destroys an enemy unit, all other enemy units within 9 cm must take a Battleshock test. Merciful Agony: Each time this model's attack fails to wound, the target unit suffers 1 mortal wound on an unmodified save roll of 1-3.
-Warlord Trait: Grace of Ruin: While this model is within 9 cm of any enemy units, friendly PARADOX units can charge even if they Advanced and add 1 to their charge rolls.
-Psychic Powers: Healing Anguish: Casting Value 6. Select one friendly unit within 9 cm. That unit regains D3 wounds. For each wound regained, the closest enemy unit suffers 1 mortal wound. Benevolent Smite: Casting Value 6. Select one enemy unit within 12 cm. That unit suffers D3 mortal wounds. For each model slain, the closest friendly unit regains 1 wound.
+Cost: 295 pts
+Role: Corrupted Light
+Keywords: Character, Warlord, Caster, Paradox
+Statline: M: 8 cm, WS: 2+, BS: 3+, S: 5, T: 5, W: 7, A: 4, Ld: 10, Save: 2+, OC: 3
+Weapons: Tainted Radiance (Heavy 2, 24 cm, S: 8, AP: -2, D: 3), Fallen Grace (Melee, S: 6, AP: -2, D: 2)
+Psychic Powers:
+* Corrupted Light: Casting Value 6. Choose one enemy unit within 18 cm. That unit suffers D3 mortal wounds and must subtract 1 from hit rolls until your next turn.
+* False Dawn: Casting Value 7. Choose one friendly unit within 12 cm. That unit gains +1 to all save rolls and can re-roll wound rolls of 1 until your next turn.
+Special Rules: Wings of Contradiction: This model has the Fly keyword and can move over terrain and other models. Apostate Aura: Friendly Paradox units within 6 cm of this model add +1 to their Leadership and gain a 6+ invulnerable save.
+Warlord Trait: Herald of Contradiction: All friendly Paradox units within 9 cm of this model gain +1 to their Leadership and can re-roll failed morale tests. Additionally, once per game, you can choose one enemy unit within 18 cm - that unit must immediately take a Battleshock test.
 
 Warlord's Lore
+The Truth-Teller
+The Truth-Teller speaks only lies, yet every word she utters becomes reality. Born in the moment when the Paradox Faction first gazed upon the Knot of Eternity, she embodies the fundamental contradiction that truth and falsehood are meaningless distinctions. Her weapon, The Honest Lie, cuts through the fabric of certainty itself—each strike doesn't merely wound the body, but wounds the very concept that the target ever existed unchanged.
 
-The Fractured Queen's Lore
-She speaks only of unity, of a glorious future where all beings are woven into a single, perfect consciousness within her. She calls this peace. In reality, it is the ultimate entropy—the end of all individual thought, will, and conflict, not through enlightenment but through absolute, horrifying assimilation. Her form shifts and fractures, a beautiful mosaic of a thousand different species she has absorbed into her collective. She is order so absolute it becomes chaos, a single voice so loud it silences all others. She sees the war between Light and Void as a childish squabble between two flawed concepts that must both be consumed and harmonized into her silent, screaming song. She is the most dangerous kind of monster: one that truly believes it is saving you.
+She claims to have never been born, yet stands before her enemies as proof of her own non-existence. Her followers worship her prophecies, knowing full well that she promises only impossibilities. The greatest paradox of all is that in a universe where she makes lies true, the greatest lie she could tell would be the truth—and thus the truth becomes her most powerful weapon.
 
-The False Oracle's Lore
-Her existence is a lie that tells the truth. She speaks prophecies that are technically accurate but morally monstrous, guiding her followers toward a salvation that looks indistinguishable from damnation. She knew the Attack Moon was necessary eons before the Lightborne conceived of it, and she manipulated their greatest minds into believing it was their own invention. She understands that sometimes a great evil must be built to prevent a greater one from being born. She offers visions of hope to her enemies that lead them into perfect ambushes, and she whispers warnings of despair to her allies that spur them to impossible victories. She is the embodiment of the ends justifying the means, a seer who knows that the only way to save the future is to carefully, deliberately poison the present.
+The Quantum Empress
+The Quantum Empress rules over an empire that exists yesterday, tomorrow, and never. Her coronation occurred in the past tense future, when she simultaneously abdicated her throne to become queen. The crown upon her head was forged from moments that didn't happen, set with jewels of crystallized time that refused to flow.
 
-The Fallen Angel's Lore
-She is the ultimate paradox: a being of breathtaking beauty and compassion whose every action brings inevitable suffering. Her wings are made of solidified starlight, and her voice is a soothing balm to the soul, yet she is the architect of unimaginable pain. She heals her followers by wounding her enemies, and she saves lives by taking them. She fell not from grace, but into a deeper, more terrible understanding of it. She knows that true peace is not the absence of conflict, but a perfect, painful balance where every joy is paid for with an equal measure of sorrow. She fights with a tragic determination, her face often streaked with tears of light as she cuts down her enemies, offering them a silent apology even as she ends their lives. She is an angel who must commit atrocities to prevent a greater evil, forever cursed to bear the weight of her necessary sins. To be saved by her is to be utterly damned, and to be damned by her is to be offered a form of salvation.
+Her subjects remember her reign before it began, serving a monarch who commands through having never given orders. In battle, her enemies face the terrible certainty of her inevitable victory, even as she leads armies that were defeated before the war started. She is the sovereign of contradictions, the empress of paradox, and her kingdom encompasses every moment that could have been, should have been, and absolutely was not.
+
+In the eons before the current war, whispers speak of a desperate alliance between the Paradox and Lightborne factions. When The Starchild sought to create the ultimate weapon against the Void, it was the Quantum Empress who provided the impossible technology—architects of reality working alongside children of light to forge a construct that existed outside time and space. The Attack Moon bears the paradoxical fingerprints of both civilizations, a weapon both created and never made.
+
+The False Oracle
+The False Oracle preaches the gospel of maybe, spreading the holy word that nothing is certain except uncertainty. Her scriptures are written in disappearing ink on pages that exist only when not observed, containing prophecies that come true precisely because they were false.
+
+She gathered her first disciples by promising them exactly what would never come to pass—and delivered everything she said they wouldn't receive. Her miracles are performed by failing spectacularly, her blessings bestowed through curses that don't work. She is beloved by those she has betrayed and feared by those she has never met. Her greatest prophecy speaks of an ending that is also a beginning, a victory achieved through perfect defeat, and a truth so false it becomes more real than reality itself.
+
+The Fallen Angel
+Once, she was among the most radiant of the Lightborne—a being of pure stellar fire who sang the harmonies of creation alongside The Starchild herself. Her wings were wrought from concentrated starlight, her voice could kindle dying suns, and her devotion to the Eternal Core burned brighter than a thousand dawns.
+
+But when the Paradox Faction first revealed the Knot of Eternity and spoke of realities beyond light and shadow, she listened. In the hidden archives of Yith, she discovered that the Core itself was not eternal—that even stars must die, and that light without darkness was merely blindness. The revelation shattered her faith like glass.
+
+Her fall was not into evil, but into truth. She embraced the Paradox, and her radiance became contradiction—light that cast shadows, wings that bore her into darkness, a voice that sang both hope and despair. The Lightborne named her traitor, but she had become something more dangerous: a living proof that their absolute certainty was itself uncertain.
+
+Now she leads those who have seen beyond the binary of light and void, showing them that even angels can choose to fall—and in falling, sometimes find a deeper truth than heaven ever offered.
