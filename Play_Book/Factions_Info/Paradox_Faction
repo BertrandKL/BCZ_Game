@@ -37,6 +37,7 @@ Temporal: This unit can act in previous phases—declare actions during deployme
 [CONFUSION]: Enemy units within 6 cm of this unit subtract 1 from hit rolls.
 [MISDIRECTION]: When this unit is attacked, the attacker must roll a D6. On a 4+, they attack themselves instead.
 Deep Strike: Able to access the reserves.
+Fly: Can move over terrain and other models.
 
 Core Units
 Paradox Walkers
@@ -185,7 +186,7 @@ Weapons: Tainted Radiance (Heavy 2, 24 cm, S: 8, AP: -2, D: 3), Fallen Grace (Me
 Psychic Powers:
 * Corrupted Light: Casting Value 6. Choose one enemy unit within 18 cm. That unit suffers D3 mortal wounds and must subtract 1 from hit rolls until your next turn.
 * False Dawn: Casting Value 7. Choose one friendly unit within 12 cm. That unit gains +1 to all save rolls and can re-roll wound rolls of 1 until your next turn.
-Special Rules: Wings of Contradiction: This model has the Fly keyword and can move over terrain and other models. Apostate Aura: Friendly Paradox units within 6 cm of this model add +1 to their Leadership and gain a 6+ invulnerable save.
+Special Rules: Apostate Aura: Friendly Paradox units within 6 cm of this model add +1 to their Leadership and gain a 6+ invulnerable save.
 Warlord Trait: Herald of Contradiction: All friendly Paradox units within 9 cm of this model gain +1 to their Leadership and can re-roll failed morale tests. Additionally, once per game, you can choose one enemy unit within 18 cm - that unit must immediately take a Battleshock test.
 
 Warlord's Lore
