@@ -33,6 +33,7 @@ Warlord: The designated leader of your army.
 Void: The faction keyword for all units in this codex.
 [PRECISION]: When attacking a unit, you can allocate your attacks to any visible Character model in that unit.
 [DEVESTATING WOUNDS]: An unmodified wound roll of 6 inflicts 1 mortal wound on the target and the attack sequence ends.
+Deep Strike: Able to go into reserves.
 
 Core Units
 Voidmarchers
@@ -66,7 +67,7 @@ Unit Size: 1, Army Limit: Max 1 per 1,000 pts
 Phantom Assassins
 Cost: 70 pts per model
 Role: Elite Melee Specialists
-Keywords: Void, Character
+Keywords: Void, Character, Deep Strike
 Statline: M: 8 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 3, Ld: 8, Save: 4+, OC: 2
 Weapons: Whisper of Dusk (Melee, S: 4, AP: -2, D: 2, Precision), Ashen Stars (Assault 3, 24 cm, S: 4, AP: -1, D: 1)
 Special Rules: Shadow Step: Move 6 cm ignoring terrain once per turn. Assassin's Mark: Once per turn, select one enemy Character or Vehicle model. This model's attacks against that target have the [DEVESTATING WOUNDS] ability and improve the Armour Penetration characteristic of those attacks by 1.
@@ -75,7 +76,7 @@ Unit Size: 1–3, Army Limit: Max 3 per 1,000 pts
 Shadowbird
 Cost: 75 pts per model
 Role: Fast Assault
-Keywords: Void
+Keywords: Void, Deep Strike
 Statline: M: 12 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 3, A: 3, Ld: 7, Save: 4+, OC: 1
 Weapons: Void Rockets (Assault 4, 24 cm, S: 4, AP: -1, D: 2), Talons (Melee, S: 4, AP: -1, D: 2)
 Special Rules: Predator of the Veil: This unit can make a free 6 cm normal move at the end of the opponent's shooting phase if it was targeted by a ranged attack.
@@ -108,7 +109,7 @@ Role: Teleportation Vessels
 Keywords: Void
 Statline: M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 4, W: 4, A: 1, Ld: 9, Save: 5+, OC: 1
 Weapons: Portal Shield (Melee, S: 3, AP: 0, D: 1)
-Special Rules: Teleport Anchor: One friendly unit can teleport to its location once per game. Dimensional Stabilizer: At the end of your Movement Phase, this unit can choose one friendly unit within 6 cm. That unit adds +1 to its Objective Control value until the end of the turn.
+Special Rules: Dimensional Autism: One friendly unit can teleport to its location once per game. Dimensional Stabilizer: At the end of your Movement Phase, this unit can choose one friendly unit within 6 cm. That unit adds +1 to its Objective Control value until the end of the turn.
 Unit Size: 1–2, Army Limit: Max 3 per 1,000 pts
 
 Void Negromancer
@@ -145,7 +146,7 @@ Warlords
 Nightblade
 Cost: 250 pts
 Role: Assassin
-Keywords: Character, Void, Warlord
+Keywords: Character, Void, Warlord, Deep Strike
 Statline: M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 4, Ld: 9, Save: 2+, OC: 2
 Weapons: Whispering Shadow Blade (Melee, S: 4, AP: -2, D: 3, Precision). Phantom Shuriken (Assault 2, 12 cm, S: 3, AP: -1, D: 1)
 Special Rules: Shadow Step: Move 6 cm ignoring terrain once per turn. Marked by Silence: Enemy units within 6 cm subtract 1 from Leadership. Assassin’s Precision: Reroll 1s to wound in melee.
