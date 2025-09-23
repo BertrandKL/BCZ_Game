@@ -34,6 +34,7 @@ Void: The faction keyword for all units in this codex.
 [PRECISION]: When attacking a unit, you can allocate your attacks to any visible Character model in that unit.
 [DEVESTATING WOUNDS]: An unmodified wound roll of 6 inflicts 1 mortal wound on the target and the attack sequence ends.
 Deep Strike: Able to go into reserves.
+Fly: Able to ignore terrain and models when moving.
 
 Core Units
 Voidmarchers
