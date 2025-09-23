@@ -154,7 +154,7 @@ Psychic Powers:
 * Universal Truth: Casting Value 8. Choose one enemy unit within 18 cm. Until the end of the turn, that unit must re-roll all successful hit rolls and successful save rolls.
 * False Prophecy: Casting Value 6. Choose one enemy unit within 12 cm. At the start of each phase this turn, that unit suffers 1 mortal wound.
 Special Rules: Living Paradox: This model has a 5+ invulnerable save that cannot be modified by any means. Additionally, when this model would be destroyed, roll a D6. On a 5+, it is not destroyed and remains at 1 wound. Honest Deception: Enemy models within 9 cm cannot benefit from cover saves, as reality becomes uncertain around her.
-Warlord Trait: Master of Contradictions: Once per turn, you can force any dice roll anywhere on the battlefield to be re-rolled. Additionally, friendly Paradox units within 12 cm gain +1 to their Leadership characteristic.
+Warlord Trait: Master of Contradictions: Once per turn, you can force any dice roll of any friendly unit to be re-rolled. Additionally, friendly Paradox units within 12 cm gain +1 to their Leadership characteristic.
 
 The Quantum Empress
 Cost: 320 pts
@@ -162,7 +162,7 @@ Role: Temporal Sovereign
 Keywords: Character, Warlord, Paradox, Temporal
 Statline: M: 6 cm, WS: 2+, BS: 2+, S: 6, T: 6, W: 8, A: 5, Ld: 10, Save: 2+, OC: 4
 Weapons: Crown of Hours (Melee, S: 7, AP: -2, D: 4), Scepter of Maybe (Assault 1, 24 cm, S: 10, AP: -4, D: D6)
-Special Rules: Phase Step: This unit can move through terrain and enemy units as if they were not there, but must end its move in a legal position. Reality Anchor: Enemy units within 6 cm of this model cannot use faction abilities.
+Special Rules: Phase Step: This unit can move through terrain and enemy units as if they were not there, but must end its move in a legal position. Reality Anchor: Enemy units within 6 cm of this model cannot use faction abilities and benefit from faction blessings.
 Warlord Trait: Empress of When: At the start of the game, secretly choose one turn (between turns 2-4). During that turn, all friendly Paradox units gain +1 to hit and wound rolls. Additionally, once per game during your turn, you can declare a "Temporal Acceleration"—immediately gain 1 additional CP this turn.
 
 The False Oracle
@@ -174,7 +174,7 @@ Weapons: Gospel of Untruths (Heavy 3, 30 cm, S: 8, AP: -3, D: 3), Heretical Touc
 Psychic Powers:
 * Prophetic Vision: Casting Value 7. Look at your opponent's hand/planned actions for next turn. You may change one of their decisions.
 * Mass Delusion: Casting Value 9. All enemy units on the battlefield must pass a Leadership test or become Battleshocked until your next turn.
-Special Rules: Oracle's Word: Once per turn, at the start of any phase, choose one enemy unit within 12 cm and declare what type of action they will take this phase (move, shoot, charge, or psychic). If they take that action, all friendly units within 6 cm gain +1 to hit until end of turn. Sacred Lies: Enemy Caster units within 12 cm subtract 2 from their psychic tests, as their powers are confused by contradictory truths.
+Special Rules: Oracle's Word: Once per turn, choose a unit from 12 cm. That unit has a +1 to hit and can reroll wound rolls of 1 Sacred Lies: Enemy Caster units within 12 cm subtract 2 from their psychic tests, as their powers are confused by contradictory truths.
 Warlord Trait: Evangelist of Maybe: All friendly Paradox units within 9 cm of this model gain the Mirage keyword. Additionally, once per game, choose one enemy unit within 12 cm. That unit's Objective Control value becomes 0 until the end of the turn.
 
 The Fallen Angel
