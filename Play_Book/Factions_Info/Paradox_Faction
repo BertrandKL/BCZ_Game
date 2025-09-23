@@ -36,6 +36,7 @@ Mirage: When this unit is targeted, roll a D6. On a 4+, the attack targets a dif
 Temporal: This unit can act in previous phases—declare actions during deployment that take effect later.
 [CONFUSION]: Enemy units within 6 cm of this unit subtract 1 from hit rolls.
 [MISDIRECTION]: When this unit is attacked, the attacker must roll a D6. On a 4+, they attack themselves instead.
+Deep Strike: Able to access the reserves.
 
 Core Units
 Paradox Walkers
@@ -69,7 +70,7 @@ Unit Size: 1, Army Limit: Max 2 per 1,000 pts
 Temporal Assassins
 Cost: 85 pts per model
 Role: Elite Melee Specialists
-Keywords: Elite, Paradox, Character, Temporal
+Keywords: Elite, Paradox, Character, Temporal, Deep Strike
 Statline: M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 3, W: 3, A: 4, Ld: 9, Save: 4+, OC: 2
 Weapons: Paradox Blades (Melee, S: 5, AP: -2, D: 2, Misdirection), Temporal Shuriken (Assault 2, 18 cm, S: 4, AP: -1, D: 1)
 Special Rules: Yesterday's Strike: This unit can declare attacks during the previous turn that take effect during the current melee phase. Assassination Paradox: When this unit destroys an enemy Character, roll a D6. On a 4+, that Character was never deployed—refund its points to the opponent but they cannot be used this game.
@@ -99,7 +100,7 @@ Unit Size: 3-6, Army Limit: Max 2 per 1,000 pts
 Echo Dancers
 Cost: 65 pts per model
 Role: Elite Fast Attack
-Keywords: Elite, Paradox, Temporal
+Keywords: Elite, Paradox, Temporal, Deep Strike
 Statline: M: 12 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 3, Ld: 8, Save: 4+, OC: 1
 Weapons: Phase Blades (Melee, S: 4, AP: -2, D: 1), Echo Shards (Assault 2, 15 cm, S: 4, AP: -1, D: 1)
 Special Rules: Temporal Echo: When this unit moves, it gains +2 to its Movement characteristic for that move. Dance of Ages: This unit can charge after advancing, and when it charges, it can move through enemy units without stopping.
@@ -117,7 +118,7 @@ Unit Size: 1, Army Limit: Max 2 per 1,000 pts
 Memory Thieves
 Cost: 80 pts per model
 Role: Elite Disruption
-Keywords: Elite, Paradox, Mirage
+Keywords: Elite, Paradox, Mirage, Deep Strike
 Statline: M: 8 cm, WS: 4+, BS: 3+, S: 3, T: 4, W: 3, A: 2, Ld: 9, Save: 4+, OC: 2
 Weapons: Amnesia Ray (Assault 1, 18 cm, S: 5, AP: -1, D: 2), Forgotten Touch (Melee, S: 3, AP: 0, D: 1)
 Special Rules: Steal Memory: When this unit destroys an enemy model, choose one special rule that model had. One friendly Paradox unit within 6 cm gains that rule until the end of the game. Identity Crisis: Enemy Characters within 6 cm cannot use their special rules or Warlord traits.
