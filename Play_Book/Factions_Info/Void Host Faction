@@ -57,12 +57,16 @@ Unit Size: 5–10, Army Limit: Unlimited
 
 Elite Units
 MK (Minuscule Knight)
-Cost: 140 pts per model
+Cost: 180 pts per model
 Role: Elite Champion / Anti-Tank
 Keywords: Void, Character
-Statline: M: 5 cm, WS: 4+, BS: 3+, S: 4, T: 5, W: 8, A: 1, Ld: 8, Save: 3+, OC: 3
-Weapons: Void-Breaker Cannon (Heavy 1, 25 cm, S: 14, AP: -4, D: D6+2), Abyssal Mini-Cannons (Heavy 8, 24 cm, S: 5, AP: -1, D: 1)
-Special Rules: Bulwark of the Machine: If this unit did not move, its Cannon gains +1 BS. Voidforged: Ranged weapons can target units in combat, hitting on an unmodified 6. Void-Hunter Rounds: Each time an attack is made with this model's Void-Breaker Cannon, you can re-roll a wound roll of 1. If the target is a Vehicle or Monster, you can re-roll the wound roll.
+Statline: M: 5 cm, WS: 3+, BS: 2+, S: 5, T: 5, W: 8, A: 2, Ld: 9, Save: 3+, OC: 4
+Weapons: Void-Breaker Cannon (Heavy 1, 30 cm, S: 16, AP: -4, D: D6+3), Abyssal Mini-Cannons (Heavy 10, 24 cm, S: 6, AP: -2, D: 2)
+Special Rules:
+Bulwark of the Machine: If this unit did not move, its Cannon gains +1 BS
+Voidforged: Ranged weapons can target units in combat, hitting on an unmodified 6
+Void-Hunter Rounds: Each time an attack is made with this model's Void-Breaker Cannon, you can re-roll a wound roll of 1. If the target is a Vehicle or Monster, you can re-roll the wound roll
+Tactical Supremacy: Enemy units within 12 cm of this model cannot use Reserves or any special deployment rules
 Unit Size: 1, Army Limit: Max 1 per 1,000 pts
 
 Phantom Assassins
