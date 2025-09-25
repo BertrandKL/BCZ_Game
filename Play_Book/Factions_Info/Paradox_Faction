@@ -166,13 +166,13 @@ Special Rules: Phase Step: This unit can move through terrain and enemy units as
 Warlord Trait: Empress of When: At the start of the game, secretly choose one turn (between turns 2-4). During that turn, all friendly Paradox units gain +1 to hit and wound rolls. Additionally, once per game during your turn, you can declare a "Temporal Acceleration"—immediately gain 1 additional CP this turn.
 
 The False Oracle
-Cost: 250 pts
+Cost: 260 pts
 Role: Lies and Truth
 Keywords: Character, Warlord, Caster, Paradox, Mirage
 Statline: M: 7 cm, WS: 4+, BS: 2+, S: 4, T: 5, W: 6, A: 3, Ld: 10, Save: 2+, OC: 3
 Weapons: Gospel of Untruths (Heavy 3, 30 cm, S: 8, AP: -3, D: 3), Heretical Touch (Melee, S: 4, AP: -1, D: 2)
 Psychic Powers:
-* Prophetic Vision: Casting Value 7. Look at your opponent's hand/planned actions for next turn. You may change one of their decisions.
+* Prophetic Vision: Casting Value 7. Choose an enemy or friendly. If you choose an enemy, the first attack roll of the unit is automatically treated as 1 for this round. If you choose a friendly, the first saving roll is automatically treated as a 6 for this round.
 * Mass Delusion: Casting Value 9. All enemy units on the battlefield must pass a Leadership test or become Battleshocked until your next turn.
 Special Rules: Oracle's Word: Once per turn, choose a unit from 12 cm. That unit has a +1 to hit and can reroll wound rolls of 1 Sacred Lies: Enemy Caster units within 12 cm subtract 2 from their psychic tests, as their powers are confused by contradictory truths.
 Warlord Trait: Evangelist of Maybe: All friendly Paradox units within 9 cm of this model gain the Mirage keyword. Additionally, once per game, choose one enemy unit within 12 cm. That unit's Objective Control value becomes 0 until the end of the turn.
