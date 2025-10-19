@@ -100,12 +100,12 @@ Special Rules: Psychic Conduit: When this unit successfully manifests a psychic 
 Unit Size: 1–2, Army Limit: Max 3 per 1,000 pts
 
 Psychophage
-Cost: 115 pts per model
-Role: Elite Anti-Mage
+Cost: 125 pts
+Role: Anti-Psyker Predator
 Keywords: Void
-Statline: M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 5, W: 6, A: 2, Ld: 8, Save: 4+, OC: 2
-Weapons: Neural Talons (Melee, S: 4, AP: -1, D: 2)
-Special Rules: Magic Predator: Enemy units cannot reroll psychic dice within 6 cm. Neural Disruption: Failed psychic tests by enemy units within 12 cm cause D3 mortal wounds to that unit.
+Statline: M: 8 cm, WS: 3+, BS: 4+, S: 5, T: 5, W: 7, A: 3, Ld: 8, Save: 4+, OC: 2
+Weapons: Neural Talons (Melee, S: 5, AP: -2, D: 2), Mind Lash (Assault 3, 12 cm, S: 4, AP: -1, D: 1)
+Special Rules: Psychic Predator: Enemy Caster units within 12 cm of this model must roll 3D6 for psychic tests and discard the highest die. Additionally, enemy Casters within 6 cm cannot re-roll any psychic dice. Psychic Consumption: Each time an enemy unit within 12 cm fails a psychic test, this model immediately heals D3 wounds. If this model is already at full wounds, it gains +1 Attack (maximum +3) until the end of the battle. Null Aura: Friendly units within 6 cm of this model gain a 5+ invulnerable save against mortal wounds caused by psychic powers. Drawn to Magic: When an enemy Caster successfully manifests a psychic power within 18 cm of this model, this model can immediately move up to 6 cm toward that Caster (even during the enemy's turn).
 Unit Size: 1, Army Limit: Max 2 per 1,000 pts
 
 Dimension Holders
@@ -149,13 +149,13 @@ Unit Size: 1, Army Limit: Max 2 per 1,000 pts
 
 Warlords
 Nightblade
-Cost: 250 pts
-Role: Assassin
-Keywords: Character, Void, Warlord, Deep Strike
-Statline: M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 4, Ld: 9, Save: 2+, OC: 2
-Weapons: Whispering Shadow Blade (Melee, S: 4, AP: -2, D: 3, Precision). Phantom Shuriken (Assault 2, 12 cm, S: 3, AP: -1, D: 1)
-Special Rules: Shadow Step: Move 6 cm ignoring terrain once per turn. Marked by Silence: Enemy units within 6 cm subtract 1 from Leadership. Assassin’s Precision: Reroll 1s to wound in melee.
-Warlord Trait: Master of the Unseen Blade: Friendly Phantom Assassin units within 6 cm of Nightblade gain +1 to their Strength and have a 4+ Invulnerable Save. Additionally, Nightblade himself cannot be targeted by enemy ranged attacks if he is within 6 cm of a friendly unit. If his target is battleshocked, he may reroll to hit in melee.
+Cost: 255 pts
+Role: Precision Assassin
+Keywords: Character, Void, Warlord
+Statline: M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 5, Ld: 9, Save: 2+, OC: 2
+Weapons: Whispering Shadow Blade (Melee, S: 4, AP: -3, D: 3), Phantom Shuriken (Assault 2, 12 cm, S: 3, AP: -1, D: 1)
+Special Rules: Death Mark: At the start of the battle, after both sides have deployed, choose one enemy Character, Monster, or Vehicle. All of Nightblade's attacks against that target automatically wound on unmodified hit rolls of 4+, and improve the AP of those attacks by 1. Shadow Infiltration: This model can be placed into Reserves for free (does not count toward the 2 unit Reserve limit). When arriving from Reserves, he can be placed anywhere more than 6 cm from enemies and can charge on the same turn. Assassination Protocol: If this model destroys an enemy Character in melee combat, he immediately gains the following benefits until the end of the battle: Can re-roll all failed hit rolls, Gains +1 Attack, Cannot be targeted by ranged attacks unless he is the closest visible target Marked by Silence: Enemy units within 6 cm subtract 1 from Leadership.
+Warlord Trait: Master of the Unseen Blade - Friendly Phantom Assassin units within 6 cm of Nightblade gain +1 to their Strength and have a 4+ Invulnerable Save. Additionally, Nightblade himself gains the following: if his Death Mark target is Battleshocked, he can re-roll all failed hit rolls against that target and his Whispering Shadow Blade becomes Damage 4 instead of Damage 3.
 
 Void Archmage
 Cost: 310 pts
@@ -168,22 +168,21 @@ Special Rules: Supreme Channeler: This model can attempt to manifest up to 4 psy
 Warlord Trait: Echo of the Abyss - All friendly Void units within 14 cm of this model re-roll failed hit rolls of 1. Additionally, once per turn, you can allow one friendly Void Caster within 9 cm to manifest one additional psychic power this turn (they can manifest 2 instead of 1, or 3 instead of 2, etc).
 
 The Null Hour
-Cost: 275 pts
-Role: Foresight Warlord
+Cost: 280 pts
+Role: Foresight Warlord / Tactical Manipulator
 Keywords: Character, Void, Warlord
-Statline: M: 8 cm, WS: 5+, BS: 2+, S: 4, T: 4, W: 6, A: 2, Ld: 10, Save: 2+, OC: 1
-Weapons: Hourglass of Silence: (20 cm, S: 6, AP: -1, D: 2)
-Special Rules: Shattered Futures: Once per turn, select one enemy unit within 6 cm. You can force that unit to re-roll one hit, wound, or save roll. Precognition: Once per phase, select one enemy unit within 9 cm. That unit must re-roll all successful hit rolls until the end of the phase.
-Warlord Trait: Temporal Distortion: At the start of each battle round, you can select one enemy unit anywhere on the battlefield. That unit must subtract 1 from its Movement and its Attacks characteristic for the duration of the battle round. This ability cannot stack.
+Statline: M: 8 cm, WS: 5+, BS: 4+, S: 4, T: 4, W: 6, A: 1, Ld: 10, Save: 2+, OC: 1
+Weapons: Temporal Blade (Melee, S: 4, AP: -1, D: 2), Hourglass of Silence (Assault 3, 18 cm, S: 5, AP: 0, D: 1)
+Special Rules: Shattered Futures: Once per turn, select one enemy unit within 6 cm. You can force that unit to re-roll one hit, wound, or save roll. Inevitable Positioning: At the start of your Movement Phase, you can choose one friendly Void unit within 12 cm. That unit can immediately make a free 6 cm normal move. This does not count as their normal move for the turn. Foreseen Strike: Once per turn, select one friendly Void unit within 12 cm that has not yet acted this turn. That unit can act as if it were in a different phase - they can shoot during the movement phase, charge during the shooting phase, or fight during the shooting phase (resolve immediately, then continue the current phase normally).
+Warlord Trait: Temporal Distortion - At the start of each battle round, you can select one enemy unit anywhere on the battlefield. That unit must subtract 1 from its Movement and its Attacks characteristic for the duration of the battle round. Additionally, once per battle, you can activate this ability on all enemy units within 18 cm of The Null Hour instead of just one unit.
 
 The Dark Paladin:
-Cost: 285 pts
-Role: Tank Warlord
+Cost: 290 pts
+Role: Vengeful Protector
 Keywords: Character, Void, Warlord
-Statline: M: 5 cm, WS: 3+, BS: 5+, S: 5, T: 6, W: 10, A: 3, Ld: 10, Save: 2+, OC: 4
+Statline: M: 5 cm, WS: 3+, BS: 5+, S: 5, T: 6, W: 10, A: 4, Ld: 10, Save: 2+, OC: 4
 Weapons: Void Shield Bash (Melee, S: 6, AP: -1, D: 2), Darkness Spear (Melee, S: 5, AP: -2, D: 2)
-Special Rules: Aegis of the Void: This model has a 4+ invulnerable save. Protector's Resolve: Friendly Void units within 6 cm of this model gain +1 to their Leadership and can re-roll failed save rolls of 1.
-Warlord Trait: Guardian of Shadows: All friendly Core units within 9 cm of The Dark Paladin gain +1 to their Armor Save and become immune to the battleshocked condition. Additionally, once per game, this model can absorb all damage dealt to a friendly unit within 6 cm, taking it instead (this cannot be prevented or reduced).
+Special Rules: Aegis of the Void: This model has a 4+ invulnerable save. Vengeful Bulwark: Each time a friendly Void unit within 6 cm of this model is targeted by an attack (ranged or melee), after the attacking unit has finished all its attacks, this model can immediately move up to 6 cm toward that attacking unit. If this movement brings this model into melee range of the attacker, this model can immediately make D3 attacks with Void Shield Bash against that unit. Immovable Guardian: While this model is within 3 cm of an objective marker, it cannot be forced to move or Fall Back by any means, gains +1 Toughness, and enemy units within 6 cm cannot score that objective. Retribution Counter: Each time a friendly Void Core unit within 6 cm is destroyed, this model gains +1 Attack and +1 Strength (maximum +3 each) until the end of the battle. Warlord Trait: Guardian of Shadows - All friendly Core units within 9 cm of The Dark Paladin gain +1 to their Armor Save and become immune to the Battleshocked condition. Additionally, once per battle, when a friendly unit within 6 cm would be destroyed, this model can declare "Absolute Protection" - that unit is not destroyed and remains at 1 wound, but this model immediately suffers D6 mortal wounds.
 
 Warlord's Lore
 Void Archmage
