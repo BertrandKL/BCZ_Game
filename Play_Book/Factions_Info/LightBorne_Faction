@@ -74,13 +74,15 @@ Special Rules: I AM SPEED: When this unit makes a Normal Move, it can move an ad
 Unit Size: 1-3, Army Limit: Max 3 per 1,000 pts
 
 Sunforged Vindicators
-Cost: 135 pts per model
-Role: Heavy Fire Support
+Cost: 145 pts (+10pts)
+Role: Siege Artillery
 Keywords: Elite, Lightborne, Character
-Statline (per model): M: 5 cm, WS: 6+, BS: 3+, S: 8, T: 10, W: 8, A: 1, Ld: 9, Save: 2+, OC: 3
+Statline: M: 5 cm, WS: 6+, BS: 3+, S: 8, T: 10, W: 8, A: 1, Ld: 9, Save: 2+, OC: 3
 Weapons: Heavy Solar Cannon (Heavy 3, 24 cm, S: 14, AP: -4, D: D3+3)
-Special Rules: Siege Protocols: This model's Heavy Solar Cannon can only be fired if it did not make a Normal Move or Fall Back this turn. If it did not move, add 1 to the Damage characteristic of that weapon.
-Unit Size: 1-2, Army Limit: Max 2 per 1,000 pts
+Special Rules:
+Siege Protocols: This model can only fire its Heavy Solar Cannon if it did not make a Normal Move, Advance, or Fall Back this turn. If this model remained stationary: Add +1 to hit rolls with Heavy Solar Cannon, Add +1 to the Damage characteristic, This model can fire its Heavy Solar Cannon twice in the Shooting phase, Enemy units cannot benefit from cover against this model's attacks
+Structural Integrity: This model reduces all incoming damage by 1 (to a minimum of 1).
+Unit Size: 1-3, Army Limit: Max 2 per 1,000 pts
 
 Starwing Interceptors
 Cost: 45 pts per model
@@ -101,13 +103,8 @@ Special Rules: Focused Barrage: Each time this model makes a ranged attack, you 
 Unit Size: 1, Army Limit: Max 2 per 1,000 pts
 
 The Solar Colossus
-Cost: 250 pts
-Role: God-Engine
-Keywords: Lightborne
-Statline: M: 8 cm, WS: 5+, BS: 3+, S: 8, T: 9, W: 14, A: 2, Ld: 9, Save: 3+, OC: 6
-Weapons: Twin Heavy Solar Cannons (Heavy 4, 30 cm, S: 10, AP: -3, D: 3), Crushing Fists (Melee, S: 10, AP: -2, D: 4)
-Special Rules: Armored Plating: All incoming attacks against this model have their damage reduced by 1 (to a minimum of 1).
-Unit Size: 1, Army Limit: Max 1 per 1,000 pts
+
+
 
 Sunstorm Catapults
 Cost: 140 pts per model
@@ -129,14 +126,14 @@ Special Rules: Divine Radiance: All friendly Lightborne units within 9 cm of thi
 Warlord Trait: The Celestial Conduit: When this model attempts to manifest a Psychic Power, you can add +1 to its Psychic Test. Additionally, this model can attempt to manifest one additional Psychic Power per turn.
 Psychic Powers: Celestial Nova: Casting Value 7. Select one enemy unit within 12 cm. That unit suffers D6 mortal wounds. Guiding Light: Casting Value 6. Select one friendly unit within 6 cm. That unit adds +1 to its hit rolls until your next turn. Solar Block: Casting Value 5. Select this model. It gains a 3+ Invulnerable Save until your next turn. Cosmic Barrage: Casting Value 10. Select one enemy unit anywhere on the battlefield. That unit suffers 2D6 mortal wounds.
 
-The Dawnbreaker
-Cost: 270 pts
-Role: Warlord
+Dawnbreaker
+Cost: 285 pts
+Role: Perfect Warrior
 Keywords: Character, Warlord, Lightborne
-Statline: M: 6 cm, WS: 2+, BS: 2+, S: 5, T: 6, W: 6, A: 6, Ld: 10, Save: 2+, OC: 3
+Statline: M: 6 cm, WS: 2+, BS: 2+, S: 5, T: 5, W: 6, A: 6, Ld: 10, Save: 2+, OC: 3
 Weapons: Luminus Blades (Melee, S: 7, AP: -2, D: 2)
-Special Rules: Ultimate Life Form: Once per turn, you can choose one of the following modes: Light-Mode (+1 to Strength and Attacks) or Life-Mode (heal D3 wounds). Unbreakable Will: This model is always considered to have passed its Battleshock test. In addition, while this model is within 6 cm of a friendly objective marker, enemy units cannot target it with ranged attacks unless it is the closest eligible target.
-Warlord Trait: The Sun's Command: Once per battle, at the start of your Movement Phase, you can select up to two friendly units within 12 cm of this model. They may immediately make a free normal move of up to 6 cm.
+Special Rules: Shining Discipline: When an enemy model targets this model with a melee attack, you can force them to re-roll one successful hit roll. If the re-roll misses, this model immediately makes one counter-attack with Luminus Blades against that model before any other attacks are resolved. Brilliant Bone Blade: Once per battle, during the Fight phase, this model can make one special attack. If this attack hits, it automatically wounds and the target cannot make save rolls of any kind. This attack has D6 damage. Mode: Radiant Flow: At the start of each Fight phase, choose one mode: Light Slip: This model gains +3 to Movement and can move through enemy models. Additionally, add +2 to Attacks. Ultimate Being: This model gains +2 to Strength and Toughness. Additionally, enemy models in base contact with this model subtract 1 from their hit rolls.
+Warlord Trait: Perfected Form - Once per battle, at the start of any turn, you can activate this trait. Until the end of the turn, this model can fight twice in the Fight phase, can move twice in the Movement phase, and automatically passes all saving throws on rolls of 4+.
 
 Attack Moon
 Cost: 450 pts
