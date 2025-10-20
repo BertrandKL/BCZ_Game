@@ -203,7 +203,7 @@ You can choose two of these blessings to give to any units in your army. Remembe
 - **Voidbolt:** Casting Value 5. Deals D3 mortal wounds to a target within 24 cm. 
 - **Unraveling Curse:** Casting Value 7. Choose one enemy unit within 18 cm. Until your next turn, that unit must re-roll all successful save rolls and subtract 2 from their Leadership. 
 - **Void Conduit:** Casting Value 6. All friendly Void units within 12 cm gain +1 Strength until your next turn. 
-- **Void Oblivion:** Casting Value 10. Can only be used from Turn 2 onwards. Choose one point within 24 cm. All units (friend or foe) within 6 cm of that point suffer 2D6 mortal wounds. The Void Archmage can choose to overcharge this power - if he does, increase the range to 30 cm and the radius to 9 cm, but this model immediately suffers 2D6 mortal wounds after resolving the attack. Once per battle.
+- **Void Oblivion:** Casting Value 10. Can only be used from Turn 2 onwards. Choose one point within 24 cm and line of sight. All units (friend or foe) within 6 cm of that point suffer 2D6 mortal wounds. The Void Archmage can choose to overcharge this power - if he does, increase the range to 30 cm and the radius to 9 cm, but this model immediately suffers D6 mortal wounds after resolving the attack. Once per battle.
 **Special Rules:** 
 - Supreme Channeler: This model can attempt to manifest up to 4 psychic powers per turn (instead of the normal limit). However, for each power after the second, add +1 to the casting value required. 
 - Master of the Void: Friendly Caster units within 9 cm can reroll one psychic die when manifesting. 
