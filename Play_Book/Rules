@@ -727,12 +727,13 @@ Let's walk through a complete attack from start to finish:
 - Characters joined to units use the Unit Leaders rule (see below)
 
 ### Unit Leaders (Characters Joining Units)
-- At deployment, Character can join a unit with same faction keyword
+- At deployment, Character can join a unit with same faction keyword (1 character, 1 unit)
+- Units like VEHICLES and GOD-ENGINES can't be combined into a unit.
 - They move as one unit (use slowest Movement)
 - They count as one unit for targeting
 - Both benefit from each other's abilities
 - When taking casualties, controlling player chooses which models are removed
-- If Character is removed, they cannot rejoin
+- Units cannot be seperated once chosen as one.
 
 ---
 
