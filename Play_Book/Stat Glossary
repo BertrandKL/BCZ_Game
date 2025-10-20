@@ -34,7 +34,7 @@ This section explains the meaning of each statistic on a unit's profile card, fr
 These keywords describe how a weapon functions.
 
 ### Pistol X
-This weapon can be fired even if the unit it is equipped with is within Engagement Range of an enemy unit. If it is fired, it can only target an enemy unit that it is within Engagement Range of. When a model equipped with both a Pistol and another type of weapon (e.g., a Rapid Fire weapon) shoots, it can either shoot with its Pistol(s) or its other weapons. X is the number of attacks it makes.
+This weapon can be fired even if the unit it is equipped with is within Engagement Range of an enemy unit.  X is the number of attacks it makes.
 
 *Example: A Pistol 1 weapon makes 1 attack. A Pistol D3 weapon rolls one D6 to determine the number of attacks: 1-2 = 1 attack, 3-4 = 2 attacks, 5-6 = 3 attacks.*
 
