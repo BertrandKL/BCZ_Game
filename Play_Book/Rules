@@ -341,7 +341,7 @@ Your units fire their ranged weapons at enemy units.
 
 **STEP 1: Choose a Shooting Unit**
 Pick one of your units that hasn't shot yet this phase.
-
+Note: You can split a units attacks into multiple UNITS (eg: 3 Voidmarchers target the Solar Sentinels Unit, while the other two attack the Dawnbreaker)
 **STEP 2: Check if Unit Can Shoot**
 A unit CANNOT shoot if:
 - It Advanced this turn
