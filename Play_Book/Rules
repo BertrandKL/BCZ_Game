@@ -487,6 +487,7 @@ The target unit may fire Overwatch:
 - Hit rolls of 6 (unmodified) hit, all others miss
 - Resolve these attacks now, casualties are removed
 - If your entire unit is destroyed, charge fails
+- Overwatch cannot be used if Advanced, Fell Back or Battleshocked
 
 **STEP 5: Roll Charge Distance**
 - Roll 2D6
