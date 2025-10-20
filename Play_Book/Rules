@@ -354,7 +354,7 @@ Pick an enemy unit to shoot at.
 **STEP 4: Check Line of Sight**
 - Draw an imaginary line from your unit to the target
 - If you can see ANY part of an enemy model, you have line of sight
-- If terrain completely blocks the view, no line of sight
+- If terrain or models completely blocks the view, no line of sight
 - Some weapons (Indirect Fire) can shoot without line of sight
 
 **STEP 5: Check Range**
