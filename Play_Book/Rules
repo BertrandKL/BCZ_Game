@@ -1,48 +1,801 @@
-The Reserve Rule:
-Entering Reserves: Before the game begins, you can choose to place TWO of your units into Reserves. These units do not start on the battlefield. These units must have Deep Strike.
-Arriving from Reserves: At the end of your Movement Phase on turn two or later, you can bring your units in from Reserves. They must be placed on any battlefield edge that is not your opponent's deployment zone. The unit must be placed more than 9 cm away from any enemy model.
+# Complete Playbook: How to Play
 
-Psychic Dice:
-Each time a Caster attempts to cast a Psychic Power, they roll two six-sided dice (2D6).
-The total you get from the sum of those two dice is what you compare to the power's casting value.
-A Void Archmage wants to cast Temporal Echo (casting value 7). He rolls two dice.
-A Voidmage wants to cast Echoing Scream (casting value 6). He also rolls two dice.
-A Void Negromancer wants to cast Abyssal Rebirth (casting value 8). He rolls two dice as well.
+## Table of Contents
+1. What You Need to Play
+2. Building Your Army
+3. Setting Up the Battlefield
+4. Game Structure Overview
+5. Detailed Phase-by-Phase Guide
+6. Combat Resolution Step-by-Step
+7. Special Rules and Interactions
+8. Common Scenarios and Examples
+9. Quick Reference Tables
 
-The Unit Leaders Rule:
-A unit with the Character keyword can join a friendly unit that shares the same FACTION keyword at the deployment phase. Once they join, they function as a single unit with specific rules.
-Who Can Join? Any unit with the Character keyword (like Nightblade or the Void Archmage) can join another friendly unit. They cannot join a vehicle or a monstrous creature like the Dreadnaut.
-How do Stats Work? The combined unit moves at the speed of its slowest model. For example, if Nightblade (M: 10 cm) joins a unit of Voidmarchers (M: 6 cm), the entire unit's Movement becomes 6 cm.
-What are the Benefits? The entire combined unit gains the benefit of the character's abilities and auras. If Nightblade joins a unit of Phantom Assassins, the entire unit gains the benefit of his Master of the Unseen Blade Warlord Trait.
-What are the Drawbacks? The biggest drawback is tactical inflexibility. You are combining two units into one high-value target, making them easier for the enemy to eliminate with a single powerful attack. You also lose the ability to have your units in two different places at once, which can cost you objectives.
+---
 
-The Falling Back Rule
-Falling Back is a special type of move that a unit can make during its Movement Phase. It allows a unit that is currently in engagement range of an enemy unit to disengage and move to a safer position.
-Here are the rules for a Falling Back move:
-A unit can only fall back if it is currently in engagement range with at least one enemy unit at the start of its Movement Phase.
-The unit must move to a position where it is no longer within engagement range of any enemy unit.
-A unit that falls back can move up to its full Movement characteristic.
+## 1. What You Need to Play
 
-Falling Back Restrictions
-A unit that falls back is penalized for retreating. After falling back, that unit cannot:
-Shoot with any of its ranged weapons this turn.
-Declare a charge this turn.
-Move to within engagement range of any enemy unit.
-Note: A unit cannot fall back if it is currently affected by a Battleshock test. Some special rules may allow a unit to ignore these restrictions.
+### Physical Requirements
+- **Game Board:** A 45cm x 45cm flat surface (about 17.7 inches square)
+- **Models:** Your army units (proxies are fine - use coins, tokens, or paper cutouts)
+- **Dice:** Multiple six-sided dice (D6) - at least 10-15 recommended
+- **Measuring Tool:** A ruler or tape measure marked in centimeters
+- **Tokens:** To mark objectives, wounds, and special conditions
+- **Paper & Pencil:** For tracking CP, wounds, and game state
+- **Army List:** A written list of your units and their costs
 
-The Effects of Being Battleshocked
-When a unit is battleshocked, it suffers severe penalties that can make it nearly useless.
-The unit cannot make a charge move this turn.
-It cannot use any of its special rules or abilities.
-It cannot benefit from blessings, Faction Warcries and Faction Abilities.
-Its Objective Control (OC) value is reduced to 0.
+### Information You Need
+- Your faction's codex (Lightborne, Paradox, or Void)
+- Core game rules
+- Stat glossary
+- Your opponent's faction name (for reference)
 
-The Core Rule: Objective Control (OC)
-Each model has an Objective Control (OC) characteristic on its datasheet (e.g., OC: 1, OC: 3, OC: 10).
-To control an objective, you must have models from your army within 3 cm of the center of the objective marker.
-You total the OC characteristic of every model from your army that is within that 3 cm range.
-The player with the highest total OC value within range of the objective controls it at that moment.
-Example: You have 5 Solar Sentinels (OC: 1 each) and 1 Solar Colossus (OC: 6) within 3 cm of an objective. Your total OC is (5 * 1) + 6 = 11. If your opponent only has a unit of 10 Voidmarchers (OC: 1 each) near it, their total is 10. You control the objective because 11 > 10.
+---
 
-CP Economy:
-You start with 0 CP. You gain 1 CP per round, leading to 5 CP by the end of the round if you are playing the gamemode Two Points.
+## 2. Building Your Army
+
+### Step 1: Choose Your Points Limit
+Both players agree on a points limit. Standard games use **1,000 points**.
+
+### Step 2: Select Your Warlord
+Choose ONE Warlord unit from your faction's codex. This is your army leader.
+- Mark this model clearly (use a different color base or token)
+
+### Step 3: Choose Your Units
+Add units to your army until you reach (but don't exceed) your points limit.
+
+**Army Composition Rules:**
+- You can take unlimited CORE units
+- Elite units have Army Limits (check each unit's entry)
+- Example: "Max 2 per 1,000 pts" means you can take up to 2 of that unit
+
+### Step 4: Choose Faction Blessings
+Select TWO blessings from your faction's blessing list.
+- Each blessing can only be assigned to ONE unit
+- A unit can only receive ONE blessing
+- Write down which units have which blessings
+
+### Step 5: Write Your Army List
+Create a list showing:
+- Warlord name and cost
+- Each unit name, size, and cost
+- Which units have blessings
+- Total points
+
+**Example Army List (Void - 1000pts):**
+```
+WARLORD: Nightblade (255 pts) - Blessing of Shadows
+CORE: 10x Voidmarchers (180 pts)
+CORE: 10x Voidmarchers (180 pts)
+ELITE: 2x Voidmages (170 pts) - Blessing of Inevitability
+ELITE: 1x MK (180 pts)
+ELITE: Hollow Jester (75 pts)
+TOTAL: 1,040 pts [OVER - NEED TO ADJUST]
+```
+
+---
+
+## 3. Setting Up the Battlefield
+
+### Step 1: Place Terrain (Optional)
+If you have terrain pieces, place them now. Both players take turns placing terrain until satisfied.
+
+### Step 2: Determine Deployment Zones
+The 45cm x 45cm board is divided into deployment zones:
+
+```
+[Enemy Deployment Zone - 15cm deep]
+[--------15cm---------|
+[                     |
+[   No Man's Land    | 45cm
+[                     |
+[--------15cm---------|
+[Your Deployment Zone - 15cm deep]
+```
+
+Each player has a 15cm deep strip on opposite edges.
+
+### Step 3: Place Objectives
+Place **3 objective markers** on the battlefield:
+- One in the center (22.5cm from each edge)
+- One in each player's deployment zone (7.5cm from their board edge, centered)
+
+Mark objectives clearly with tokens or markers.
+
+### Step 4: Roll for Deployment Order
+Both players roll 1D6. Highest roll chooses who deploys first.
+
+### Step 5: Deploy Your Army
+The chosen player deploys their ENTIRE army first, then the opponent deploys.
+
+**Deployment Rules:**
+- All models must be in your deployment zone
+- Models must be at least 1cm apart from each other
+- Models cannot overlap terrain (unless they have special rules)
+- Warlord MUST be deployed (cannot go into Reserves)
+- You may place up to 2 units with Deep Strike into Reserves (don't deploy them)
+
+**How to Deploy a Unit:**
+- Place all models from that unit together
+- Keep them within 2cm of each other (this is called "coherency")
+- Face them toward the enemy
+
+### Step 6: Roll for First Turn
+Both players roll 1D6. Highest roll takes the first turn.
+- Re-roll ties
+
+---
+
+## 4. Game Structure Overview
+
+### The Game Round
+The game is played in rounds. Each round has TWO turns (one per player).
+
+**Standard Game Length:** 5 rounds
+
+### The Turn Structure
+Each player's turn has these phases IN ORDER:
+
+1. **Command Phase**
+2. **Movement Phase**
+3. **Psychic Phase** (if you have Casters)
+4. **Shooting Phase**
+5. **Charge Phase**
+6. **Fight Phase**
+
+You MUST complete each phase before moving to the next.
+
+### Command Points (CP)
+- Start with 0 CP
+- Gain +1 CP at the start of each of YOUR turns (during Command Phase)
+- Spend CP to use Faction Abilities
+- Unused CP carries over between turns
+- Maximum 5 rounds = Maximum 5 CP earned
+
+---
+
+## 5. Detailed Phase-by-Phase Guide
+
+## COMMAND PHASE
+
+### What Happens Here:
+1. Gain +1 CP
+2. Use abilities that say "use in Command Phase"
+3. Check if any units are Battleshocked
+
+### Step-by-Step Command Phase:
+
+**STEP 1: Gain Command Point**
+- Add +1 to your current CP total
+- Announce your new CP total to your opponent
+
+**STEP 2: Battleshock Tests**
+- For EACH of your units that has lost 50% or more of its models, you must take a Battleshock test
+- To take a Battleshock test:
+  1. Roll 2D6
+  2. Add the results together
+  3. Compare to the unit's Leadership (Ld) stat
+  4. If your roll is HIGHER than Leadership: Unit is Battleshocked
+  5. If your roll is EQUAL or LOWER: Unit passes, no effect
+
+**Example Battleshock Test:**
+- Unit of 10 Voidmarchers has 4 models left (60% casualties)
+- Voidmarchers have Ld: 7
+- Roll 2D6: Get 4 and 5 = 9 total
+- 9 is higher than 7: Unit is Battleshocked!
+
+**Effects of Being Battleshocked:**
+- Unit cannot charge
+- Unit cannot use special rules or abilities
+- Unit cannot benefit from Blessings or Faction Abilities
+- Unit's Objective Control becomes 0
+- Lasts until the start of YOUR NEXT Command Phase
+
+**STEP 3: Command Phase Abilities**
+- Check if any of your units have abilities that trigger "in Command Phase"
+- Example: Hollow Jester's "Mirror of Scorn" and "Chorus of Fools"
+- Declare and resolve these abilities now
+
+---
+
+## MOVEMENT PHASE
+
+### What Happens Here:
+Your units move around the battlefield.
+
+### Types of Movement:
+1. **Normal Move:** Move up to the unit's Movement characteristic
+2. **Advance:** Move up to Movement + D6cm (but cannot shoot or charge)
+3. **Fall Back:** Move away from enemies you're touching (but cannot shoot or charge)
+
+### Step-by-Step Movement Phase:
+
+**STEP 1: Choose a Unit to Move**
+Pick one of your units that hasn't moved yet this phase.
+
+**STEP 2: Declare Movement Type**
+Choose what type of move this unit will make:
+
+**NORMAL MOVE:**
+- Move each model up to its M characteristic in cm
+- Can move in any direction
+- Cannot move within 1cm of enemy models (unless charging later)
+- Cannot move through enemy models
+- Must maintain coherency (all models within 2cm of another model in the unit)
+
+**ADVANCE MOVE:**
+- Declare "This unit is Advancing"
+- Roll 1D6 and add it to the unit's M characteristic
+- Move up to that total distance
+- **RESTRICTION:** This unit CANNOT shoot this turn
+- **RESTRICTION:** This unit CANNOT charge this turn
+
+**FALL BACK MOVE:**
+- Only available if your unit is within 1cm (Engagement Range) of an enemy unit
+- Declare "This unit is Falling Back"
+- Move each model up to its M characteristic
+- MUST end the move more than 1cm away from ALL enemy models
+- **RESTRICTION:** This unit CANNOT shoot this turn
+- **RESTRICTION:** This unit CANNOT charge this turn
+- **RESTRICTION:** Cannot Fall Back if the unit is Battleshocked
+
+**STEP 3: Move the Models**
+- Pick up each model one at a time
+- Place it within the allowed distance
+- Measure from where the model started
+- Keep all models in the unit within 2cm of each other
+
+**STEP 4: Repeat for All Units**
+Continue choosing and moving units until all your units have moved (or you choose not to move them).
+
+**IMPORTANT:** You can choose NOT to move a unit. This is called "Remaining Stationary" and some abilities reward this.
+
+### Engagement Range Rules:
+- You are "in Engagement Range" if within 1cm of an enemy model
+- Units in Engagement Range cannot move normally (must Fall Back)
+- Units in Engagement Range cannot shoot (unless they have special rules)
+
+### Arriving from Reserves:
+- If this is Turn 2 or later, you can bring units from Reserves
+- At the END of your Movement Phase, place them on any board edge (except enemy deployment zone)
+- They must be more than 9cm from enemy models
+- They count as having moved (cannot shoot Heavy weapons with bonuses)
+- They cannot charge this turn
+
+---
+
+## PSYCHIC PHASE
+
+### What Happens Here:
+Units with the Caster keyword attempt to manifest Psychic Powers.
+
+**Skip this phase if you have no Casters.**
+
+### Step-by-Step Psychic Phase:
+
+**STEP 1: Choose a Caster**
+Pick one of your units with the Caster keyword.
+
+**STEP 2: Choose a Power**
+Select one Psychic Power from that Caster's list that you want to manifest.
+
+**STEP 3: Declare Target (if applicable)**
+If the power targets an enemy unit, declare which unit you're targeting.
+- Check range and line of sight requirements
+- Measure from the Caster to the target
+
+**STEP 4: Make Psychic Test**
+- Roll 2D6
+- Add the results together
+- Compare to the power's Casting Value
+
+**If your roll EQUALS or EXCEEDS the Casting Value:**
+- Success! The power manifests
+- Resolve the power's effects immediately
+
+**If your roll is LOWER than the Casting Value:**
+- Failure! Nothing happens
+- Some abilities trigger on failed psychic tests
+
+**STEP 5: Resolve Power Effects**
+
+**Damage Powers:**
+- If it deals mortal wounds, the target loses that many wounds immediately
+- No saves allowed against mortal wounds
+- Remove models when their wounds reach 0
+
+**Buff Powers:**
+- Apply the benefits to the target unit
+- Note the duration (usually "until your next turn")
+- Write it down so you don't forget
+
+**Debuff Powers:**
+- Apply penalties to the target unit
+- Note the duration
+- Your opponent should track this
+
+**STEP 6: Repeat**
+Each Caster can attempt to manifest ONE power per turn (unless they have special rules).
+Continue choosing Casters and manifesting powers until done.
+
+### Psychic Power Example:
+
+**Void Archmage casts Voidbolt (Casting Value 5):**
+1. Declare: "My Void Archmage is casting Voidbolt"
+2. Choose target: "Targeting the Solar Sentinels at 20cm away"
+3. Check range: Voidbolt range is 24cm, 20cm is within range ✓
+4. Roll 2D6: Roll 3 and 4 = 7 total
+5. Compare: 7 is higher than 5 - SUCCESS!
+6. Resolve: Roll D3 for mortal wounds: roll 2
+7. Solar Sentinels unit suffers 2 mortal wounds
+8. Remove 2 Solar Sentinel models (they have 1 wound each)
+
+---
+
+## SHOOTING PHASE
+
+### What Happens Here:
+Your units fire their ranged weapons at enemy units.
+
+### Step-by-Step Shooting Phase:
+
+**STEP 1: Choose a Shooting Unit**
+Pick one of your units that hasn't shot yet this phase.
+
+**STEP 2: Check if Unit Can Shoot**
+A unit CANNOT shoot if:
+- It Advanced this turn
+- It Fell Back this turn
+- It is in Engagement Range of enemy models (within 1cm)
+
+**STEP 3: Choose Target Unit**
+Pick an enemy unit to shoot at.
+
+**STEP 4: Check Line of Sight**
+- Draw an imaginary line from your unit to the target
+- If you can see ANY part of an enemy model, you have line of sight
+- If terrain completely blocks the view, no line of sight
+- Some weapons (Indirect Fire) can shoot without line of sight
+
+**STEP 5: Check Range**
+- Measure from the closest model in your unit to the closest model in the target unit
+- If this distance is greater than your weapon's range, you cannot shoot
+- If within range, proceed
+
+**STEP 6: Make Hit Rolls**
+For each attack the weapon makes:
+
+1. **Roll 1D6**
+2. **Compare to your unit's BS (Ballistic Skill)**
+3. **If you roll EQUAL or HIGHER than BS: HIT**
+4. **If you roll LOWER than BS: MISS**
+
+**Example:**
+- Solar Sentinels (BS: 4+) shoot with Plasma Rifles (Rapid Fire 1)
+- You have 5 models, so 5 attacks
+- Roll 5 dice: 2, 4, 5, 3, 6
+- BS is 4+, so you need 4 or higher
+- Results: Miss, Hit, Hit, Miss, Hit = 3 HITS
+
+**Special: Unmodified 6s**
+- If you roll a natural 6 (before modifiers), check for special abilities
+- [LETHAL HITS]: Automatic wound, skip to damage
+- Some blessings trigger on unmodified 6s
+
+**STEP 7: Make Wound Rolls**
+For each successful hit:
+
+1. **Compare Weapon Strength (S) to Target Toughness (T)**
+2. **Determine what you need to roll:**
+   - If S is DOUBLE T or more: Wound on 2+
+   - If S is GREATER than T: Wound on 3+
+   - If S EQUALS T: Wound on 4+
+   - If S is LESS than T: Wound on 5+
+   - If S is HALF T or less: Wound on 6+
+3. **Roll 1D6 for each hit**
+4. **If you roll the required number or higher: WOUND**
+5. **If lower: No wound**
+
+**Example:**
+- 3 hits from Plasma Rifles (S: 5) targeting Voidmarchers (T: 3)
+- S5 vs T3: Strength is greater, so wound on 3+
+- Roll 3 dice: 4, 2, 5
+- Need 3+: Success, Fail, Success = 2 WOUNDS
+
+**STEP 8: Target Makes Save Rolls**
+Your opponent now tries to save the wounds:
+
+1. **Check weapon's AP (Armour Penetration)**
+2. **Modify target's Save by the AP value**
+3. **Roll 1D6 for each wound**
+4. **If roll EQUALS or EXCEEDS modified Save: SAVED**
+5. **If roll is LOWER: Wound goes through**
+
+**Example:**
+- 2 wounds from Plasma Rifles (AP: -1) targeting Voidmarchers (Save: 5+)
+- Modified save: 5+ becomes 6+ (worse by 1)
+- Opponent rolls 2 dice: 5, 6
+- Need 6+: Fail, Success = 1 SAVED, 1 goes through
+
+**STEP 9: Apply Damage**
+For each unsaved wound:
+
+1. **Check weapon's Damage (D) characteristic**
+2. **If it's a number (like 1, 2, 3): Target loses that many wounds**
+3. **If it's a dice (like D3, D6): Roll and target loses that many wounds**
+4. **Track wounds on each model**
+5. **When a model's wounds reach 0: Remove it**
+
+**Example:**
+- 1 unsaved wound from Plasma Rifle (D: 1)
+- Voidmarcher (W: 1) loses 1 wound
+- Wounds go to 0, remove 1 Voidmarcher model
+
+**STEP 10: Check for Special Rules**
+- Does your weapon have Torrent? (Auto-hits, skip hit rolls)
+- Does target benefit from Cover? (+1 to save)
+- Are there any abilities that trigger?
+
+**STEP 11: Repeat**
+Continue choosing units to shoot until all eligible units have fired.
+
+### Important Shooting Rules:
+
+**Heavy Weapons:**
+- Can only fire once per turn
+- If unit Remained Stationary: +1 to hit rolls
+
+**Rapid Fire Weapons:**
+- Normal attacks at full range
+- Double attacks if target is within half range
+
+**Assault Weapons:**
+- Can fire even if Advanced
+- But -1 to hit rolls if you Advanced
+
+**Indirect Fire:**
+- Can target units you can't see
+- But target gets +1 to save (Cover benefit)
+
+---
+
+## CHARGE PHASE
+
+### What Happens Here:
+Your units attempt to enter close combat with enemy units.
+
+### Step-by-Step Charge Phase:
+
+**STEP 1: Choose a Charging Unit**
+Pick one of your units that wants to charge.
+
+**STEP 2: Check if Unit Can Charge**
+A unit CANNOT charge if:
+- It Advanced this turn
+- It Fell Back this turn
+- It is already in Engagement Range (within 1cm of enemies)
+
+**STEP 3: Declare Charge Target**
+- Choose which enemy unit you want to charge
+- Measure the distance from closest model to closest model
+- If more than 12cm away, you cannot charge them
+
+**STEP 4: Overwatch (Optional - Opponent's Choice)**
+The target unit may fire Overwatch:
+- The target gets to shoot at your charging unit
+- Hit rolls of 6 (unmodified) hit, all others miss
+- Resolve these attacks now, casualties are removed
+- If your entire unit is destroyed, charge fails
+
+**STEP 5: Roll Charge Distance**
+- Roll 2D6
+- Add the results together
+- This is how far your unit can move (in cm)
+
+**STEP 6: Make Charge Move**
+- Move your unit toward the declared target
+- Each model must end within 1cm (Engagement Range) of an enemy model
+- If you cannot get all models within 1cm after moving the rolled distance: Charge FAILS
+- If you get at least one model within 1cm: Charge SUCCEEDS
+
+**STEP 7: Repeat**
+Continue declaring and resolving charges until all desired units have charged.
+
+### Charge Example:
+
+**Nightblade charges Solar Sentinels:**
+1. Nightblade is 10cm away from Solar Sentinels
+2. Within 12cm, charge is possible
+3. Solar Sentinels choose to fire Overwatch
+4. They roll 8 dice (they have 8 models), only 6s hit: Roll one 6 = 1 hit
+5. Wound roll fails, no damage to Nightblade
+6. Roll charge: 2D6 = 5 + 4 = 9cm charge distance
+7. Nightblade moves 9cm forward, ending within 1cm of a Solar Sentinel
+8. Charge succeeds! Nightblade is now in combat
+
+---
+
+## FIGHT PHASE
+
+### What Happens Here:
+Units in close combat (within 1cm) attack each other with melee weapons.
+
+### Step-by-Step Fight Phase:
+
+**STEP 1: Determine Who Fights First**
+- Units that CHARGED this turn fight first
+- Then alternate: Active player picks a unit, then opponent picks a unit
+- Continue until all units in combat have fought
+
+**STEP 2: Choose a Fighting Unit**
+Pick one of your units that is in Engagement Range and hasn't fought yet.
+
+**STEP 3: Select Melee Weapon**
+- Look at the unit's datasheet for melee weapons
+- If no melee weapon listed, use Unarmed (S: User, AP: 0, D: 1)
+
+**STEP 4: Choose Target**
+- Must target an enemy unit within 1cm (Engagement Range)
+- If multiple enemies within range, you choose which to attack
+
+**STEP 5: Make Hit Rolls**
+For each attack the unit makes (based on Attacks characteristic):
+
+1. **Roll 1D6**
+2. **Compare to unit's WS (Weapon Skill)**
+3. **If you roll EQUAL or HIGHER: HIT**
+4. **If you roll LOWER: MISS**
+
+**Example:**
+- Nightblade (WS: 2+, A: 5) attacks with Whispering Shadow Blade
+- Roll 5 dice: 3, 6, 2, 4, 1
+- Need 2+: Hit, Hit, Hit, Hit, Miss = 4 HITS
+
+**STEP 6: Make Wound Rolls**
+Same as shooting (see Shooting Phase Step 7):
+- Compare weapon S to target T
+- Determine needed roll
+- Roll dice for each hit
+
+**Example:**
+- 4 hits from Whispering Shadow Blade (S: 4) vs Solar Guards (T: 4)
+- S equals T: Wound on 4+
+- Roll: 5, 3, 6, 4 = 3 wounds
+
+**STEP 7: Target Makes Save Rolls**
+Same as shooting (see Shooting Phase Step 8):
+- Apply weapon's AP to target's Save
+- Roll saves
+- Determine how many wounds go through
+
+**Example:**
+- 3 wounds from Whispering Shadow Blade (AP: -3) vs Solar Guards (Save: 4+)
+- Modified save: 4+ becomes 7+ (impossible!)
+- All 3 wounds go through (no save possible)
+
+**STEP 8: Apply Damage**
+- Check weapon's Damage
+- Apply damage to target models
+- Remove models when wounds reach 0
+
+**Example:**
+- Whispering Shadow Blade (D: 3)
+- 3 unsaved wounds × 3 damage each = 9 damage total
+- Solar Guards have W: 1 each
+- Remove 9 Solar Guard models (if available)
+
+**STEP 9: Repeat**
+Continue until all units in Engagement Range have fought.
+
+### Important Fight Phase Rules:
+
+**Pile In (Optional):**
+- Before attacking, each model can move up to 3cm toward the closest enemy model
+- Must end closer to closest enemy than it started
+
+**Consolidate (Optional):**
+- After attacking, each model can move up to 3cm toward the closest enemy model
+- Must end closer to closest enemy than it started
+
+**Fights First:**
+- Units that charged fight before units that didn't
+- If both charged (or neither charged), active player chooses who fights first
+
+---
+
+## 6. Combat Resolution Step-by-Step
+
+### The Complete Attack Sequence
+
+Let's walk through a complete attack from start to finish:
+
+**SCENARIO:** 5 Solar Sentinels shoot at 10 Voidmarchers
+
+**STEP-BY-STEP:**
+
+**1. Declare Shooting Unit and Target**
+- "My 5 Solar Sentinels shoot at your Voidmarchers"
+
+**2. Check Range**
+- Plasma Rifle range: 15cm
+- Measure: 12cm away
+- Within range: YES ✓
+
+**3. Check Line of Sight**
+- Can see the Voidmarchers: YES ✓
+
+**4. Determine Number of Attacks**
+- Weapon: Plasma Rifle (Rapid Fire 1)
+- 5 models = 5 attacks normally
+- Target is 12cm away, weapon range is 15cm
+- 12cm is within half range (7.5cm), so Rapid Fire doubles attacks
+- Total attacks: 10
+
+**5. Make Hit Rolls**
+- Solar Sentinels have BS: 4+
+- Roll 10 dice: 2, 4, 6, 3, 5, 1, 4, 6, 3, 5
+- Need 4+: Miss, Hit, Hit, Miss, Hit, Miss, Hit, Hit, Miss, Hit
+- **7 HITS**
+
+**6. Check for Lethal Hits**
+- Rolled two 6s (unmodified)
+- If unit had [LETHAL HITS], those would auto-wound
+- Solar Sentinels don't have this, so proceed normally
+
+**7. Make Wound Rolls**
+- Plasma Rifle Strength: 5
+- Voidmarchers Toughness: 3
+- S5 vs T3: Strength is greater than Toughness
+- Wound on: 3+
+- Roll 7 dice: 5, 2, 4, 6, 3, 4, 1
+- Need 3+: Success, Fail, Success, Success, Success, Success, Fail
+- **5 WOUNDS**
+
+**8. Opponent Makes Save Rolls**
+- Plasma Rifle AP: -1
+- Voidmarchers Save: 5+
+- Modified Save: 5+ becomes 6+ (worse by 1)
+- Opponent rolls 5 dice: 6, 4, 5, 2, 6
+- Need 6+: Success, Fail, Fail, Fail, Success
+- **2 SAVED, 3 go through**
+
+**9. Apply Damage**
+- Plasma Rifle Damage: 1
+- 3 unsaved wounds × 1 damage = 3 damage total
+- Voidmarchers have W: 1 each
+- Remove 3 Voidmarcher models
+
+**10. Final Result**
+- Started with: 10 Voidmarchers
+- Removed: 3 Voidmarchers
+- Remaining: 7 Voidmarchers
+
+---
+
+## 7. Special Rules and Interactions
+
+### Cover
+- A unit benefits from Cover if at least 50% of its models are obscured by terrain
+- Cover gives +1 to Save rolls
+- Example: Save 5+ becomes 4+ with Cover
+- Some weapons ignore Cover (keyword: Ignores Cover)
+
+### Invulnerable Saves
+- Some units have Invulnerable Saves (like 4+, 5+, 6+)
+- These are ALWAYS available and unaffected by AP
+- After failing normal save, you can attempt Invulnerable save
+- You never take both - use whichever is better
+
+**Example:**
+- Nightblade (Save: 2+) is hit by Wrath of the Sun (AP: -4)
+- Normal save: 2+ becomes 6+ (modified by -4 AP)
+- Instead, use 6+ Invulnerable (from ability)
+- Roll: 5 - Failed, wound goes through
+
+### Feel No Pain / Damage Reduction
+- Some units reduce incoming damage (like "reduce damage by 1")
+- Apply this AFTER failed saves
+- Minimum damage is always 1
+
+**Example:**
+- Solar Colossus has "reduce all damage by 1"
+- Hit by weapon dealing 3 damage
+- After failed save: 3 damage becomes 2 damage
+- Colossus loses 2 wounds instead of 3
+
+### Mortal Wounds
+- Some attacks deal "mortal wounds"
+- These bypass all saves (normal and invulnerable)
+- Apply damage directly to the unit
+- Cannot be reduced or prevented (unless specifically stated)
+
+### Deep Strike
+- Units with Deep Strike keyword can be placed in Reserves
+- Maximum 2 units in Reserves
+- Arrive Turn 2 or later
+- Place at end of Movement Phase
+- Must be 9cm from enemies
+- Cannot charge same turn they arrive
+
+### Precision Weapons
+- Weapons with [PRECISION] keyword can target Characters in units
+- Normally, you must attack the unit as a whole
+- Precision lets you allocate attacks to visible Characters
+
+### Character Targeting
+- Characters not joined to units can always be targeted
+- Characters joined to units use the Unit Leaders rule (see below)
+
+### Unit Leaders (Characters Joining Units)
+- At deployment, Character can join a unit with same faction keyword
+- They move as one unit (use slowest Movement)
+- They count as one unit for targeting
+- Both benefit from each other's abilities
+- When taking casualties, controlling player chooses which models are removed
+- If Character is removed, they cannot rejoin
+
+---
+
+## 8. Common Scenarios and Examples
+
+### Scenario 1: Basic Infantry Combat
+
+**Setup:**
+- 10 Solar Sentinels (yours) vs 10 Voidmarchers (opponent's)
+- 10cm apart
+- It's your Shooting Phase
+
+**Action:**
+1. Declare Solar Sentinels are shooting at Voidmarchers
+2. Check range: Plasma Rifle (15cm range) vs 10cm distance = IN RANGE
+3. Check line of sight: Clear view = YES
+4. Attacks: 10 models × 1 Rapid Fire weapon = 10 attacks (not in half range, so no double)
+5. Hit rolls (BS 4+): Roll 10 dice, get 6 hits
+6. Wound rolls (S5 vs T3 = 3+): Roll 6 dice, get 4 wounds
+7. Opponent saves (5+ save, -1 AP = 6+ save): Roll 4 dice, saves 1
+8. Apply damage: 3 × D1 = 3 Voidmarchers removed
+9. Opponent has 7 Voidmarchers left
+
+### Scenario 2: Charging Into Combat
+
+**Setup:**
+- Your Nightblade is 8cm from enemy Solar Guards
+- It's your Charge Phase
+- You want to charge
+
+**Action:**
+1. Declare: "Nightblade charges Solar Guards"
+2. Check: 8cm away, within 12cm = CAN CHARGE
+3. Opponent declares Overwatch: Solar Guards shoot
+4. Overwatch: 10 shots, only 6s hit. Roll: one 6, rest fail
+5. Resolve Overwatch hit: Wound roll fails, no damage
+6. Roll charge: 2D6 = 4 + 5 = 9cm
+7. Move Nightblade 9cm toward Solar Guards
+8. End within 1cm = CHARGE SUCCESSFUL
+9. Wait until Fight Phase to attack
+
+### Scenario 3: Multi-Unit Combat
+
+**Setup:**
+- Your Nightblade is in combat with enemy Solar Guards
+- Your Voidmarchers charge in to help
+- It's the Fight Phase
+
+**Action:**
+1. Voidmarchers charged this turn, so they fight first
+2. Activate Voidmarchers: Choose Solar Guards as target
+3. Make attacks: 7 models × 1 attack = 7 attacks
+4. Resolve attacks (remove casualties)
+5. Now Nightblade fights (he charged earlier)
+6. Choose Solar Guards as target
+7. Make attacks: 5 attacks with Whispering Shadow Blade
+8. Resolve attacks (remove casualties)
+9. Opponent's turn: Solar Guards fight back
+10. They can split attacks between Nightblade and Voidmarchers
+11. Resolve their attacks
+
+### Scenario 4: Psychic Powers
+
+**Setup:**
+- Your Void Archmage is on the battlefield
+- Enemy Solar
