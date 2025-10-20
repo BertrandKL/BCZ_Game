@@ -1,281 +1,419 @@
-Faction Lore
+# Void Faction Codex
+
+## Faction Lore
+
 Forged in the Abyss—not a place, but a living, malevolent consciousness—the Void is a force of silence and corrupted light. Its armies are not trained, but bound, their very existence an extension of its will. The Abyss whispers to its chosen, twisting their bodies and minds until they become perfect vessels for its purpose. These silent legions are a psychological weapon, their very presence a source of dread that can shatter the enemy's will long before their blades clash.
-The faction’s signature power, Abyssal Convergence, is a manifestation of the Abyss itself, allowing its forces to manipulate reality, teleporting units through the fabric of space to strike with an inevitability that leaves no room for escape.
 
-Faction Warcry
-Abyssal Convergence: Once per game, at the start of your turn, you can declare this ability. Choose up to D3+1 friendly CORE or INFANTRY units. You may immediately remove them from the board and place them anywhere on the battlefield more than 6 cm away from enemy units. Units set up in this way cannot charge this turn.
+The faction's signature power, Abyssal Convergence, is a manifestation of the Abyss itself, allowing its forces to manipulate reality, teleporting units through the fabric of space to strike with an inevitability that leaves no room for escape.
 
-Faction Abilities
-Twist the Veil (1 CP): Use this ability at the start of any phase. Choose one friendly unit on the battlefield. That unit gains a 6+ Invulnerable Save for the rest of the phase.
-Bangla-dash (2 CP): Use this ability during your movement phase. Choose one friendly unit and immediately move it up to 6 cm.
-Void Surge (1 CP): Use this during your charge phase. Choose a friendly unit. It adds +1 to its Attacks characteristic until the end of the turn.
-Warped Reality (2 CP): Use this during your opponent's shooting phase. Choose a friendly unit that is being targeted. All incoming attacks against that unit have their damage reduced by 1 (to a minimum of 1).
-Paki-stun (3 CP): Use this ability at the start of any phase. Choose one enemy unit within 12 cm of any friendly Void unit. That enemy unit is treated as being battleshocked until the start of your next turn. If that enemy unit is already Battleshocked, it suffers D3 mortal wounds instead. This ability cannot be used on the same unit more than once per turn.
+## Faction Warcry
 
-Faction Blessings
+**Abyssal Convergence:** Once per game, at the start of your turn, you can declare this ability. Choose up to D3+1 friendly CORE or INFANTRY units. You may immediately remove them from the board and place them anywhere on the battlefield more than 6 cm away from enemy units. Units set up in this way cannot charge this turn.
+
+## Faction Abilities
+
+- **Twist the Veil (1 CP):** Use this ability at the start of any phase. Choose one friendly unit on the battlefield. That unit gains a 6+ Invulnerable Save for the rest of the phase.
+- **Bangla-dash (2 CP):** Use this ability during your movement phase. Choose one friendly unit and immediately move it up to 6 cm.
+- **Void Surge (1 CP):** Use this during your charge phase. Choose a friendly unit. It adds +1 to its Attacks characteristic until the end of the turn.
+- **Warped Reality (2 CP):** Use this during your opponent's shooting phase. Choose a friendly unit that is being targeted. All incoming attacks against that unit have their damage reduced by 1 (to a minimum of 1).
+- **Paki-stun (3 CP):** Use this ability at the start of any phase. Choose one enemy unit within 12 cm of any friendly Void unit. That enemy unit is treated as being battleshocked until the start of your next turn. If that enemy unit is already Battleshocked, it suffers D3 mortal wounds instead. This ability cannot be used on the same unit more than once per turn.
+
+## Faction Blessings
+
 You can choose two of these blessings to give to any units in your army. Remember, a single unit can only receive one blessing.
-Blessing of Shadows: This unit adds +1 to its Save against all ranged attacks.
-Blessing of the Rift: This unit can move through and over terrain as if it were not there.
-Blessing of Abyssal Might: This unit adds +1 to its Strength in melee combat.
-Blessing of the Phasing Shadow: This unit can move through enemy units as if they were not there during a normal move or charge.
-Blessing of Inevitability: This unit can re-roll a single failed hit roll per attack phase.
 
-Keywords
-Caster: A unit with this keyword can attempt to manifest psychic powers during the Psychic Phase.
-Psychic Power: A special ability that requires a Caster to use. It must be manifested by rolling psychic dice to meet or exceed its casting value.
-Torrent: A weapon with this keyword automatically hits its target.
-Assault: A weapon with this keyword can be fired even if the unit advanced this turn.
-Heavy: A weapon with this keyword can be fired once per turn. If the unit remains stationary, it gains +1 BS and WS this turn.
-Melee: A weapon used in close combat.
-Core: A basic unit type that forms the backbone of your army.
-Character: A unique, named unit, often with special abilities.
-Warlord: The designated leader of your army.
-Void: The faction keyword for all units in this codex.
-[PRECISION]: When attacking a unit, you can allocate your attacks to any visible Character model in that unit.
-[DEVESTATING WOUNDS]: An unmodified wound roll of 6 inflicts 1 mortal wound on the target and the attack sequence ends.
-Deep Strike: Able to go into reserves.
-Fly: Able to ignore terrain and models when moving.
+- **Blessing of Shadows:** This unit adds +1 to its Save against all ranged attacks.
+- **Blessing of the Rift:** This unit can move through and over terrain as if it were not there.
+- **Blessing of Abyssal Might:** This unit adds +1 to its Strength in melee combat.
+- **Blessing of the Phasing Shadow:** This unit can move through enemy units as if they were not there during a normal move or charge.
+- **Blessing of Inevitability:** This unit can re-roll a single failed hit roll per attack phase.
 
-Core Units
-Voidmarchers
-Cost: 18 pts per model
-Role: Infantry
-Keywords: Core, Void
-Statline (per model): M: 6 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 1, A: 1, Ld: 7, Save: 5+, OC: 1
-Weapons: Crossbow (Assault 1, 12 cm, S: 3, AP: 0, D: 1), Void Blade (Melee, S: 3, AP: 0, D: 1)
-Special Rules: Hold the Line: While within 3 cm of another Voidmarcher unit, this unit has a 4+ Save instead of 5+. Echoes in the Dark: When a friendly unit within 6 cm is destroyed, this unit can make a free 3 cm normal move.
-Unit Size: 5–10, Army Limit: Unlimited
+## Keywords
 
-Voidpyros
-Cost: 32 pts per model
-Role: Fire Support Infantry
-Keywords: Core, Void
-Statline (per model): M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 2, A: 1, Ld: 7, Save: 5+, OC: 2
-Weapons: Void Firebreath (Torrent Assault 2, 12 cm, S: 5, AP: -1, D: 1)
-Special Rules: Scorched Earth: The first time this unit is destroyed, roll a D6 for each enemy unit within 3 cm; on a 4+, that unit suffers 1 mortal wound.
-Unit Size: 5–10, Army Limit: Unlimited
+**Caster:** A unit with this keyword can attempt to manifest psychic powers during the Psychic Phase.
+**Psychic Power:** A special ability that requires a Caster to use. It must be manifested by rolling psychic dice to meet or exceed its casting value.
+**Torrent:** A weapon with this keyword automatically hits its target.
+**Assault:** A weapon with this keyword can be fired even if the unit advanced this turn.
+**Heavy:** A weapon with this keyword can be fired once per turn. If the unit remains stationary, it gains +1 BS and WS this turn.
+**Melee:** A weapon used in close combat.
+**Core:** A basic unit type that forms the backbone of your army.
+**Character:** A unique, named unit, often with special abilities.
+**Warlord:** The designated leader of your army.
+**Void:** The faction keyword for all units in this codex.
+**[PRECISION]:** When attacking a unit, you can allocate your attacks to any visible Character model in that unit.
+**[DEVASTATING WOUNDS]:** An unmodified wound roll of 6 inflicts 1 mortal wound on the target and the attack sequence ends.
+**Deep Strike:** Able to go into reserves.
+**Fly:** Able to ignore terrain and models when moving.
 
-Elite Units
-MK (Minuscule Knight)
-Cost: 180 pts per model
-Role: Elite Champion / Anti-Tank
-Keywords: Void, Character
-Statline: M: 5 cm, WS: 3+, BS: 2+, S: 5, T: 5, W: 8, A: 2, Ld: 9, Save: 3+, OC: 4
-Weapons: Void-Breaker Cannon (Heavy 1, 30 cm, S: 16, AP: -4, D: D6+3), Abyssal Mini-Cannons (Heavy 10, 24 cm, S: 6, AP: -2, D: 2)
-Special Rules:
-Bulwark of the Machine: If this unit did not move, its Cannon gains +1 BS
-Voidforged: Ranged weapons can target units in combat, hitting on an unmodified 6
-Void-Hunter Rounds: Each time an attack is made with this model's Void-Breaker Cannon, you can re-roll a wound roll of 1. If the target is a Vehicle or Monster, you can re-roll the wound roll
-Tactical Supremacy: Enemy units within 12 cm of this model cannot use Reserves or any special deployment rules
-Unit Size: 1, Army Limit: Max 1 per 1,000 pts
+---
 
-Phantom Assassins
-Cost: 70 pts per model
-Role: Elite Melee Specialists
-Keywords: Void, Character, Deep Strike
-Statline: M: 8 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 3, Ld: 8, Save: 4+, OC: 2
-Weapons: Whisper of Dusk (Melee, S: 4, AP: -2, D: 2, Precision), Ashen Stars (Assault 3, 24 cm, S: 4, AP: -1, D: 1)
-Special Rules: Shadow Step: Move 6 cm ignoring terrain once per turn. Assassin's Mark: Once per turn, select one enemy Character or Vehicle model. This model's attacks against that target have the [DEVESTATING WOUNDS] ability and improve the Armour Penetration characteristic of those attacks by 1.
-Unit Size: 1–3, Army Limit: Max 3 per 1,000 pts
+## Core Units
 
-Shadowbird
-Cost: 75 pts per model
-Role: Fast Assault
-Keywords: Void, Deep Strike
-Statline: M: 12 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 3, A: 3, Ld: 7, Save: 4+, OC: 1
-Weapons: Void Rockets (Assault 4, 24 cm, S: 4, AP: -1, D: 2), Talons (Melee, S: 4, AP: -1, D: 2)
-Special Rules: Predator of the Veil: This unit can make a free 6 cm normal move at the end of the opponent's shooting phase if it was targeted by a ranged attack.
-Unit Size: 1, Army Limit: Max 3 per 1,000 pts
+### Voidmarchers
+**Cost:** 18 pts per model
+**Role:** Infantry
+**Keywords:** Core, Void
+**Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 1, A: 1, Ld: 7, Save: 5+, OC: 1
+**Weapons:** Crossbow (Assault 1, 12 cm, S: 3, AP: 0, D: 1), Void Blade (Melee, S: 3, AP: 0, D: 1)
+**Special Rules:** 
+- Hold the Line: While within 3 cm of another Voidmarcher unit, this unit has a 4+ Save instead of 5+. 
+- Echoes in the Dark: When a friendly unit within 6 cm is destroyed, this unit can make a free 3 cm normal move.
+**Unit Size:** 5–10, **Army Limit:** Unlimited
 
-Voidmages
-Cost: 85 pts per model
-Role: Elite Spellcasters
-Keywords: Caster, Void
-Statline: M: 5 cm, WS: 4+, BS: 3+, S: 3, T: 4, W: 3, A: 1, Ld: 8, Save: 3+, OC: 2
-Psychic Powers:
-* Voidbolt: Casting Value 5. Deals D3 mortal wounds to a target within 24 cm.
-* Echoing Scream: Casting Value 6. Select an enemy unit within 12 cm. It must subtract 1 from its Ballistic Skill and Weapon Skill until your next turn.
-* Mind-Doubt: Casting Value 7. Select a friendly unit. It gains a 5+ invulnerable save against all damage until your next turn.
-Special Rules: Psychic Conduit: When this unit successfully manifests a psychic power, it can choose one friendly unit within 6 cm. That unit can immediately make a free normal move of up to 3 cm.
-Unit Size: 1–2, Army Limit: Max 3 per 1,000 pts
+### Voidpyros
+**Cost:** 32 pts per model
+**Role:** Fire Support Infantry
+**Keywords:** Core, Void
+**Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 2, A: 1, Ld: 7, Save: 5+, OC: 2
+**Weapons:** Void Firebreath (Torrent Assault 2, 12 cm, S: 5, AP: -1, D: 1)
+**Special Rules:** Scorched Earth: The first time this unit is destroyed, roll a D6 for each enemy unit within 3 cm; on a 4+, that unit suffers 1 mortal wound.
+**Unit Size:** 5–10, **Army Limit:** Unlimited
 
-Psychophage
-Cost: 125 pts
-Role: Anti-Psyker Predator
-Keywords: Void
-Statline: M: 8 cm, WS: 3+, BS: 4+, S: 5, T: 5, W: 7, A: 3, Ld: 8, Save: 4+, OC: 2
-Weapons: Neural Talons (Melee, S: 5, AP: -2, D: 2), Mind Lash (Assault 3, 12 cm, S: 4, AP: -1, D: 1)
-Special Rules: Psychic Predator: Enemy Caster units within 12 cm of this model must roll 3D6 for psychic tests and discard the highest die. Additionally, enemy Casters within 6 cm cannot re-roll any psychic dice. Psychic Consumption: Each time an enemy unit within 12 cm fails a psychic test, this model immediately heals D3 wounds. If this model is already at full wounds, it gains +1 Attack (maximum +3) until the end of the battle. Null Aura: Friendly units within 6 cm of this model gain a 5+ invulnerable save against mortal wounds caused by psychic powers. Drawn to Magic: When an enemy Caster successfully manifests a psychic power within 18 cm of this model, this model can immediately move up to 6 cm toward that Caster (even during the enemy's turn).
-Unit Size: 1, Army Limit: Max 2 per 1,000 pts
+---
 
-Dimension Holders
-Cost: 105 pts per model
-Role: Teleportation Vessels
-Keywords: Void
-Statline: M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 4, W: 4, A: 1, Ld: 9, Save: 5+, OC: 1
-Weapons: Portal Shield (Melee, S: 3, AP: 0, D: 1)
-Special Rules: Dimensional Autism: One friendly unit can teleport to its location once per game. Dimensional Stabilizer: At the end of your Movement Phase, this unit can choose one friendly unit within 6 cm. That unit adds +1 to its Objective Control value until the end of the turn.
-Unit Size: 1–2, Army Limit: Max 3 per 1,000 pts
+## Elite Units
 
-Void Negromancer
-Cost: 145 pts per model
-Role: Elite Spellcaster / Resurrector
-Keywords: Caster, Void
-Statline: M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 4, W: 3, A: 1, Ld: 9, Save: 4+, OC: 1
-Weapons: Void Bolt (Assault 1, 24 cm, S: 5, AP: -1, D: 1)
-Psychic Powers:
-* Abyssal Rebirth: Casting Value 8. Select a friendly Core unit within 6 cm. That unit regains 1 model. This power can be attempted once per turn.
-* Soul Drain: Casting Value 6. Heal D3 wounds on this model or a friendly unit within 6 cm.
-Special Rules: Necrotic Aura: While an enemy unit is within 6 cm of this model, subtract 1 from the Leadership characteristic of that unit.
-Unit Size: 1, Army Limit: Max 2 per 1,000 pts
+### MK (Minuscule Knight)
+**Cost:** 180 pts per model
+**Role:** Elite Champion / Anti-Tank
+**Keywords:** Void, Character
+**Statline:** M: 5 cm, WS: 3+, BS: 2+, S: 5, T: 5, W: 8, A: 2, Ld: 9, Save: 3+, OC: 4
+**Weapons:** Void-Breaker Cannon (Heavy 1, 30 cm, S: 16, AP: -4, D: D6+3), Abyssal Mini-Cannons (Heavy 10, 24 cm, S: 6, AP: -2, D: 2)
+**Special Rules:**
+- **Bulwark of the Machine:** If this unit did not move, its Cannon gains +1 BS
+- **Voidforged:** Ranged weapons can target units in combat, hitting on an unmodified 6
+- **Void-Hunter Rounds:** Each time an attack is made with this model's Void-Breaker Cannon, you can re-roll a wound roll of 1. If the target is a Vehicle or Monster, you can re-roll the wound roll
+- **Tactical Supremacy:** Enemy units within 12 cm of this model cannot use Reserves or any special deployment rules
+**Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
 
-Dreadnaut
-Cost: 290 pts per model
-Role: Heavy Walker / God-Engine
-Keywords: Void, Character, Elite
-Statline: M: 8 cm, WS: 3+, BS: 3+, S: 8, T: 8, W: 12, A: 4, Ld: 10, Save: 2+, OC: 5
-Weapons: Grave-Breaker Gauntlet (Melee, S: 10, AP: -3, D: 4). Twin Void Cannons (Heavy 6, 30 cm, S: 8, AP: -2, D: 3).
-Special Rules: Ancient Abyssal Armor: Reduces all incoming damage by 1. Unstoppable March: Can move through and end its move in terrain as if it were not there.
-Unit Size: 1, Army Limit: Max 1 per 1,000 pts
+### Phantom Assassins
+**Cost:** 70 pts per model
+**Role:** Elite Melee Specialists
+**Keywords:** Void, Character, Deep Strike
+**Statline:** M: 8 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 3, Ld: 8, Save: 4+, OC: 2
+**Weapons:** Whisper of Dusk (Melee, S: 4, AP: -2, D: 2, Precision), Ashen Stars (Assault 3, 24 cm, S: 4, AP: -1, D: 1)
+**Special Rules:** 
+- Shadow Step: Move 6 cm ignoring terrain once per turn. 
+- Assassin's Mark: Once per turn, select one enemy Character or Vehicle model. This model's attacks against that target have the [DEVASTATING WOUNDS] ability and improve the Armour Penetration characteristic of those attacks by 1.
+**Unit Size:** 1–3, **Army Limit:** Max 3 per 1,000 pts
 
-Hollow Jester
-Cost: 75 pts per model
-Role: Support Unit
-Keywords: Void
-Statline: M: 8 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 2, A: 1, Ld: 9, Save: 5+, OC: 1
-Weapons: Shards of Laughter (Assault 2, 12 cm, S: 4, AP: -1, D: 1)
-Special Rules: Mirror of Scorn: In your Command Phase, select one enemy unit within 9 cm. Until your next Command Phase, that unit is always treated as being Battleshocked. Chorus of Fools: In your Command Phase, select one friendly unit within 9 cm. Until your next Command Phase, that unit adds 1 to its Leadership and gains a 6+ Invulnerable Save.
-Unit Size: 1, Army Limit: Max 2 per 1,000 pts
+### Shadowbird
+**Cost:** 75 pts per model
+**Role:** Fast Assault
+**Keywords:** Void, Deep Strike
+**Statline:** M: 12 cm, WS: 4+, BS: 4+, S: 4, T: 3, W: 3, A: 3, Ld: 7, Save: 4+, OC: 1
+**Weapons:** Void Rockets (Assault 4, 24 cm, S: 4, AP: -1, D: 2), Talons (Melee, S: 4, AP: -1, D: 2)
+**Special Rules:** Predator of the Veil: This unit can make a free 6 cm normal move at the end of the opponent's shooting phase if it was targeted by a ranged attack.
+**Unit Size:** 1, **Army Limit:** Max 3 per 1,000 pts
 
-Warlords
-Nightblade
-Cost: 255 pts
-Role: Precision Assassin
-Keywords: Character, Void, Warlord
-Statline: M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 5, Ld: 9, Save: 2+, OC: 2
-Weapons: Whispering Shadow Blade (Melee, S: 4, AP: -3, D: 3), Phantom Shuriken (Assault 2, 12 cm, S: 3, AP: -1, D: 1)
-Special Rules: Death Mark: At the start of the battle, after both sides have deployed, choose one enemy Character, Monster, or Vehicle. All of Nightblade's attacks against that target automatically wound on unmodified hit rolls of 4+, and improve the AP of those attacks by 1. Shadow Infiltration: This model can be placed into Reserves for free (does not count toward the 2 unit Reserve limit). When arriving from Reserves, he can be placed anywhere more than 6 cm from enemies and can charge on the same turn. Assassination Protocol: If this model destroys an enemy Character in melee combat, he immediately gains the following benefits until the end of the battle: Can re-roll all failed hit rolls, Gains +1 Attack, Cannot be targeted by ranged attacks unless he is the closest visible target Marked by Silence: Enemy units within 6 cm subtract 1 from Leadership.
-Warlord Trait: Master of the Unseen Blade - Friendly Phantom Assassin units within 6 cm of Nightblade gain +1 to their Strength and have a 4+ Invulnerable Save. Additionally, Nightblade himself gains the following: if his Death Mark target is Battleshocked, he can re-roll all failed hit rolls against that target and his Whispering Shadow Blade becomes Damage 4 instead of Damage 3.
+### Voidmages
+**Cost:** 85 pts per model
+**Role:** Elite Spellcasters
+**Keywords:** Caster, Void
+**Statline:** M: 5 cm, WS: 4+, BS: 3+, S: 3, T: 4, W: 3, A: 1, Ld: 8, Save: 3+, OC: 2
+**Psychic Powers:**
+- **Voidbolt:** Casting Value 5. Deals D3 mortal wounds to a target within 24 cm.
+- **Echoing Scream:** Casting Value 6. Select an enemy unit within 12 cm. It must subtract 1 from its Ballistic Skill and Weapon Skill until your next turn.
+- **Mind-Doubt:** Casting Value 7. Select a friendly unit. It gains a 5+ invulnerable save against all damage until your next turn.
+**Special Rules:** Psychic Conduit: When this unit successfully manifests a psychic power, it can choose one friendly unit within 6 cm. That unit can immediately make a free normal move of up to 3 cm.
+**Unit Size:** 1–2, **Army Limit:** Max 3 per 1,000 pts
 
-Void Archmage
-Cost: 310 pts
-Role: Master Mage / Reality Breaker
-Keywords: Character, Caster, Void, Warlord
-Statline: M: 6 cm, WS: 5+, BS: 5+, S: 4, T: 4, W: 8, A: 1, Ld: 10, Save: 2+, OC: 2
-Weapons: Staff of the Abyss (Melee, S: 5, AP: -1, D: 2), Void Tendrils (Assault 6, 18 cm, S: 5, AP: -1, D: 1)
-Psychic Powers: Voidbolt: Casting Value 5. Deals D3 mortal wounds to a target within 24 cm. Unraveling Curse: Casting Value 7. Choose one enemy unit within 18 cm. Until your next turn, that unit must re-roll all successful save rolls and subtract 2 from their Leadership. Void Conduit: Casting Value 6. All friendly Void units within 12 cm gain +1 Strength until your next turn. Void Oblivion: Casting Value 10. Choose one point within 24 cm. All units (friend or foe) within 6 cm of that point suffer 2D6 mortal wounds. The Void Archmage can choose to overcharge this power - if he does, increase the range to 30 cm and the radius to 9 cm, but this model immediately suffers D6 mortal wounds after resolving the attack. Once per battle.
-Special Rules: Supreme Channeler: This model can attempt to manifest up to 4 psychic powers per turn (instead of the normal limit). However, for each power after the second, add +1 to the casting value required. Master of the Void: Friendly Caster units within 9 cm can reroll one psychic die when manifesting. Fragile Vessel: Each time this model successfully manifests a psychic power with casting value 7+, roll a D6. On a 1-2, this model suffers D3 mortal wounds as his vessel strains. Reality Breach: Once per battle, when this model attempts to manifest a psychic power, you can choose to automatically pass the psychic test (no roll needed). If you do, this model immediately suffers D6 mortal wounds.
-Warlord Trait: Echo of the Abyss - All friendly Void units within 14 cm of this model re-roll failed hit rolls of 1. Additionally, once per turn, you can allow one friendly Void Caster within 9 cm to manifest one additional psychic power this turn (they can manifest 2 instead of 1, or 3 instead of 2, etc).
+### Psychophage
+**Cost:** 125 pts
+**Role:** Anti-Psyker Predator
+**Keywords:** Void
+**Statline:** M: 8 cm, WS: 3+, BS: 4+, S: 5, T: 5, W: 7, A: 3, Ld: 8, Save: 4+, OC: 2
+**Weapons:** Neural Talons (Melee, S: 5, AP: -2, D: 2), Mind Lash (Assault 3, 12 cm, S: 4, AP: -1, D: 1)
+**Special Rules:** 
+- Psychic Predator: Enemy Caster units within 12 cm of this model must roll 3D6 for psychic tests and discard the highest die. Additionally, enemy Casters within 6 cm cannot re-roll any psychic dice. 
+- Psychic Consumption: Each time an enemy unit within 12 cm fails a psychic test, this model immediately heals D3 wounds. If this model is already at full wounds, it gains +1 Attack (maximum +3) until the end of the battle. 
+- Null Aura: Friendly units within 6 cm of this model gain a 5+ invulnerable save against mortal wounds caused by psychic powers. 
+- Drawn to Magic: When an enemy Caster successfully manifests a psychic power within 18 cm of this model, this model can immediately move up to 6 cm toward that Caster (even during the enemy's turn).
+**Unit Size:** 1, **Army Limit:** Max 2 per 1,000 pts
 
-The Null Hour
-Cost: 280 pts
-Role: Foresight Warlord / Tactical Manipulator
-Keywords: Character, Void, Warlord
-Statline: M: 8 cm, WS: 5+, BS: 4+, S: 4, T: 4, W: 6, A: 1, Ld: 10, Save: 2+, OC: 1
-Weapons: Temporal Blade (Melee, S: 4, AP: -1, D: 2), Hourglass of Silence (Assault 3, 18 cm, S: 5, AP: 0, D: 1)
-Special Rules: Shattered Futures: Once per turn, select one enemy unit within 6 cm. You can force that unit to re-roll one hit, wound, or save roll. Inevitable Positioning: At the start of your Movement Phase, you can choose one friendly Void unit within 12 cm. That unit can immediately make a free 6 cm normal move. This does not count as their normal move for the turn. Foreseen Strike: Once per turn, select one friendly Void unit within 12 cm that has not yet acted this turn. That unit can act as if it were in a different phase - they can shoot during the movement phase, charge during the shooting phase, or fight during the shooting phase (resolve immediately, then continue the current phase normally).
-Warlord Trait: Temporal Distortion - At the start of each battle round, you can select one enemy unit anywhere on the battlefield. That unit must subtract 1 from its Movement and its Attacks characteristic for the duration of the battle round. Additionally, once per battle, you can activate this ability on all enemy units within 18 cm of The Null Hour instead of just one unit.
+### Dimension Holders
+**Cost:** 105 pts per model
+**Role:** Teleportation Vessels
+**Keywords:** Void
+**Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 4, W: 4, A: 1, Ld: 9, Save: 5+, OC: 1
+**Weapons:** Portal Shield (Melee, S: 3, AP: 0, D: 1)
+**Special Rules:** 
+- Dimensional Autism: One friendly unit can teleport to its location once per game. 
+- Dimensional Stabilizer: At the end of your Movement Phase, this unit can choose one friendly unit within 6 cm. That unit adds +1 to its Objective Control value until the end of the turn.
+**Unit Size:** 1–2, **Army Limit:** Max 3 per 1,000 pts
 
-The Dark Paladin:
-Cost: 290 pts
-Role: Vengeful Protector
-Keywords: Character, Void, Warlord
-Statline: M: 5 cm, WS: 3+, BS: 5+, S: 5, T: 6, W: 10, A: 4, Ld: 10, Save: 2+, OC: 4
-Weapons: Void Shield Bash (Melee, S: 6, AP: -1, D: 2), Darkness Spear (Melee, S: 5, AP: -2, D: 2)
-Special Rules: Aegis of the Void: This model has a 4+ invulnerable save. Vengeful Bulwark: Each time a friendly Void unit within 6 cm of this model is targeted by an attack (ranged or melee), after the attacking unit has finished all its attacks, this model can immediately move up to 6 cm toward that attacking unit. If this movement brings this model into melee range of the attacker, this model can immediately make D3 attacks with Void Shield Bash against that unit. Immovable Guardian: While this model is within 3 cm of an objective marker, it cannot be forced to move or Fall Back by any means, gains +1 Toughness, and enemy units within 6 cm cannot score that objective. Retribution Counter: Each time a friendly Void Core unit within 6 cm is destroyed, this model gains +1 Attack and +1 Strength (maximum +3 each) until the end of the battle. Warlord Trait: Guardian of Shadows - All friendly Core units within 9 cm of The Dark Paladin gain +1 to their Armor Save and become immune to the Battleshocked condition. Additionally, once per battle, when a friendly unit within 6 cm would be destroyed, this model can declare "Absolute Protection" - that unit is not destroyed and remains at 1 wound, but this model immediately suffers D6 mortal wounds.
+### Void Negromancer
+**Cost:** 145 pts per model
+**Role:** Elite Spellcaster / Resurrector
+**Keywords:** Caster, Void
+**Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 3, T: 4, W: 3, A: 1, Ld: 9, Save: 4+, OC: 1
+**Weapons:** Void Bolt (Assault 1, 24 cm, S: 5, AP: -1, D: 1)
+**Psychic Powers:**
+- **Abyssal Rebirth:** Casting Value 8. Select a friendly Core unit within 6 cm. That unit regains 1 model. This power can be attempted once per turn.
+- **Soul Drain:** Casting Value 6. Heal D3 wounds on this model or a friendly unit within 6 cm.
+**Special Rules:** Necrotic Aura: While an enemy unit is within 6 cm of this model, subtract 1 from the Leadership characteristic of that unit.
+**Unit Size:** 1, **Army Limit:** Max 2 per 1,000 pts
 
-Warlord's Lore
-Void Archmage
+### Dreadnaut
+**Cost:** 290 pts per model
+**Role:** Heavy Walker / God-Engine
+**Keywords:** Void, Character, Elite
+**Statline:** M: 8 cm, WS: 3+, BS: 3+, S: 8, T: 8, W: 12, A: 4, Ld: 10, Save: 2+, OC: 5
+**Weapons:** Grave-Breaker Gauntlet (Melee, S: 10, AP: -3, D: 4). Twin Void Cannons (Heavy 6, 30 cm, S: 8, AP: -2, D: 3).
+**Special Rules:** 
+- Ancient Abyssal Armor: Reduces all incoming damage by 1. 
+- Unstoppable March: Can move through and end its move in terrain as if it were not there.
+**Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
+
+### Hollow Jester
+**Cost:** 75 pts per model
+**Role:** Support Unit
+**Keywords:** Void
+**Statline:** M: 8 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 2, A: 1, Ld: 9, Save: 5+, OC: 1
+**Weapons:** Shards of Laughter (Assault 2, 12 cm, S: 4, AP: -1, D: 1)
+**Special Rules:** 
+- Mirror of Scorn: In your Command Phase, select one enemy unit within 9 cm. Until your next Command Phase, that unit is always treated as being Battleshocked. 
+- Chorus of Fools: In your Command Phase, select one friendly unit within 9 cm. Until your next Command Phase, that unit adds 1 to its Leadership and gains a 6+ Invulnerable Save.
+**Unit Size:** 1, **Army Limit:** Max 2 per 1,000 pts
+
+---
+
+## Warlords
+
+### Nightblade
+**Cost:** 255 pts
+**Role:** Precision Assassin
+**Keywords:** Character, Void, Warlord
+**Statline:** M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 5, Ld: 9, Save: 2+, OC: 2
+**Weapons:** Whispering Shadow Blade (Melee, S: 4, AP: -3, D: 3), Phantom Shuriken (Assault 2, 12 cm, S: 3, AP: -1, D: 1)
+**Special Rules:** 
+- Death Mark: At the start of the battle, after both sides have deployed, choose one enemy Character, Monster, or Vehicle. All of Nightblade's attacks against that target automatically wound on unmodified hit rolls of 4+, and improve the AP of those attacks by 1. 
+- Shadow Infiltration: This model can be placed into Reserves for free (does not count toward the 2 unit Reserve limit). When arriving from Reserves, he can be placed anywhere more than 6 cm from enemies and can charge on the same turn. 
+- Assassination Protocol: If this model destroys an enemy Character in melee combat, he immediately gains the following benefits until the end of the battle: Can re-roll all failed hit rolls, Gains +1 Attack, Cannot be targeted by ranged attacks unless he is the closest visible target 
+- Marked by Silence: Enemy units within 6 cm subtract 1 from Leadership.
+**Warlord Trait:** Master of the Unseen Blade - Friendly Phantom Assassin units within 6 cm of Nightblade gain +1 to their Strength and have a 4+ Invulnerable Save. Additionally, Nightblade himself gains the following: if his Death Mark target is Battleshocked, he can re-roll all failed hit rolls against that target and his Whispering Shadow Blade becomes Damage 4 instead of Damage 3.
+
+### Void Archmage
+**Cost:** 310 pts
+**Role:** Master Mage / Reality Breaker
+**Keywords:** Character, Caster, Void, Warlord
+**Statline:** M: 6 cm, WS: 5+, BS: 5+, S: 4, T: 4, W: 8, A: 1, Ld: 10, Save: 2+, OC: 2
+**Weapons:** Staff of the Abyss (Melee, S: 5, AP: -1, D: 2), Void Tendrils (Assault 6, 18 cm, S: 5, AP: -1, D: 1)
+**Psychic Powers:** 
+- **Voidbolt:** Casting Value 5. Deals D3 mortal wounds to a target within 24 cm. 
+- **Unraveling Curse:** Casting Value 7. Choose one enemy unit within 18 cm. Until your next turn, that unit must re-roll all successful save rolls and subtract 2 from their Leadership. 
+- **Void Conduit:** Casting Value 6. All friendly Void units within 12 cm gain +1 Strength until your next turn. 
+- **Void Oblivion:** Casting Value 10. Can only be used from Turn 2 onwards. Choose one point within 24 cm. All units (friend or foe) within 6 cm of that point suffer 2D6 mortal wounds. The Void Archmage can choose to overcharge this power - if he does, increase the range to 30 cm and the radius to 9 cm, but this model immediately suffers 2D6 mortal wounds after resolving the attack. Once per battle.
+**Special Rules:** 
+- Supreme Channeler: This model can attempt to manifest up to 4 psychic powers per turn (instead of the normal limit). However, for each power after the second, add +1 to the casting value required. 
+- Master of the Void: Friendly Caster units within 9 cm can reroll one psychic die when manifesting. 
+- Fragile Vessel: Each time this model successfully manifests a psychic power with casting value 7+, roll a D6. On a 1-2, this model suffers D3 mortal wounds as his vessel strains. 
+- Reality Breach: Once per battle, when this model attempts to manifest a psychic power, you can choose to automatically pass the psychic test (no roll needed). If you do, this model immediately suffers D6 mortal wounds.
+**Warlord Trait:** Echo of the Abyss - All friendly Void units within 14 cm of this model re-roll failed hit rolls of 1. Additionally, once per turn, you can allow one friendly Void Caster within 9 cm to manifest one additional psychic power this turn (they can manifest 2 instead of 1, or 3 instead of 2, etc).
+
+### The Null Hour
+**Cost:** 280 pts
+**Role:** Foresight Warlord / Tactical Manipulator
+**Keywords:** Character, Void, Warlord
+**Statline:** M: 8 cm, WS: 5+, BS: 4+, S: 4, T: 4, W: 6, A: 1, Ld: 10, Save: 2+, OC: 1
+**Weapons:** Temporal Blade (Melee, S: 4, AP: -1, D: 2), Hourglass of Silence (Assault 3, 18 cm, S: 5, AP: 0, D: 1)
+**Special Rules:** 
+- Shattered Futures: Once per turn, select one enemy unit within 6 cm. You can force that unit to re-roll one hit, wound, or save roll. 
+- Inevitable Positioning: At the start of your Movement Phase, you can choose one friendly Void unit within 12 cm. That unit can immediately make a free 6 cm normal move. This does not count as their normal move for the turn. 
+- Foreseen Strike: Once per turn, select one friendly Void unit within 12 cm that has not yet acted this turn. That unit can act as if it were in a different phase - they can shoot during the movement phase, charge during the shooting phase, or fight during the shooting phase (resolve immediately, then continue the current phase normally).
+**Warlord Trait:** Temporal Distortion - At the start of each battle round, you can select one enemy unit anywhere on the battlefield. That unit must subtract 1 from its Movement and its Attacks characteristic for the duration of the battle round. Additionally, once per battle, you can activate this ability on all enemy units within 18 cm of The Null Hour instead of just one unit.
+
+### The Dark Paladin
+**Cost:** 290 pts
+**Role:** Vengeful Protector
+**Keywords:** Character, Void, Warlord
+**Statline:** M: 5 cm, WS: 3+, BS: 5+, S: 5, T: 6, W: 10, A: 4, Ld: 10, Save: 2+, OC: 4
+**Weapons:** Void Shield Bash (Melee, S: 6, AP: -1, D: 2), Darkness Spear (Melee, S: 5, AP: -2, D: 2)
+**Special Rules:** 
+- Aegis of the Void: This model has a 4+ invulnerable save. 
+- Vengeful Bulwark: Each time a friendly Void unit within 6 cm of this model is targeted by an attack (ranged or melee), after the attacking unit has finished all its attacks, this model can immediately move up to 6 cm toward that attacking unit. If this movement brings this model into melee range of the attacker, this model can immediately make D3 attacks with Void Shield Bash against that unit. 
+- Immovable Guardian: While this model is within 3 cm of an objective marker, it cannot be forced to move or Fall Back by any means, gains +1 Toughness, and enemy units within 6 cm cannot score that objective. 
+- Retribution Counter: Each time a friendly Void Core unit within 6 cm is destroyed, this model gains +1 Attack and +1 Strength (maximum +3 each) until the end of the battle.
+**Warlord Trait:** Guardian of Shadows - All friendly Core units within 9 cm of The Dark Paladin gain +1 to their Armor Save and become immune to the Battleshocked condition. Additionally, once per battle, when a friendly unit within 6 cm would be destroyed, this model can declare "Absolute Protection" - that unit is not destroyed and remains at 1 wound, but this model immediately suffers D6 mortal wounds.
+
+---
+
+## Warlord's Lore
+
+### Void Archmage
+
 The Archmage was once a scholar of unmatched brilliance among the Lightborne, driven to master the deepest roots of magic to better protect his people. His research into void energies was meant to find weaknesses in the encroaching darkness, to turn the enemy's own power against them. But The Null Hour, watching from the shadows, saw an opportunity for a perfect frame.
+
 Through subtle manipulations and planted evidence, The Null Hour convinced the Lightborne mage council that the Archmage had betrayed them—that his void research was corruption rather than defense. When they came to destroy him, he defended himself, his superior mastery leaving the council broken and defeated. But the true tragedy came when The Starchild herself arrived, her face twisted with pain and accusation.
+
 "You killed them," she said, her voice breaking. "My advisors, my friends. How long have you been planning this?"
+
 "Planning what?" he demanded, confused and desperate. "They attacked me! I was trying to help—"
+
 But she wouldn't listen. Her Wrath of the Sun carved through his defenses, her Celestial Nova burning away his protections. As he fell, mortally wounded and betrayed by the one he had sworn to protect, The Null Hour appeared with The Dark Paladin and Void troops, dragging him through a portal before The Starchild could deliver the killing blow.
+
 In the Void's laboratories, they rebuilt him. His shattered body was replaced with a vessel of pure void energy—limitless in power but fragile as shadow. The process was agonizing, but unlike what many believe, his memories remained intact. Every moment of betrayal, every word of The Starchild's accusation, every second of confusion and pain—all of it burned into his consciousness forever.
+
 But from that pain came terrible purpose. If the Lightborne believed him a traitor, then he would give them a betrayal worth remembering. The Null Hour provided the strategy, but it was the Archmage who transformed it into total war. His tactical genius, his intimate knowledge of Lightborne defenses, his understanding of their weaknesses—all of it became a weapon of devastating precision.
+
 The Great Betrayal was his masterpiece of destruction. He personally led the assault on the Lightborne's crystal citadels, his void magic tearing through barriers he himself had helped design. His forces struck at command centers, supply lines, and communication arrays with surgical efficiency. He knew exactly where The Starchild would deploy her champions, exactly which fortifications would crumble under sustained bombardment, exactly how long it would take for reinforcements to arrive—and he used that knowledge to orchestrate a massacre.
+
 But there was one variable he hadn't fully accounted for: Nightblade. The Starchild's right hand coordinated the Lightborne's elite forces with deadly efficiency, his tactical countermeasures disrupting the Archmage's carefully planned assaults. Every time the Void seemed poised for a decisive breakthrough, Nightblade's interventions slowed their advance. The campaign that should have ended in hours dragged into days of brutal combat.
+
 The Archmage adapted. He baited Nightblade's forces into overextending, then crushed them with overwhelming magical firepower. His void storms consumed entire battalions. His tactical deployments trapped Lightborne armies in killing zones where MK's artillery and The Dark Paladin's shield wall could methodically annihilate them. Thousands fell, but Nightblade kept organizing resistance, kept pulling survivors together, kept denying the Void their total victory.
+
 Then came the final push. His weapon of annihilation, aimed directly at The Starchild. Nightblade threw himself into the beam's path, taking the full force of an attack meant to erase her from existence. With their greatest tactical commander gravely wounded and out of the fight, Lightborne resistance finally collapsed.
+
 By the time they rallied, it was too late. Their leadership was shattered, their strongest champions dead or scattered, their morale broken. The Great Betrayal succeeded through the Archmage's brilliant and merciless execution—but Nightblade's defense had prevented total annihilation. He had taken everything the Lightborne taught him about war and strategy, and used it to bring them to their knees, but only Nightblade's sacrifice kept them from being completely destroyed.
+
 When The Null Hour foresaw the Attack Moon's coming, the Archmage prepared defenses that shouldn't have been possible. When that stellar fortress descended with its impossible weapons, he stood at the center of the Void's resistance. His fragile form channeled energies that would have vaporized lesser beings, weaving void magic on a scale that matched the combined might of Lightborne and Paradox technology. The Null Hour, Void Negromancer and the Voidmages desperately worked to stabilize his essence as he poured everything into one final spell—and succeeded in damaging the Attack Moon enough to force its retreat.
+
 The cost was catastrophic. His body remains permanently wounded, his power forever limited. Every spell he casts now risks shattering his vessel entirely. But he endures, because he must. He is the Void's supreme weapon, the architect of their greatest victory, and the living proof that even the most loyal can be transformed into the most dangerous enemy.
+
 Now he leads the Void armies not out of corruption, but out of bitter necessity and the grim satisfaction of proving his worth. He knows the truth—that he was manipulated, framed, destroyed by the very people he tried to save. But he also knows that his response to that betrayal reshaped the balance of power across the galaxy. The Lightborne fear him now, as they should. And somewhere, somehow, he will find a way to make them understand what they created when they refused to listen to his desperate pleas for understanding.
 
-The Null Hour
+### The Null Hour
+
 Forged in silence where the Void devours all light, The Null Hour rose as its chosen vessel with the gift of foresight beyond mortal grasp—to behold kingdoms before their birth, wars before their spark, and the ruin of empires long before the first stone fell.
+
 Among all the futures he witnessed, one vision haunted him above all others: the reassembly of the Silver Key and the awakening of Yog-Sothoth, the mad god whose laughter would unravel reality itself. He saw worlds consumed not by darkness or light, but by pure chaos—existence itself becoming meaningless as the Outer God devoured causality. This apocalyptic future drove every manipulation, every scheme, every calculated move.
+
 The Void knows the mad god is extinction itself. The Paradox factions' founders discovered the Sovereigns' warnings in the Necronomium fragments—'The Gate is the Key. The Key is the End.' Both factions understand: the Silver Key must never be reassembled.
+
 But The Null Hour's visions have become clouded, twisted by The Truth-Teller and False Oracle's interference. He can no longer see clearly which faction will accidentally trigger the apocalypse. The probabilities shift constantly. The futures contradict themselves. Where once he had certainty, now he has only educated guesses wrapped in manufactured chaos.
+
 It was he who orchestrated the Archmage's fall, planting evidence of betrayal and whispering lies to the mage council. His manipulations were so precise that even the Archmage never suspected until it was too late. When The Starchild wounded the scholar nearly to death, The Null Hour was ready, extracting him with The Dark Paladin's help and bringing him to the Void where a new form awaited—a vessel of pure void energy, powerful but eternally fragile.
+
 He orchestrated the weapon that nearly killed Nightblade. He positioned the Void Archmage to fire it at The Starchild, knowing the loyal warrior would intercede, knowing the Lightborne's paranoia would turn sacrifice into suspicion. He planted the evidence that made Nightblade's exile inevitable. The manipulations were so perfect that everyone involved believes they acted of their own free will.
+
 The plan succeeded beyond his initial expectations. The Great Betrayal devastated the Lightborne, killed countless warriors and leaders, shattered their trust from within. Though both the Archmage and Nightblade escaped knowing the full truth of his manipulations, the damage was catastrophic.
+
 The Lightborne know nothing of Yog-Sothoth. They found their Silver Key fragment and their piece of the Necronomium, but their fragment speaks only of ascension, of power, of becoming rulers of the universe. The warnings were in the other pieces—the ones Void and Paradox possess. To the Lightborne, the Silver Key is salvation, the answer to defeating their enemies and restoring their lost glory.
+
 So they lie. When pressed by Void or Paradox, The Starchild and her commanders insist they have no interest in reassembling the Key, that they seek only to keep their fragment safe from those who would misuse it. In truth, they desperately want to find the other pieces, believing the complete Key will grant them power to undo the Great Betrayal's catastrophe.
+
 The Void and Paradox, knowing the truth about Yog-Sothoth, initially could have cooperated. But The Null Hour needed them divided. MK's attack on The False Oracle during the Battle of Shifting Sands wasn't random battlefield chaos—it was predicted, encouraged, allowed to happen because The Null Hour needed the factions suspicious of each other.
+
 The Paradox saw it as proof the Void cannot be trusted. The False Oracle's scar became a symbol of aggression. The Paradox concluded: the Void wants to eliminate both other factions, then assemble the Key themselves in secret.
+
 The Lightborne, observing both factions claiming they don't want to reassemble the Key, became suspicious. Why would two factions simultaneously refuse ultimate power? The only logical explanation: they're lying to prevent the Lightborne from obtaining it first. This confirmed The Starchild's belief that the Key is the path to victory.
+
 The Quantum Empress, watching this web of suspicion, agreed to help The Starchild build the Attack Moon. Not out of reconciliation, but calculated strategy: eliminate the Void threat first, then handle the Lightborne's dangerous ignorance second.
+
 All according to The Null Hour's design. Divided by suspicion and conflicting goals, the factions remain tools in his hands—or so he believed.
+
 He urged the Archmage to prepare defenses against the Attack Moon when he foresaw its coming, though even his warnings couldn't prevent the terrible cost. When that stellar fortress descended from the heavens, bringing combined wrath of light and paradox, The Null Hour and the Voidmages worked desperately to stabilize the Archmage's essence as he fought back the superweapon. They succeeded in driving it back, but the Archmage's body remains wounded, his power forever limited.
+
 But The Truth-Teller and False Oracle's interference has shattered his certainty. The Null Hour can no longer predict which faction will find the next fragment, who will move against whom, or whether his manipulations are even working anymore. He operates in darkness now, making educated guesses, hoping his past predictions hold true even as the future becomes opaque.
+
 In approximately 847 timelines—or maybe 3, or perhaps 10,000, he can no longer tell through the contradictory chaos—someone will reassemble the Key. The probabilities collapse toward singularity, then fracture, then collapse again in different configurations.
+
 The Void's true purpose is not conquest or destruction, but prevention. They seek the Silver Key fragments not to use them, but to ensure they remain forever scattered. In The Null Hour's vision—clouded though it now is—only by keeping the Key incomplete can reality itself survive.
+
 He is neither savior nor destroyer, but the guardian of existence itself—cursed to witness the world's fate before it arrives, and willing to commit any atrocity, orchestrate any betrayal, manipulate any hero, to stand watch at the fragile edge between what must be and what must never come to pass.
+
 He has become what he fought against—architect of catastrophe in the name of prevention, manipulator whose manipulations spiral beyond his control. And somewhere in the twisted futures, in the lies made true and the truths made false, Yog-Sothoth waits beyond the Gate, laughing at the futility of mortal schemes.
 
-The Dark Paladin:
+### The Dark Paladin
+
 When he was young and trained among the other soldiers, he was always lagging behind because he couldn't wield a sword properly. All the other soldiers laughed at his clumsy attempts, but he never faltered in his determination. If he couldn't strike down enemies, he decided, then he would become an unbreakable shield for his allies. That resolve began his journey with shield and defensive arts.
+
 Years of relentless training transformed him from a laughingstock into something far greater—a hulking figure of hope on the battlefield, respected by all who fought under his protection. His massive frame became synonymous with safety, his presence alone enough to steady wavering lines and give courage to the fearful. Yet through all his triumphs, he kept the Forsaken Branch close, a reminder of his humble beginnings and the pain that forged his purpose.
+
 When The Null Hour revealed his plan for the Great Betrayal, The Dark Paladin stood ready. He was there when they extracted the wounded Archmage from the Lightborne, providing protection as they fled. He was there when the Void's artificers built the Archmage's new body, offering the Forsaken Branch as a divine catalyst to stabilize the fragile vessel of void energy. His sacrifice allowed the Archmage to survive the transformation and eventually wield power enough to stand against even the Attack Moon.
+
 The Great Betrayal was a massacre. Without Nightblade's immediate capture to serve as a warning, the Lightborne were caught completely off-guard. By the time they rallied, thousands lay dead, their command structure shattered, their champions scattered. The Dark Paladin fought at the front lines of that carnage, his shield protecting the Void's forces as they carved through the unprepared Lightborne ranks.
+
 The Dark Paladin often wonders about the weapon that changed everything. He knows the Void Archmage fired it—aimed at The Starchild, meant to eliminate the Lightborne's greatest leader. He watched Nightblade throw himself into the beam's path, watched him take a blow meant for annihilation.
+
 What The Dark Paladin doesn't know is that both he and the Archmage were manipulated into that moment. The Null Hour orchestrated every step: the weapon's creation, its placement, the exact moment when The Starchild would be vulnerable, the Archmage's position when emotion and necessity aligned to make him pull the trigger.
+
 Neither the Archmage nor Nightblade know the full truth. The Archmage believes he made the tactical decision to fire—that in the heat of battle, eliminating The Starchild was the logical move. Nightblade believes the Archmage tried to kill her out of genuine malice born from betrayal. The Dark Paladin believes the Archmage calculated the shot deliberately.
+
 None of them see The Null Hour's invisible hand guiding the weapon to be there, the moment to be then, the consequences to cascade exactly as needed. The manipulation was so perfect that everyone involved believes they acted of their own free will.
+
 The Dark Paladin watches both men carefully now—the Archmage, who carries guilt for attempting to murder his former leader, and Nightblade, who carries bitterness for being punished after saving her from that murder. If either learned they were puppets dancing on The Null Hour's strings, the revelation could shatter the Void's unity entirely.
+
 So The Dark Paladin says nothing, watches everything, and wonders how many other 'choices' were actually manipulation. But even in victory, he feels the weight of caution. Nightblade eventually joined them, driven out by the very people he had tried to save, but The Dark Paladin watches him carefully. This warrior doesn't have void energy in his veins—only bitterness and betrayal. The Dark Paladin knows that such emotions are volatile, that the truth might surface one day, and when it does, Nightblade might remember who really orchestrated his fall. Until then, he stands ready to be the shield that protects the Void from threats within and without.
 
-Nightblade
+### Nightblade
+
 Nightblade was The Starchild's right hand, her closest friend and most trusted protector. Where she was the radiant hope of the Lightborne, he was the vigilant shadow that kept that hope alive. They had trained together, fought together, and sworn oaths that seemed unbreakable. Until the Great Betrayal turned everything to ash.
+
 When the Void Archmage's forces stormed the Lightborne citadel, Nightblade fought at The Starchild's side as he always had. The battle was chaos—void energies clashing with stellar fire, the screams of the dying mixing with the roar of impossible weapons. Then came the moment that would define everything: The Dark Paladin, standing behind the Archmage, raised a weapon of pure annihilation and aimed it directly at The Starchild.
+
 Nightblade didn't think. He threw himself into the beam's path, taking the full force of an attack meant to erase her from existence. The pain was beyond description—his body shredding, his very essence unraveling. But he held on long enough for The Starchild to destroy the weapon, long enough to see her safe.
+
 He woke in the medical ward, his body wrapped in bandages and sustained by Lightborne healing magic. The wounds would scar, but he would live. What he didn't expect was The Starchild's face, twisted with suspicion and cold fury.
+
 "You knew," she said. "You knew what the Archmage was planning."
+
 "What? No, I—"
+
 "You were always with him in the archives. Always defending his research. And then, conveniently, you're there to 'save' me right when the attack happens?" Her voice was ice. "Tell me, was this your plan from the beginning? Gain my trust, wait for the perfect moment?"
+
 "You can't possibly believe—"
+
 "The evidence doesn't lie, Nightblade. We found your signature on documents authorizing void research. Communications between you and Void agents. You orchestrated this entire betrayal, and when it failed, you played the hero to maintain your cover."
+
 The documents were fabricated, the communications forged by The Null Hour's meticulous planning. But Nightblade, still weak from his wounds, couldn't prove it. The more he protested, the more guilty he seemed. The more he reached for The Starchild, the more she recoiled.
+
 "Get out," she finally said. "You are banished from the Lightborne. If you ever return, it will be as an enemy."
+
 When he refused to leave quietly, still trying to make her understand, she made good on her threat. The Dawnbreaker and other warriors attacked him, driving him out with violence and contempt. Wounded, betrayed, and alone, he stumbled into the dark where the Void found him.
+
 The Void offered him purpose when the light had cast him aside. They gave him a new identity, a white sheath for his blade, and a role as their perfect assassin. But they couldn't erase what he remembered—every moment with The Starchild, every shared victory, every promise they'd made. When he fights her now, or The Dawnbreaker, something inside him screams that this is wrong. But what choice does he have? The light branded him traitor. The Void is all that remains.
+
 He is Nightblade now, the shadow's perfect servant. But in his dreams, he still remembers the moment he took that beam, the moment he proved his loyalty with his own destruction. And he wonders if she ever thinks about it too.
 
-MK (Minuscule Knight) Lore:
+### MK (Minuscule Knight) Lore
+
 They used to call me "Warlord." Those were the days when my name alone could shatter enemy formations, when my tactical brilliance was spoken of in whispered reverence across the void-touched worlds. I commanded from the front lines, my cannons speaking death to all who opposed us. I was magnificent.
+
 Then Nightblade came.
+
 The duel was inevitable—two apex predators cannot share the same hunting ground. I had expected him to be skilled, but what I faced was nothing special—just someone who got lucky.
+
 Here's what really happened: I was tired from commanding the siege operations. My cannons needed maintenance after days of continuous bombardment. The battlefield positioning was terrible—close quarters where his blade had every advantage over my artillery. Any competent tactician would have recognized these were suboptimal conditions for evaluating true skill.
+
 But no one cared about context. They saw his blade moving fast—not because he was skilled, but because I was exhausted and my equipment was compromised. They saw my Void-Breaker Cannon miss critical shots—not because he was evasive, but because my targeting systems needed recalibration. When my cannon finally found its mark and I thought victory was mine, he got one lucky strike in. One. Single. Lucky. Strike.
+
 And they took everything from me.
+
 Victory became defeat in the space between heartbeats, and I found myself broken on the battlefield, my command stripped away. They reduced me. Humiliated me. Gave my command to inferior tacticians who waste resources and squander advantages I would have exploited brilliantly.
+
 Now they call me "Minuscule Knight," a bitter joke that cuts deeper than any weapon. But let them laugh—I remember the Great Betrayal, when my cannons carved through Lightborne ranks like paper. I remember the moment my Void-Breaker Cannon found that presumptuous False Oracle at the Battle of Shifting Sands, leaving her with a scar that phases in and out of existence—a permanent reminder of my precision. Foolish Null Hour, how dare he underestimate my might!
+
 Most of all, I remember my crucial role in the Great Betrayal itself. When the Void Archmage was wounded by The Starchild's devastating attack, it was I who provided covering fire as The Null Hour and The Dark Paladin extracted him. When the Lightborne counterattacked, enraged at discovering their mistake, my cannon emplacements held the line long enough for us to complete the retreat.
+
 Without Nightblade's immediate capture to warn them, the Lightborne were completely unprepared for our assault. By the time they understood what was happening, thousands lay dead, their command structure shattered, their champions scattered. My tactical genius orchestrated the siege lines, my positioning forced them into killing grounds, my relentless bombardment broke their will to resist.
+
 Now I watch Nightblade serve the Void as their assassin, and it confirms everything I already knew. They use him as a simple blade—point him at a target, let him kill, retrieve him. No strategy. No tactical depth. Just violence. If he was truly the genius they claimed when they demoted me, they'd give him command. But they don't, because they know the truth: he's a weapon, not a commander. He's a tool with good reflexes, not a tactician.
+
 I was a Warlord. I coordinated armies. I designed killing fields. I orchestrated the Great Betrayal's siege operations with such precision that thousands fell before they understood what was happening. Nightblade? He's an assassin who got lucky in a duel under conditions that favored him completely.
+
 Give me proper rest, proper equipment, proper battlefield conditions, and I'd vaporize him before he took three steps. But they'll never give me that chance to prove it, will they? Because they need their narrative. They need to believe the pretty assassin with his white sheath is special, is exceptional, is worth the rank they stole from me.
+
 They may have reduced me to this smaller form, but they could not diminish what I accomplished. I am MK now, but I am still the architect of their greatest victory. My tactical genius shaped the Great Betrayal. My cannon fire held the line during the Archmage's extraction. My positioning made the massacre possible.
+
 Nightblade just has a sharp sword, good timing, and dumb luck. When the true final battle comes, they'll remember who actually wins wars—and it isn't the lucky assassin with a white sheath and favorable conditions. It's the tactician with the biggest gun and the strategic brilliance they were too blind to appreciate.
 
-Void Negromancer Lore:
+### Void Negromancer Lore
+
 Once, he was nothing more than a nameless Voidmage — one among hundreds, an apprentice to the shadowed mysteries of the abyss, with no destiny beyond servitude and minor spellcraft. His life changed during the ill-fated exploration of the Ancient Ruins of the Aeons, where time itself folds in on broken echoes of civilizations long erased. Deep within those ruins, he stumbled upon the Tomb of Gaotama Sutama, a figure whispered of even in the Void as a forbidden legend: the first Necromancer, a woman who bent the laws of life and death until the gods themselves struck her name from existence.
+
 There, upon a throne of bone and shadow, lay her personal Grimoire of Black Eternity — a tome said to have been written in the lifeblood of stars. Against every warning carved into the walls, he opened it and read. What he saw were not mere words, but living incantations that clawed into his mind, carving the shapes of forbidden knowledge into his soul.
+
 From that moment, he was no longer a mere Voidmage. He was reborn as the Void Necromancer. With his newfound arts, he calls the dead to rise again, their husks bound in chains of voidlight, their eyes burning with unholy fire. To him, death is no longer an end but a resource — a canvas upon which he sculpts his armies anew.
+
 Some whisper that each resurrection costs him a piece of his own essence, and that one day he will become the very lich-king he serves to emulate. Others fear he has already surpassed Sutama, and that the Paradox of life and death itself will unravel beneath his hand. He does not care. For in his voice, the grave is silent, and in his presence, the dead obey.
 
-God Engine Lore:
-Dreadnut (Voidhollow God Machine)
-Forged in the tombs of N’kai, the Dreadnut was built not as a beacon, but as a vessel of annihilation. Its body is a hollow fortress, inscribed with the Necronomium’s prophecy of “The Fang that Devours Memory.”
+---
+
+## God Engine Lore
+
+### Dreadnut (Voidhollow God Machine)
+
+Forged in the tombs of N'kai, the Dreadnut was built not as a beacon, but as a vessel of annihilation. Its body is a hollow fortress, inscribed with the Necronomium's prophecy of "The Fang that Devours Memory."
+
 Its Silver Key shard does not shine — it consumes. It drinks warmth, sound, and even history from the world around it. To behold the Dreadnut is to risk being forgotten, erased from records and memory alike.
