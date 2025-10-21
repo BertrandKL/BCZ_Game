@@ -50,7 +50,7 @@ You can choose two of these blessings to give to any units in your army. Remembe
 ## Core Units
 
 ### Voidmarchers
-**Cost:** 22 pts per model
+**Cost:** 20 pts per model
 **Role:** Infantry
 **Keywords:** Core, Void
 **Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 3, T: 3, W: 1, A: 1, Ld: 7, Save: 5+, OC: 1
@@ -58,6 +58,8 @@ You can choose two of these blessings to give to any units in your army. Remembe
 **Special Rules:** 
 - Hold the Line: While within 3 cm of another Voidmarcher unit, this unit has a 4+ Save instead of 5+. 
 - Echoes in the Dark: When a friendly unit within 6 cm is destroyed, this unit can make a free 3 cm normal move.
+- Void Shroud: Enemy units shooting at this unit from more than 12cm away subtract 1 from their hit rolls.
+- Abyssal Swarm: While this unit has 8 or more models, it gains +1 to its Save characteristic (stacks with other bonuses).
 **Unit Size:** 5–10, **Army Limit:** Unlimited
 
 ### Voidpyros
@@ -77,7 +79,7 @@ You can choose two of these blessings to give to any units in your army. Remembe
 **Cost:** 200 pts per model
 **Role:** Elite Champion / Anti-Tank
 **Keywords:** Void, Character, Overwatch
-**Statline:** M: 5 cm, WS: 3+, BS: 2+, S: 6, T: 6, W: 9, A: 3, Ld: 10, Save: 2+, OC: 4
+**Statline:** M: 5 cm, WS: 3+, BS: 2+, S: 6, T: 6, W: 10, A: 3, Ld: 10, Save: 2+, OC: 4
 **Weapons:** Void-Breaker Cannon (Heavy 1, 36 cm, S: 16, AP: -4, D: D6+4, Precision), Abyssal Mini-Cannons (Heavy 12, 30 cm, S: 7, AP: -2, D: 2)
 **Special Rules:**
 - **Bulwark of the Machine:** If this unit did not move, its Void-Breaker Cannon gains +1 to hit rolls and +1 to damage rolls.
@@ -88,14 +90,19 @@ You can choose two of these blessings to give to any units in your army. Remembe
 - **Reinforced Plating:** Reduce all incoming damage by 1 (to a minimum of 1).
 **Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts8, A: 2, Ld: 9, Save: 3+, OC: 4
 **Weapons:** Void-Breaker Cannon (Heavy 1, 30 cm, S: 16, AP: -4, D: D6+3), Abyssal Mini-Cannons (Heavy 10, 24 cm, S: 6, AP: -2, D: 2)
+**Special Rules:**
+- **Bulwark of the Machine:** If this unit did not move, its Cannon gains +1 BS
+- **Voidforged:** Ranged weapons can target units in combat, hitting on an unmodified 6
+- **Void-Hunter Rounds:** Each time an attack is made with this model's Void-Breaker Cannon, you can re-roll a wound roll of 1. If the target is a Vehicle or Monster, you can re-roll the wound roll
+- **Tactical Supremacy:** Enemy units within 12 cm of this model cannot use Reserves or any special deployment rules
 **Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
 
 ### Phantom Assassins
-**Cost:** 75 pts per model
+**Cost:** 70 pts per model
 **Role:** Elite Melee Specialists
 **Keywords:** Void, Character, Deep Strike
 **Statline:** M: 8 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 3, Ld: 8, Save: 4+, OC: 2
-**Weapons:** Whisper of Dusk (Melee, S: 4, AP: -2, D: 2, Precision), Ashen Stars (Assault 3, 18 cm, S: 3, AP: -1, D: 1, Precision)
+**Weapons:** Whisper of Dusk (Melee, S: 4, AP: -2, D: 2, Precision), Ashen Stars (Assault 3, 24 cm, S: 4, AP: -1, D: 1, Precision)
 **Special Rules:** 
 - Shadow Step: Move 6 cm ignoring terrain once per turn. 
 - Assassin's Mark: Once per turn, select one enemy Character or Vehicle model. This model's attacks against that target have the [DEVASTATING WOUNDS] ability and improve the Armour Penetration characteristic of those attacks by 1.
@@ -189,11 +196,11 @@ You can choose two of these blessings to give to any units in your army. Remembe
 **Role:** Precision Assassin
 **Keywords:** Character, Void, Warlord
 **Statline:** M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 5, Ld: 9, Save: 2+, OC: 2
-**Weapons:** Whispering Shadow Blade (Melee, S: 4, AP: -3, D: 3, Precision), Phantom Shuriken (Assault 3, 18 cm, S: 3, AP: -1, D: 1, Precision)
+**Weapons:** Whispering Shadow Blade (Melee, S: 4, AP: -3, D: 3, Precision), Phantom Shuriken (Assault 2, 12 cm, S: 3, AP: -1, D: 1, Precision)
 **Special Rules:** 
-- Death Mark: At the start of the battle, after both sides have deployed, choose one enemy Character, Monster, God-Engine or Vehicle. All of Nightblade's attacks against that target automatically wound on unmodified hit rolls of 4+, and improve the AP of those attacks by 1. 
+- Death Mark: At the start of the battle, after both sides have deployed, choose one enemy Character, Monster, or Vehicle. All of Nightblade's attacks against that target automatically wound on unmodified hit rolls of 4+, and improve the AP of those attacks by 1. 
 - Shadow Infiltration: This model can be placed into Reserves for free (does not count toward the 2 unit Reserve limit). When arriving from Reserves, he can be placed anywhere more than 6 cm from enemies and can charge on the same turn. 
-- Assassination Protocol: If this model destroys an enemy Character with the Death Mark in melee combat, he immediately gains the following benefits until the end of the battle: Can re-roll all failed hit rolls, Gains +1 Attack, Cannot be targeted by ranged attacks unless he is the closest visible target 
+- Assassination Protocol: If this model destroys an enemy Character in melee combat, he immediately gains the following benefits until the end of the battle: Can re-roll all failed hit rolls, Gains +1 Attack, Cannot be targeted by ranged attacks unless he is the closest visible target 
 - Marked by Silence: Enemy units within 6 cm subtract 1 from Leadership.
 **Warlord Trait:** Master of the Unseen Blade - Friendly Phantom Assassin units within 6 cm of Nightblade gain +1 to their Strength and have a 4+ Invulnerable Save. Additionally, Nightblade himself gains the following: if his Death Mark target is Battleshocked, he can re-roll all failed hit rolls against that target and his Whispering Shadow Blade becomes Damage 4 instead of Damage 3.
 
@@ -207,7 +214,7 @@ You can choose two of these blessings to give to any units in your army. Remembe
 - **Voidbolt:** Casting Value 5. Deals D3 mortal wounds to a target within 24 cm. 
 - **Unraveling Curse:** Casting Value 7. Choose one enemy unit within 18 cm. Until your next turn, that unit must re-roll all successful save rolls and subtract 2 from their Leadership. 
 - **Void Conduit:** Casting Value 6. All friendly Void units within 12 cm gain +1 Strength until your next turn. 
-- **Void Oblivion:** Casting Value 10. Can only be used from Turn 2 onwards. Choose one point within 24 cm that you have line of sight to. All units (friend or foe) within 6 cm of that point suffer 2D6 mortal wounds. The Void Archmage can choose to overcharge this power - if he does, increase the range to 30 cm and the radius to 9 cm, but this model immediately suffers D6+1 mortal wounds after resolving the attack. Line of sight is still required. Once per battle.
+- **Void Oblivion:** Casting Value 10. Can only be used from Turn 2 onwards. Choose one point within 24 cm that you have line of sight to. All units (friend or foe) within 6 cm of that point suffer 2D6 mortal wounds. The Void Archmage can choose to overcharge this power - if he does, increase the range to 30 cm and the radius to 9 cm, but this model immediately suffers D6 mortal wounds after resolving the attack. Line of sight is still required. Once per battle.
 **Special Rules:** 
 - Supreme Channeler: This model can attempt to manifest up to 4 psychic powers per turn (instead of the normal limit). However, for each power after the second, add +1 to the casting value required. 
 - Master of the Void: Friendly Caster units within 9 cm can reroll one psychic die when manifesting. 
