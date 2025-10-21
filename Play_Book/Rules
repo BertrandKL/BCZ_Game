@@ -203,6 +203,53 @@ The player with the highest total OC value within range of the objective control
 
 **Example:** You have 5 Solar Sentinels (OC: 1 each) and 1 Solar Colossus (OC: 6) within 3 cm of an objective. Your total OC is (5 * 1) + 6 = 11. If your opponent only has a unit of 10 Voidmarchers (OC: 1 each) near it, their total is 10. You control the objective because 11 > 10.
 
+Units in Engagement Range
+IMPORTANT: Units that are in Engagement Range (within 1cm of enemy models) have their OC reduced to 0 UNLESS they have a special rule that says otherwise.
+Example:
+
+Your 10 Voidmarchers are within 3cm of an objective (normally OC: 10 total)
+Enemy Solar Guards charge and engage them in melee
+Now your Voidmarchers are in Engagement Range
+Their OC becomes 0 - they no longer control the objective!
+
+When to Count Objectives and Score Points
+SCORING HAPPENS AT THE END OF EACH ROUND (not each turn!)
+At the end of Round 1, 2, 3, 4, and 5:
+
+Both players' turns are complete
+STOP and count objectives
+For each objective marker on the board:
+
+Measure 3cm from center
+Count OC of all models within 3cm for each player
+Units in Engagement Range have OC: 0 (unless special rule says otherwise)
+Player with HIGHER total OC controls that objective
+If tied or no one is within 3cm, no one controls it
+
+
+Each player scores 1 point for each objective they control
+Write down the score
+Start the next round
+
+Example Scoring:
+
+End of Round 1:
+
+Center objective: You have 5 OC, opponent has 3 OC → You score 1 point
+Your objective: You have 10 OC, opponent has 0 OC → You score 1 point
+Enemy objective: You have 0 OC, opponent has 8 OC → Opponent scores 1 point
+Round 1 Score: You 2, Opponent 1
+
+
+End of Round 2:
+
+Center objective: Your units are in combat (OC: 0), opponent has 12 OC → Opponent scores 1 point
+Your objective: You have 6 OC, opponent has 0 OC → You score 1 point
+Enemy objective: You have 0 OC, opponent has 5 OC → Opponent scores 1 point
+Round 2 Score: You 1, Opponent 2
+Total Score: You 3, Opponent 3
+
+Continue this for all 5 rounds. At the end of Round 5, whoever has the most total points wins!
 ---
 
 ### CP Economy
