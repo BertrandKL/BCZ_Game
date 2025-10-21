@@ -1,197 +1,285 @@
-Lightborne Codex
+# Lightborne Codex
 
-Faction Lore
+## Faction Lore
+
 The Lightborne are the first children of the Eternal Core, a sentient star from which all radiant life springs. They are a civilization defined by discipline, artistry, and an unyielding devotion to their purpose: to stand as the unblinking sun against the encroaching darkness of the Void. Their forms are living sculptures of light and metal, each movement a graceful, purposeful dance. They see war not as a brutish clash, but as a final, beautiful act of defiance. Every soldier, from the humblest Solar Sentinel to the colossal Attack Moon, is a fragment of the sun's power, a piece of the cosmos fighting to preserve its existence. They do not seek conquest, but to burn away the shadow until only the light remains. Their technology is not built, but grown from the Core's stellar energy, and their psychic powers are not summoned, but sung into existence through a collective harmony of souls.
 
-Faction Warcry
-Celestial Fury: Once per game, at the start of your Shooting Phase, you can declare this ability. Choose one friendly unit. Until the end of the phase, all of that unit's ranged weapons gain the [LETHAL HITS] ability.
+## Faction Warcry
 
-Faction Abilities
-Divine Will (1 CP): Use this ability at the start of any phase. Choose one friendly unit on the battlefield. That unit gains a 6+ Invulnerable Save for the rest of the phase.
-Solar Flare (2 CP): Use this ability during your shooting phase. Choose one friendly unit and immediately make an extra shooting attack.
-Radiant Assault (1 CP): Use this during your charge phase. Choose a friendly unit. It adds +1 to its Attacks characteristic until the end of the turn.
-Guiding Light (2 CP): Use this during your opponent's shooting phase. Choose a friendly unit that is being targeted. All incoming attacks against that unit have their damage reduced by 1 (to a minimum of 1).
-Aura of Purity (1 CP): Use this ability at the start of any phase. Choose one enemy unit within 12 cm of any friendly Lightborne unit. Until the start of your next turn, that enemy unit must subtract 1 from its Leadership characteristic and must re-roll passed Battleshock tests.
+**Celestial Fury:** Once per game, at the start of your Shooting Phase, you can declare this ability. Choose one friendly unit. Until the end of the phase, all of that unit's ranged weapons gain the [LETHAL HITS] ability.
 
-Faction Blessings
+## Faction Abilities
+
+- **Divine Will (1 CP):** Use this ability at the start of any phase. Choose one friendly unit on the battlefield. That unit gains a 6+ Invulnerable Save for the rest of the phase.
+- **Solar Flare (2 CP):** Use this ability during your shooting phase. Choose one friendly unit and immediately make an extra shooting attack.
+- **Radiant Assault (1 CP):** Use this during your charge phase. Choose a friendly unit. It adds +1 to its Attacks characteristic until the end of the turn.
+- **Guiding Light (2 CP):** Use this during your opponent's shooting phase. Choose a friendly unit that is being targeted. All incoming attacks against that unit have their damage reduced by 1 (to a minimum of 1).
+- **Aura of Purity (1 CP):** Use this ability at the start of any phase. Choose one enemy unit within 12 cm of any friendly Lightborne unit. Until the start of your next turn, that enemy unit must subtract 1 from its Leadership characteristic and must re-roll passed Battleshock tests.
+
+## Faction Blessings
+
 You can choose two of these blessings to give to any units in your army. Remember, a single unit can only receive one blessing.
-Blessing of the Core: This unit gains a 6+ Invulnerable Save against all attacks.
-Blessing of the Sun: Each time this unit makes a ranged attack, an unmodified hit roll of 6 scores 1 additional hit.
-Blessing of the Dawn: When this unit makes a charge move, add 1 to its Strength and Attacks characteristics until the end of the turn.
-Blessing of the Forge: Once per turn, when this unit fails a saving throw, you can force the attacking player to re-roll the Wound roll.
-Blessing of the Light: This unit adds +1 to its Leadership characteristic.
 
-Keywords
-Core: Units that form the backbone of the army.
-Elite: Specialized, powerful units with unique roles.
-Fly: Units that can ignore terrain and other models when moving.
-Caster: Units that can use Psychic Powers.
-Vehicle: An armored unit with high Toughness and Wounds.
-Artillery: A heavy weapon platform that can fire on targets it cannot see.
-Character: A single model that leads a unit or provides special abilities.
-Warlord: The designated leader of your army.
-Lightborne: The faction keyword for all units in this codex.
-[LETHAL HITS]: If you roll an unmodified 6 to hit, that hit automatically wounds the target.
-Deep Strike: Able to access the reserves.
+- **Blessing of the Core:** This unit gains a 6+ Invulnerable Save against all attacks.
+- **Blessing of the Sun:** Each time this unit makes a ranged attack, an unmodified hit roll of 6 scores 1 additional hit.
+- **Blessing of the Dawn:** When this unit makes a charge move, add 1 to its Strength and Attacks characteristics until the end of the turn.
+- **Blessing of the Forge:** Once per turn, when this unit fails a saving throw, you can force the attacking player to re-roll the Wound roll.
+- **Blessing of the Light:** This unit adds +1 to its Leadership characteristic.
 
-Core Units
-Solar Sentinels
-Cost: 22 pts per model
-Role: Infantry
-Keywords: Core, Lightborne
-Statline (per model): M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 1, A: 2, Ld: 8, Save: 5+, OC: 1
-Weapons: Plasma Rifle (Rapid Fire 1, 15 cm, S: 5, AP: -1, D: 1), Power Axe (Melee, S: 5, AP: -1, D: 1)
-Special Rules: Defensive Formation: While this unit contains 5 or more models, it gains +1 to its Save characteristic.
-Unit Size: 5-10, Army Limit: Unlimited
+## Keywords
 
-Solar Guards
-Cost: 38 pts per model
-Role: Infantry
-Keywords: Core, Lightborne
-Statline (per model): M: 6 cm, WS: 3+, BS: 5+, S: 5, T: 4, W: 1, A: 3, Ld: 8, Save: 4+, OC: 1
-Weapons: Solar Scythe (Melee, S: 6, AP: -2, D: 2)
-Special Rules: Aegis Wall: Enemy models cannot target this unit with ranged attacks unless the attacking model is within 18 cm. Hold the Line: This unit can hold objectives even if they are within engagement range of an enemy unit.
-Unit Size: 5-10, Army Limit: Unlimited
+**Core:** Units that form the backbone of the army.
+**Elite:** Specialized, powerful units with unique roles.
+**Fly:** Units that can ignore terrain and other models when moving.
+**Caster:** Units that can use Psychic Powers.
+**Vehicle:** An armored unit with high Toughness and Wounds.
+**Artillery:** A heavy weapon platform that can fire on targets it cannot see.
+**Character:** A single model that leads a unit or provides special abilities.
+**Warlord:** The designated leader of your army.
+**Lightborne:** The faction keyword for all units in this codex.
+**[LETHAL HITS]:** If you roll an unmodified 6 to hit, that hit automatically wounds the target.
+**Deep Strike:** Able to access the reserves.
 
-Elite Units
-Light-Singer
-Cost: 95 pts
-Role: Psychic Support
-Keywords: Character, Elite, Lightborne, Caster
-Statline: M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 4, A: 3, Ld: 9, Save: 3+, OC: 2
-Weapons: Light-Spear (Melee, S: 5, AP: -1, D: 2, Ranged Psychic Attack 1, 12 cm, S: 6, AP: -1, D: 1)
-Special Rules: Harmonious Command: All Lightborne Core units within 6cm of this model can use the Aura of Purity ability for 0CP once per battle. Psionic Resonance: Can re-roll one failed psychic test per turn.
-Psychic Powers: Mind-Blade: Casting Value 6. Select one enemy unit within 12 cm. That unit suffers D3 mortal wounds.
-Unit Size: 1, Army Limit: Max 1 per 1,000 pts
+---
 
-Solar Racers
-Cost: 45 pts per model
-Role: Cavalry
-Keywords: Elite, Lightborne, Deep Strike
-Statline (per model): M: 12 cm, WS: 3+, BS: 3+, S: 5, T: 4, W: 2, A: 4, Ld: 9, Save: 4+, OC: 2
-Weapons: Twin-Linked Solar Blasters (Assault 2, 18 cm, S: 6, AP: -2, D: 2), Spiked Ram (Melee, S: 6, AP: -1, D: 2)
-Special Rules: I AM SPEED: When this unit makes a Normal Move, it can move an additional 3 cm. Piston Cup: Each time this unit finishes a charge move, roll one D6: on a 4+, it can make 3 additional melee attacks this phase.
-Unit Size: 1-3, Army Limit: Max 3 per 1,000 pts
+## Core Units
 
-Sunforged Vindicators
-Cost: 145 pts (+10pts)
-Role: Siege Artillery
-Keywords: Elite, Lightborne, Character
-Statline: M: 5 cm, WS: 6+, BS: 3+, S: 8, T: 10, W: 8, A: 1, Ld: 9, Save: 2+, OC: 3
-Weapons: Heavy Solar Cannon (Heavy 3, 24 cm, S: 14, AP: -4, D: D3+3)
-Special Rules:
-Siege Protocols: This model can only fire its Heavy Solar Cannon if it did not make a Normal Move, Advance, or Fall Back this turn. If this model remained stationary: Add +1 to hit rolls with Heavy Solar Cannon, Add +1 to the Damage characteristic, This model can fire its Heavy Solar Cannon twice in the Shooting phase, Enemy units cannot benefit from cover against this model's attacks
-Structural Integrity: This model reduces all incoming damage by 1 (to a minimum of 1).
-Unit Size: 1-3, Army Limit: Max 2 per 1,000 pts
+### Solar Sentinels
+**Cost:** 22 pts per model
+**Role:** Infantry
+**Keywords:** Core, Lightborne
+**Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 1, A: 2, Ld: 8, Save: 5+, OC: 1
+**Weapons:** Plasma Rifle (Rapid Fire 1, 15 cm, S: 5, AP: -1, D: 1), Power Axe (Melee, S: 5, AP: -1, D: 1)
+**Special Rules:** Defensive Formation: While this unit contains 5 or more models, it gains +1 to its Save characteristic.
+**Unit Size:** 5-10, **Army Limit:** Unlimited
 
-Starwing Interceptors
-Cost: 45 pts per model
-Role: Fast Attack
-Keywords: Elite, Lightborne, Fly, Deep Strike
-Statline (per model): M: 15 cm, WS: 4+, BS: 3+, S: 5, T: 5, W: 2, A: 2, Ld: 9, Save: 4+, OC: 1
-Weapons: Twin-Linked Solar Pulse Cannons (Assault 4, 18 cm, S: 7, AP: -1, D: 2), Talons (Melee, S: 6, AP: -1, D: 2)
-Special Rules: Hit and Run: After this unit makes a ranged attack, it can immediately move up to 6 cm. Aegis Wing: This unit gains a 5+ Invulnerable Save against ranged attacks.
-Unit Size: 1-3, Army Limit: Max 3 per 1,000 pts
+### Solar Guards
+**Cost:** 42 pts per model
+**Role:** Infantry
+**Keywords:** Core, Lightborne, Overwatch
+**Statline (per model):** M: 6 cm, WS: 3+, BS: 5+, S: 5, T: 4, W: 1, A: 3, Ld: 8, Save: 4+, OC: 1
+**Weapons:** Solar Scythe (Melee, S: 6, AP: -2, D: 2)
+**Special Rules:** 
+- Aegis Wall: Enemy models cannot target this unit with ranged attacks unless the attacking model is within 18 cm. 
+- Defensive Stance: This unit can fire Overwatch even though it has no ranged weapons - it makes melee attacks against charging units as if they were already in combat, hitting only on unmodified 6s.
+**Unit Size:** 5-10, **Army Limit:** Unlimited
 
-Radiant Annihilators
-Cost: 110 pts per model
-Role: Heavy Fire Support
-Keywords: Elite, Lightborne, Character
-Statline: M: 5 cm, WS: 4+, BS: 3+, S: 4, T: 4, W: 3, A: 1, Ld: 8, Save: 3+, OC: 2
-Weapons: Solar Repeaters (Heavy 12, 24 cm, S: 5, AP: -1, D: 1)
-Special Rules: Focused Barrage: Each time this model makes a ranged attack, you can re-roll a wound roll of 1. If this model Remained Stationary, you can re-roll all wound rolls of 1.
-Unit Size: 1, Army Limit: Max 2 per 1,000 pts
+---
 
-The Solar Colossus
-Cost: 265 pts
-Role: Walking Fortress, God-Engine
-Keywords: Elite, Lightborne, Character, God-Engine
-Statline: M: 8 cm, WS: 5+, BS: 3+, S: 8, T: 9, W: 14, A: 3, Ld: 9, Save: 3+, OC: 6
-Weapons: Twin Heavy Solar Cannons (Heavy 4, 30 cm, S: 10, AP: -3, D: 3), Crushing Fists (Melee, S: 10, AP: -2, D: 4)
-Special Rules: Armored Plating: All incoming attacks against this model have their damage reduced by 1 (to a minimum of 1). Towering Dreadnought: Enemy units within 9 cm of this model must subtract 2 from their Leadership characteristic and must re-roll successful Battleshock tests. Additionally, enemy units within 6 cm cannot use the Heroic Intervention stratagem or ability. Blazing Aura: Each time this model makes a Normal Move or Advance, roll one D6 for each enemy unit it moved within 3 cm of. On a 3+, that unit suffers D3 mortal wounds as the ground shakes beneath the Colossus's stride. Solar Overcharge: Once per battle, during the Shooting phase, this model can overcharge its weapons. If it does, its Twin Heavy Solar Cannons gain +2 Strength, +1 AP, and +1 Damage this turn, but this model suffers D3 mortal wounds after shooting.
-Unit Size: 1, Army Limit: Max 1 per 1,000 pts
+## Elite Units
 
-Sunstorm Catapults
-Cost: 140 pts per model
-Role: Artillery
-Keywords: Vehicle, Artillery, Lightborne
-Statline: M: 4 cm, WS: 6+, BS: 3+, S: 7, T: 9, W: 10, A: 0, Ld: 9, Save: 3+, OC: 4
-Weapons: Sunstorm Mortar (Heavy D6, 36 cm, S: 8, AP: -1, D: 2, Indirect Fire)
-Special Rules: Indirect Fire: This unit can target an enemy unit that is not in its line of sight. Focused Barrage: This unit can re-roll hit rolls of 1 if it did not move this turn.
-Unit Size: 1-2, Army Limit: Max 2 per 1,000 pts
+### Light-Singer
+**Cost:** 95 pts
+**Role:** Psychic Support
+**Keywords:** Character, Elite, Lightborne, Caster
+**Statline:** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 4, A: 3, Ld: 9, Save: 3+, OC: 2
+**Weapons:** Light-Spear (Melee, S: 5, AP: -1, D: 2, Ranged Psychic Attack 1, 12 cm, S: 6, AP: -1, D: 1)
+**Special Rules:** 
+- Harmonious Command: All Lightborne Core units within 6cm of this model can use the Aura of Purity ability for 0CP once per battle. 
+- Psionic Resonance: Can re-roll one failed psychic test per turn.
+**Psychic Powers:** Mind-Blade: Casting Value 6. Select one enemy unit within 12 cm. That unit suffers D3 mortal wounds.
+**Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
 
-Warlords
-The Starchild
-Cost: 340 pts
-Role: Divine Warlord
-Keywords: Character, Warlord, Caster, Lightborne, Deep Strike
-Statline: M: 6 cm, WS: 5+, BS: 3+, S: 4, T: 5, W: 8, A: 1, Ld: 10, Save: 2+, OC: 3
-Weapons: Wrath of the Sun (Heavy 1, 30 cm, S: 10, AP: -4, D: 6)
-Special Rules: Divine Radiance: All friendly Lightborne units within 9 cm of this model add +1 to their Leadership and can reroll hit rolls of 1. Fated Strike: Once per turn, this model can reroll one of its failed to-hit or to-wound rolls.
-Warlord Trait: The Celestial Conduit: When this model attempts to manifest a Psychic Power, you can add +1 to its Psychic Test. Additionally, this model can attempt to manifest one additional Psychic Power per turn.
-Psychic Powers: Celestial Nova: Casting Value 7. Select one enemy unit within 12 cm. That unit suffers D6 mortal wounds. Guiding Light: Casting Value 6. Select one friendly unit within 6 cm. That unit adds +1 to its hit rolls until your next turn. Solar Block: Casting Value 5. Select this model. It gains a 3+ Invulnerable Save until your next turn. Cosmic Barrage: Casting Value 10. Select one enemy unit anywhere on the battlefield. That unit suffers 2D6 mortal wounds.
+### Solar Racers
+**Cost:** 45 pts per model
+**Role:** Cavalry
+**Keywords:** Elite, Lightborne, Deep Strike
+**Statline (per model):** M: 12 cm, WS: 3+, BS: 3+, S: 5, T: 4, W: 2, A: 4, Ld: 9, Save: 4+, OC: 2
+**Weapons:** Twin-Linked Solar Blasters (Assault 2, 18 cm, S: 6, AP: -2, D: 2), Spiked Ram (Melee, S: 6, AP: -1, D: 2)
+**Special Rules:** 
+- I AM SPEED: When this unit makes a Normal Move, it can move an additional 3 cm. 
+- Piston Cup: Each time this unit finishes a charge move, roll one D6: on a 4+, it can make 3 additional melee attacks this phase.
+**Unit Size:** 1-3, **Army Limit:** Max 3 per 1,000 pts
 
-Dawnbreaker
-Cost: 285 pts
-Role: Perfect Warrior
-Keywords: Character, Warlord, Lightborne
-Statline: M: 6 cm, WS: 2+, BS: 2+, S: 5, T: 5, W: 6, A: 6, Ld: 10, Save: 2+, OC: 3
-Weapons: Luminus Blades (Melee, S: 7, AP: -2, D: 2)
-Special Rules: Shining Discipline: When an enemy model targets this model with a melee attack, you can force them to re-roll one successful hit roll. If the re-roll misses, this model immediately makes one counter-attack with Luminus Blades against that model before any other attacks are resolved. Brilliant Bone Blade: Once per battle, during the Fight phase, this model can make one special attack. If this attack hits, it automatically wounds and the target cannot make save rolls of any kind. This attack has D6 damage. Mode: Radiant Flow: At the start of each Fight phase, choose one mode: Light Slip: This model gains +3 to Movement and can move through enemy models. Additionally, add +2 to Attacks. Ultimate Being: This model gains +2 to Strength and Toughness. Additionally, enemy models in base contact with this model subtract 1 from their hit rolls.
-Warlord Trait: Perfected Form - Once per battle, at the start of any turn, you can activate this trait. Until the end of the turn, this model can fight twice in the Fight phase, can move twice in the Movement phase, and automatically passes all saving throws on rolls of 4+.
+### Sunforged Vindicators
+**Cost:** 145 pts (+10pts)
+**Role:** Siege Artillery
+**Keywords:** Elite, Lightborne, Character
+**Statline:** M: 5 cm, WS: 6+, BS: 3+, S: 8, T: 10, W: 8, A: 1, Ld: 9, Save: 2+, OC: 3
+**Weapons:** Heavy Solar Cannon (Heavy 3, 24 cm, S: 14, AP: -4, D: D3+3)
+**Special Rules:**
+- **Siege Protocols:** This model can only fire its Heavy Solar Cannon if it did not make a Normal Move, Advance, or Fall Back this turn. If this model remained stationary: Add +1 to hit rolls with Heavy Solar Cannon, Add +1 to the Damage characteristic, This model can fire its Heavy Solar Cannon twice in the Shooting phase, Enemy units cannot benefit from cover against this model's attacks
+- **Structural Integrity:** This model reduces all incoming damage by 1 (to a minimum of 1).
+**Unit Size:** 1-3, **Army Limit:** Max 2 per 1,000 pts
 
-Attack Moon
-Cost: 450 pts
-Role: Mobile Fortress
-Keywords: Character, Warlord, Lightborne
-Statline: M: 0 cm, WS: 6+, BS: 2+, S: 10, T: 12, W: 20, A: 0, Ld: 10, Save: 2+, OC: 10
-Weapons: The Solar Annihilator: (Heavy 1, 30 cm, S: 16, AP: -4, D: D3+3).
-Special Rules: Immobile Fortress: This model cannot move or charge. Orbital Bombardment: Once per turn, you can select one enemy unit anywhere on the battlefield and roll a dice. On a 4+, that unit suffers D3 mortal wounds. Beacon of Hope: All friendly Lightborne Character units that do not have the Warlord keyword within 6 cm of this model gain a 6+ Invulnerable Save.
-Warlord Trait: The Unbreakable Core: All friendly Lightborne Core units within 6 cm of this model gain +1 to their Armor Save.
+### Starwing Interceptors
+**Cost:** 45 pts per model
+**Role:** Fast Attack
+**Keywords:** Elite, Lightborne, Fly, Deep Strike, Overwatch
+**Statline (per model):** M: 15 cm, WS: 4+, BS: 3+, S: 5, T: 5, W: 2, A: 2, Ld: 9, Save: 4+, OC: 1
+**Weapons:** Twin-Linked Solar Pulse Cannons (Assault 4, 18 cm, S: 7, AP: -1, D: 2), Talons (Melee, S: 6, AP: -1, D: 2)
+**Special Rules:** 
+- Hit and Run: After this unit makes a ranged attack, it can immediately move up to 6 cm. 
+- Aegis Wing: This unit gains a 5+ Invulnerable Save against ranged attacks.
+- Aerial Overwatch: This unit may fire Overwatch even if it Advanced this turn, but only hits on unmodified 6s as normal.
+**Unit Size:** 1-3, **Army Limit:** Max 3 per 1,000 pts
 
-Warlord's Lore
-The Starchild's Lore
+### Radiant Annihilators
+**Cost:** 110 pts per model
+**Role:** Heavy Fire Support
+**Keywords:** Elite, Lightborne, Character
+**Statline:** M: 5 cm, WS: 4+, BS: 3+, S: 4, T: 4, W: 3, A: 1, Ld: 8, Save: 3+, OC: 2
+**Weapons:** Solar Repeaters (Rapid Fire 6, 24 cm, S: 5, AP: -1, D: 1)
+**Special Rules:** Focused Barrage: Each time this model makes a ranged attack, you can re-roll wound rolls of 1. If this model Remained Stationary, you can re-roll all wound rolls of 1 and add +1 to hit rolls.
+**Unit Size:** 1, **Army Limit:** Max 2 per 1,000 pts
+
+### The Solar Colossus
+**Cost:** 265 pts
+**Role:** Walking Fortress, God-Engine
+**Keywords:** Elite, Lightborne, Character
+**Statline:** M: 8 cm, WS: 5+, BS: 3+, S: 8, T: 9, W: 14, A: 3, Ld: 9, Save: 3+, OC: 6
+**Weapons:** Twin Heavy Solar Cannons (Heavy 4, 30 cm, S: 10, AP: -3, D: 3), Crushing Fists (Melee, S: 10, AP: -2, D: 4)
+**Special Rules:** 
+- Armored Plating: All incoming attacks against this model have their damage reduced by 1 (to a minimum of 1). 
+- Towering Dreadnought: Enemy units within 9 cm of this model must subtract 2 from their Leadership characteristic and must re-roll successful Battleshock tests. Additionally, enemy units within 6 cm cannot use the Heroic Intervention stratagem or ability. 
+- Blazing Aura: Each time this model makes a Normal Move or Advance, roll one D6 for each enemy unit it moved within 3 cm of. On a 3+, that unit suffers D3 mortal wounds as the ground shakes beneath the Colossus's stride. 
+- Solar Overcharge: Once per battle, during the Shooting phase, this model can overcharge its weapons. If it does, its Twin Heavy Solar Cannons gain +2 Strength, +1 AP, and +1 Damage this turn, but this model suffers D3 mortal wounds after shooting.
+**Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
+
+### Sunstorm Catapults
+**Cost:** 140 pts per model
+**Role:** Artillery
+**Keywords:** Vehicle, Artillery, Lightborne
+**Statline:** M: 4 cm, WS: 6+, BS: 3+, S: 7, T: 9, W: 10, A: 0, Ld: 9, Save: 3+, OC: 4
+**Weapons:** Sunstorm Mortar (Heavy D6, 36 cm, S: 8, AP: -1, D: 2, Indirect Fire)
+**Special Rules:** 
+- Indirect Fire: This unit can target an enemy unit that is not in its line of sight. 
+- Focused Barrage: This unit can re-roll hit rolls of 1 if it did not move this turn.
+**Unit Size:** 1-2, **Army Limit:** Max 2 per 1,000 pts
+
+---
+
+## Warlords
+
+### The Starchild
+**Cost:** 340 pts
+**Role:** Divine Warlord
+**Keywords:** Character, Warlord, Caster, Lightborne
+**Statline:** M: 6 cm, WS: 5+, BS: 3+, S: 4, T: 5, W: 8, A: 1, Ld: 10, Save: 2+, OC: 3
+**Weapons:** Wrath of the Sun (Heavy 1, 30 cm, S: 10, AP: -4, D: 6, Precision)
+**Special Rules:** 
+- Divine Radiance: All friendly Lightborne units within 9 cm of this model add +1 to their Leadership and can reroll hit rolls of 1. 
+- Fated Strike: Once per turn, this model can reroll one of its failed to-hit or to-wound rolls.
+**Warlord Trait:** The Celestial Conduit: When this model attempts to manifest a Psychic Power, you can add +1 to its Psychic Test. Additionally, this model can attempt to manifest one additional Psychic Power per turn.
+**Psychic Powers:** 
+- Celestial Nova: Casting Value 7. Select one enemy unit within 12 cm. That unit suffers D6 mortal wounds. 
+- Guiding Light: Casting Value 6. Select one friendly unit within 6 cm. That unit adds +1 to its hit rolls until your next turn. 
+- Solar Block: Casting Value 5. Select this model. It gains a 3+ Invulnerable Save until your next turn. 
+- Cosmic Barrage: Casting Value 10. Select one enemy unit anywhere on the battlefield. That unit suffers 2D6 mortal wounds.
+
+### Dawnbreaker
+**Cost:** 285 pts
+**Role:** Perfect Warrior
+**Keywords:** Character, Warlord, Lightborne
+**Statline:** M: 6 cm, WS: 2+, BS: 2+, S: 5, T: 5, W: 6, A: 6, Ld: 10, Save: 2+, OC: 3
+**Weapons:** Luminus Blades (Melee, S: 7, AP: -2, D: 2)
+**Special Rules:** 
+- Shining Discipline: When an enemy model targets this model with a melee attack, you can force them to re-roll one successful hit roll. If the re-roll misses, this model immediately makes one counter-attack with Luminus Blades against that model before any other attacks are resolved. 
+- Brilliant Bone Blade: Once per battle, during the Fight phase, this model can make one special attack. If this attack hits, it automatically wounds and the target cannot make save rolls of any kind. This attack has D6 damage. 
+- Mode: Radiant Flow: At the start of each Fight phase, choose one mode: 
+  - Light Slip: This model gains +3 to Movement and can move through enemy models. Additionally, add +2 to Attacks. 
+  - Ultimate Being: This model gains +2 to Strength and Toughness. Additionally, enemy models in base contact with this model subtract 1 from their hit rolls.
+**Warlord Trait:** Perfected Form - Once per battle, at the start of any turn, you can activate this trait. Until the end of the turn, this model can fight twice in the Fight phase, can move twice in the Movement phase, and automatically passes all saving throws on rolls of 4+.
+
+### Attack Moon
+**Cost:** 420 pts
+**Role:** Mobile Fortress
+**Keywords:** Character, Warlord, Lightborne
+**Statline:** M: 0 cm, WS: 6+, BS: 2+, S: 10, T: 12, W: 20, A: 0, Ld: 10, Save: 2+, OC: 10
+**Weapons:** The Solar Annihilator: (Heavy 1, 36 cm, S: 16, AP: -4, D: D3+3, Precision).
+**Special Rules:** 
+- Immobile Fortress: This model cannot move or charge. 
+- Orbital Bombardment: Once per turn, you can select one enemy unit anywhere on the battlefield and roll a dice. On a 3+, that unit suffers D3 mortal wounds. 
+- Beacon of Hope: All friendly Lightborne Character units that do not have the Warlord keyword within 6 cm of this model gain a 6+ Invulnerable Save.
+- Stellar Aegis: This model has a 4+ Invulnerable Save.
+**Warlord Trait:** The Unbreakable Core: All friendly Lightborne Core units within 12 cm of this model gain +1 to their Armor Save and +1 Leadership. Armor Save cannot be better than 2+.
+
+---
+
+## Warlord's Lore
+
+### The Starchild's Lore
+
 The Starchild was chosen by the stars themselves, her heart bound to the Eternal Core. With its radiance she bore the gifts of her people — shields of dawn, wings of light, and the forbidden art to stir the hearts of suns. To the Sun Civilization she was both guardian and flame eternal, but beneath the divine radiance lived a woman whose judgment would shape the fate of empires.
+
 She had always prided herself on her ability to see truth, to illuminate deception with the light of certainty. When the mage council brought her evidence of the Archmage's betrayal—documents signed in his hand, communications with Void agents, research that had clearly crossed into corruption—she believed them without question. Why wouldn't she? They were her advisors, her trusted counselors.
+
 When she arrived to find them dead by the Archmage's power, her grief turned instantly to rage. He tried to explain, tried to claim he was innocent, but she saw only a traitor making excuses. Her Wrath of the Sun tore through his defenses. Her Celestial Nova burned away his lies. When he fell, broken and dying, she felt grim satisfaction. Justice had been served.
+
 Then came the Great Betrayal in full force. The Archmage's forces—now openly serving the Void—struck with devastating precision. His intimate knowledge of Lightborne defenses, his understanding of their weaknesses, proved her judgment correct. He had been corrupted, and his betrayal nearly destroyed them. Thousands died in the chaos.
+
 Nightblade, her closest friend, took a lethal blow meant for her during the initial assault. She thought his sacrifice proved his loyalty—until the investigation afterward. Communications between him and the Archmage. Authorization documents. A pattern that seemed undeniable. He had been the Archmage's accomplice, the inside agent who ensured the defenses would fail at critical moments. His "sacrifice" was merely maintaining cover when the plan went wrong.
+
 When he protested his innocence, she heard only the desperate lies of a co-conspirator caught in his own trap. When he refused to leave quietly, she had him driven out with violence. He had betrayed everything they stood for, used their friendship as a weapon, played the role of loyal protector while ensuring the Archmage's assault would succeed.
+
 The weight of those choices crushes her every day—not because she was wrong, but because she had been too trusting. She had welcomed the Archmage into her inner circle. She had treated Nightblade as a brother. She had given them everything, and they had used her generosity to orchestrate slaughter.
+
 "I should have seen it sooner," she whispers to The Dawnbreaker in quiet moments. "The signs were there. The Archmage's obsession with void research. Nightblade's reluctance to question him. I was blind because I wanted to believe in them."
+
 When Nightblade returned months later with the Archmage's skull, claiming to have "conquered the Void," she had a moment of hope—perhaps she had been wrong, perhaps he had been trying to infiltrate them all along. Then he massacred her people, and any remaining doubt evaporated. He had never been loyal. The skull was just another deception, another mask worn by a traitor.
+
 Now The Starchild carries the burden of leadership in the face of betrayal. She created the Attack Moon in desperate alliance with the Quantum Empress, not to correct mistakes, but to ensure the Void's treachery would never succeed again. She fights harder, burns brighter, pushes herself beyond all limits—not out of guilt, but out of determination.
+
 The Archmage and Nightblade made their choices. They chose corruption over duty, betrayal over brotherhood, darkness over light. She will not make the mistake of trusting traitors again. And when the final battle comes, she will ensure their treachery is answered with annihilation.
 
-The Dawnbreaker's Lore
+### The Dawnbreaker's Lore
+
 The Dawnbreaker's path was not born of divine decree but forged in the harsh light of discipline. From the moment she could stand, her body was a canvas for the martial arts, each movement a prayer to the sun. Her peers fell away, unable to match her relentless pursuit of perfection, a mastery so profound that every fiber of her being obeyed her conscious will, and her form became a perfect instrument for her purpose.
+
 She was there during the Great Betrayal, fighting alongside Nightblade when the Void forces struck. She saw him throw himself into the lethal beam, saw his body nearly torn apart to save The Starchild. In that moment, she believed he was a hero.
+
 The evidence afterward told a different story.
+
 When The Starchild arrived with accusations of betrayal, The Dawnbreaker initially protested.
+
 "This is insane," she had said. "He took a killing blow for you. How can you possibly think he's a traitor?"
+
 "The evidence is clear," The Starchild replied, her voice cold. "Sometimes the most loyal act is the deepest cover."
+
 The Dawnbreaker didn't want to believe it. But then she saw the documents—communications between Nightblade and the Archmage that stretched back months. Authorization codes that shouldn't have existed. Troop movements he had recommended that led Lightborne forces directly into ambushes. The pattern was undeniable once you knew to look for it.
+
 His "sacrifice" had been a miscalculation. The beam was meant for The Starchild, but Nightblade had positioned himself poorly, taken the hit by accident rather than intention. Or perhaps it was deliberate—maintaining his cover even at great personal cost, knowing that surviving a "heroic sacrifice" would cement his position beyond suspicion.
+
 When ordered to help drive him out, she obeyed. Every strike felt like justice for those he had helped murder.
+
 Months later, he returned carrying the Archmage's skull, claiming victory over the Void. She wanted to believe it meant something—that perhaps there was more to the story, that maybe he had been a deep infiltrator working for the Lightborne all along.
+
 Then he moved, and the massacre began. His blade carved through celebrating Lightborne with the precision of someone who had trained alongside them, who knew their techniques, who understood their weaknesses because he had helped develop their defenses. The skull clattered to the ground, forgotten—just another trophy from one traitor decorating the murder of his former comrades.
+
 By the time The Dawnbreaker arrived, dozens lay dead. She fought him with everything she had, her perfect martial forms against his flawless technique—technique she had helped him refine during their training together, now used to kill those they had sworn to protect.
+
 "Why?" she demanded during their battle, still desperately seeking understanding.
+
 His response was bitter and cold. "Ask your Starchild what really happened."
+
 The deflection confirmed everything. Traitors never accept responsibility. They always blame others for their choices. "I protected her," he said quietly. "And she destroyed me for it."
+
 Lies built on lies. He had tried to murder The Starchild by ensuring the Archmage's assault would succeed. When that failed, he played the victim, acting betrayed when caught.
+
 When she finally forced him to retreat, she felt no satisfaction—only grim determination. Somewhere beneath the Void's corruption, there might have once been a warrior worth respecting. But that warrior had made his choice long before the Great Betrayal. He had chosen darkness.
+
 Now The Dawnbreaker trains harder than ever. Not to question authority, but to be better than blind trust. She trains to recognize traitors before they can strike, to see through deception, to ensure she never again fights alongside someone who has already chosen betrayal.
+
 She will not fail again. And if Nightblade returns, she will be ready—not to redeem him, but to end him.
 
-Attack Moon's Lore
+### Attack Moon's Lore
+
 It is a legend whispered only in the deepest archives of the Sun Civilization, a relic of desperate alliance forged in the fires of the Great Betrayal. The Attack Moon is not a person, but a living construct, a sentient fragment of a star bound in ancient, impenetrable armor. It was built as retaliation, a weapon of such power that it could bring judgment to those who had wounded the light itself.
+
 When the Void Archmage's betrayal devastated the Lightborne forces and claimed Nightblade, The Starchild knew conventional warfare would not suffice. In her darkest hour, she reached out to the enigmatic Paradox Faction, seeking their impossible technology. The Quantum Empress, moved by ancient bonds of alliance, provided the paradoxical engineering needed to create something that existed both as weapon and fortress, both real and impossible.
+
 The Attack Moon's descent upon the Void was like a falling star carrying the wrath of creation itself. Its impossible weapons, forged from both stellar fire and paradoxical physics, brought devastation to the void-touched worlds. Yet even this ultimate weapon could not achieve total victory—the combined might of the Void Archmage, The Null Hour, and their dark legions managed to wound it and force its retreat.
+
 Now the Attack Moon waits in the depths of space, its consciousness holding memories of battles fought across realities, its guns trained on distant stars. It is both monument to alliance between Light and Paradox, and testament to the terrible cost of betrayal. When it next awakens, the very fabric of space will tremble at its judgment.
 
-God Engine Lore:
-Solar Colossus  (Sunborn God Machine)
-Forged upon the desert forges of Erythra, the Solar Colossus was carved from the buried citadels of glass and bound with the Ember of Dawn. Its core houses the Sunborn’s shard of the Silver Key, which fuels an eternal furnace.
+---
+
+## God Engine Lore
+
+### Solar Colossus (Sunborn God Machine)
+
+Forged upon the desert forges of Erythra, the Solar Colossus was carved from the buried citadels of glass and bound with the Ember of Dawn. Its core houses the Sunborn's shard of the Silver Key, which fuels an eternal furnace.
+
 Its mere presence scorches the battlefield; armies ignite like offerings, and night turns to endless noon.
-The Necronomium fragment woven into its design describes “The Flame that Burns Beyond Dawn”, and so the Solar Colossus is revered as the Sunborn’s proof of divine succession.
+
+The Necronomium fragment woven into its design describes "The Flame that Burns Beyond Dawn", and so the Solar Colossus is revered as the Sunborn's proof of divine succession.
