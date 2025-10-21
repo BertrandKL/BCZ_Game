@@ -1,6 +1,219 @@
-# Complete Playbook: How to Play
+# Complete Game Rules - All-In-One
 
-## Table of Contents
+---
+
+## PART 1: STAT GLOSSARY
+
+### Unit Statistics
+
+This section explains the meaning of each statistic on a unit's profile card, from Movement to Save. Knowing these values is key to understanding how your units will perform on the battlefield.
+
+* **M (Movement):** This value determines how far a unit can move during the Movement Phase. A higher number means the unit is faster.
+
+* **WS (Weapon Skill):** This stat is used in close-quarters melee combat. A unit with a high Weapon Skill has a better chance of hitting its target. A lower number is better (e.g., a WS of 2+ is excellent).
+
+* **BS (Ballistic Skill):** This stat is used for ranged attacks. A high Ballistic Skill means the unit is a skilled marksman and has a better chance of hitting its target. As with Weapon Skill, a lower number is better.
+
+* **S (Strength):** This stat represents a unit's physical power, for both melee and ranged attacks. When you roll to wound an enemy, you compare your unit's Strength to the enemy's Toughness. A higher Strength value makes it easier to wound.
+
+* **T (Toughness):** This stat represents a unit's resilience and durability. It determines how difficult it is for an enemy to inflict a wound on them. A higher Toughness value makes a unit harder to wound.
+
+* **W (Wounds):** This is the unit's "health." Each wound it takes reduces this value. Once a unit's Wounds are reduced to 0, it is destroyed.
+
+* **A (Attacks):** This value determines the number of times a model can attempt to hit an enemy in the Melee phase. A higher number means more attacks.
+    * **Note:** If a unit does not have a designated melee weapon, it defaults to a basic **Unarmed** attack with the following profile: **Melee**, S: User, AP: 0, D: 1. "S: User" means the attack uses the unit's own Strength characteristic.
+
+* **Ld (Leadership):** This stat represents a unit's mental fortitude and ability to resist fear and psychological effects. It is used for **Battleshock tests**. A higher number means the unit is more likely to stay in the fight.
+
+* **Save:** This is a unit's armor or natural durability. After an enemy successfully wounds your unit, you roll a die to see if you can "save" the wound. A lower number is better, as it makes the unit more resilient to incoming damage.
+
+* **OC (Objective Control):** This value determines how effective a unit is at controlling objectives. To control an objective, a unit's total OC value must be higher than the enemy's total OC value on that objective.
+
+---
+
+### Weapon Abilities Glossary
+
+These keywords describe how a weapon functions.
+
+#### Heavy X
+This weapon can only be fired once per turn. If the unit that is equipped with it Remained Stationary (did not make a Normal Move, Advance, or Fall Back) in the same turn, add +1 to hit rolls made with this weapon. X is the number of attacks it makes.
+
+*Example: A Heavy 1 weapon makes 1 attack. If the model didn't move, it hits on a 3+ instead of a 4+.*
+
+#### Rapid Fire X
+This weapon can be fired once per turn. If the target is within half of this weapon's range, it makes X additional attacks.
+
+*Example: A Rapid Fire 1 plasma gun with a 15cm range makes 1 attack normally. If the target is within 7.5cm, it makes 2 attacks instead.*
+
+#### Assault X
+This weapon can be fired even if the unit that is equipped with it Advanced in the same turn. However, if it does, you must subtract 1 from hit rolls made with this weapon. X is the number of attacks it makes.
+
+*Example: An Assault 2 weapon makes 2 attacks, even if the unit moved fast.*
+
+#### Torrent
+A weapon with this ability automatically hits its target. You do not need to make a hit roll. You must still make wound rolls and the target can still make save rolls.
+
+#### Indirect Fire
+This weapon can target an enemy unit that is not visible to the attacking model. If it does, however, the target unit benefits from Cover (improves its save by 1) against those attacks.
+
+#### Ignores Cover
+The target unit cannot benefit from Cover saves against attacks made with this weapon.
+
+#### Overwatch
+When an enemy declares a charge against this unit, this unit may fire at the charging enemy. Only unmodified hit rolls of 6 hit during Overwatch. Each unit can only fire Overwatch once per turn, and units that Advanced or Fell Back this turn cannot use Overwatch.
+
+#### Precision
+Attacks with this weapon can target specific Character models within an enemy unit, rather than allowing the opponent to allocate wounds. Declare which visible Character you are targeting before making hit rolls.
+
+---
+
+## PART 2: CORE GAME RULES
+
+### The Reserve Rule
+
+**Entering Reserves:** Before the game begins, you can choose to place TWO of your units into Reserves. These units do not start on the battlefield. These units must have Deep Strike. Warlords with Deep Strike CAN be placed into Reserves.
+
+**Arriving from Reserves:** At the end of your Movement Phase on turn two or later, you can bring your units in from Reserves. They must be placed on any battlefield edge that is not your opponent's deployment zone. The unit must be placed more than 9 cm away from any enemy model.
+
+---
+
+### Psychic Dice
+
+Each time a Caster attempts to cast a Psychic Power, they roll two six-sided dice (2D6).
+
+The total you get from the sum of those two dice is what you compare to the power's casting value.
+
+**Examples:**
+- A Void Archmage wants to cast Temporal Echo (casting value 7). He rolls two dice.
+- A Voidmage wants to cast Echoing Scream (casting value 6). He also rolls two dice.
+- A Void Negromancer wants to cast Abyssal Rebirth (casting value 8). He rolls two dice as well.
+
+---
+
+### The Warlord Rule
+
+You must select ONE or TWO Warlords for your army from your faction's Warlord options. Each Warlord has unique abilities and leads your forces.
+
+**Warlord Rules:**
+- You can have a maximum of TWO Warlords
+- Warlords with the Deep Strike keyword CAN be placed into Reserves
+- Warlords provide leadership and special abilities to your army
+
+---
+
+### Overwatch Rule
+
+When an enemy unit declares a charge against one of your units, that unit may fire Overwatch at the charging unit.
+
+**Overwatch Rules:**
+- Declare if you want to use Overwatch when a charge is declared against your unit
+- The targeted unit makes ranged attacks at the charging unit
+- **Hit rolls:** Only unmodified rolls of 6 hit. All other rolls automatically miss.
+- Resolve wound rolls, saves, and damage normally
+- If all charging models are destroyed, the charge automatically fails
+- **Limitation:** Each unit can only fire Overwatch ONCE per turn (even if multiple enemies charge them)
+- **Restriction:** Units that Advanced or Fell Back this turn CANNOT fire Overwatch
+
+**Why Not Always Use Overwatch?**
+- Once you use Overwatch, that unit cannot use it again this turn
+- If multiple enemies charge you, you can only shoot at the first one
+- Strategic choice: Save it for the more dangerous charger
+
+---
+
+### Precision Rule
+
+Weapons or models with the [PRECISION] keyword can target specific models within an enemy unit, rather than the unit as a whole.
+
+**Normal Targeting:**
+- When shooting at a unit, you attack the unit and the controlling player allocates wounds
+- You cannot choose which specific models take damage
+
+**Precision Targeting:**
+- You can allocate your attacks specifically to visible Character models in the target unit
+- You must declare which Character you're targeting before rolling
+- Only works on Characters that have joined units (not independent Characters)
+
+---
+
+### The Unit Leaders Rule
+
+A unit with the Character keyword can join a friendly unit that shares the same FACTION keyword at the deployment phase. Once they join, they function as a single unit with specific rules.
+
+**Who Can Join?** Any unit with the Character keyword (like Nightblade or the Void Archmage) can join another friendly unit. They cannot join a vehicle or a monstrous creature like the Dreadnaut.
+
+**How do Stats Work?** The combined unit moves at the speed of its slowest model. For example, if Nightblade (M: 10 cm) joins a unit of Voidmarchers (M: 6 cm), the entire unit's Movement becomes 6 cm.
+
+**What are the Benefits?** The entire combined unit gains the benefit of the character's abilities and auras. If Nightblade joins a unit of Phantom Assassins, the entire unit gains the benefit of his Master of the Unseen Blade Warlord Trait.
+
+**What are the Drawbacks?** The biggest drawback is tactical inflexibility. You are combining two units into one high-value target, making them easier for the enemy to eliminate with a single powerful attack. You also lose the ability to have your units in two different places at once, which can cost you objectives.
+
+---
+
+### The Falling Back Rule
+
+Falling Back is a special type of move that a unit can make during its Movement Phase. It allows a unit that is currently in engagement range of an enemy unit to disengage and move to a safer position.
+
+**Here are the rules for a Falling Back move:**
+- A unit can only fall back if it is currently in engagement range with at least one enemy unit at the start of its Movement Phase.
+- The unit must move to a position where it is no longer within engagement range of any enemy unit.
+- A unit that falls back can move up to its full Movement characteristic.
+
+#### Falling Back Restrictions
+
+A unit that falls back is penalized for retreating. After falling back, that unit cannot:
+- Shoot with any of its ranged weapons this turn.
+- Declare a charge this turn.
+- Move to within engagement range of any enemy unit.
+- Fire Overwatch this turn (if charged).
+
+**Note:** A unit cannot fall back if it is currently affected by a Battleshock test. Some special rules may allow a unit to ignore these restrictions.
+
+---
+
+### The Effects of Being Battleshocked
+
+When a unit is battleshocked, it suffers severe penalties that can make it nearly useless.
+
+- The unit cannot make a charge move this turn.
+- It cannot use any of its special rules or abilities.
+- It cannot benefit from blessings, Faction Warcries and Faction Abilities.
+- Its Objective Control (OC) value is reduced to 0.
+- It cannot fire Overwatch.
+
+**When to Test for Battleshock:**
+- During your Command Phase, check each of your units
+- If a unit has lost 50% or more of its starting models, it must take a Battleshock test
+- **Rounding:** Always round UP when calculating 50%. Examples:
+  - 10 model unit: 5+ models lost = test required
+  - 7 model unit: 4+ models lost = test required (3.5 rounds up to 4)
+  - 5 model unit: 3+ models lost = test required (2.5 rounds up to 3)
+
+---
+
+### The Core Rule: Objective Control (OC)
+
+Each model has an Objective Control (OC) characteristic on its datasheet (e.g., OC: 1, OC: 3, OC: 10).
+
+To control an objective, you must have models from your army within 3 cm of the center of the objective marker.
+
+You total the OC characteristic of every model from your army that is within that 3 cm range.
+
+The player with the highest total OC value within range of the objective controls it at that moment.
+
+**Example:** You have 5 Solar Sentinels (OC: 1 each) and 1 Solar Colossus (OC: 6) within 3 cm of an objective. Your total OC is (5 * 1) + 6 = 11. If your opponent only has a unit of 10 Voidmarchers (OC: 1 each) near it, their total is 10. You control the objective because 11 > 10.
+
+---
+
+### CP Economy
+
+You start with 0 CP. You gain 1 CP per round, leading to 5 CP by the end of round 5 if you are playing the standard 5-round game.
+
+---
+
+## PART 3: COMPLETE PLAYBOOK
+
+### Table of Contents
 1. What You Need to Play
 2. Building Your Army
 3. Setting Up the Battlefield
@@ -10,6 +223,7 @@
 7. Special Rules and Interactions
 8. Common Scenarios and Examples
 9. Quick Reference Tables
+10. FAQ
 
 ---
 
@@ -38,8 +252,9 @@
 Both players agree on a points limit. Standard games use **1,000 points**.
 
 ### Step 2: Select Your Warlord
-Choose ONE Warlord unit from your faction's codex. This is your army leader.
-- Mark this model clearly (use a different color base or token)
+Choose ONE or TWO Warlords from your faction's codex. These are your army leaders.
+- Mark these models clearly (use different color bases or tokens)
+- Warlords with Deep Strike CAN be placed into Reserves
 
 ### Step 3: Choose Your Units
 Add units to your army until you reach (but don't exceed) your points limit.
@@ -48,6 +263,7 @@ Add units to your army until you reach (but don't exceed) your points limit.
 - You can take unlimited CORE units
 - Elite units have Army Limits (check each unit's entry)
 - Example: "Max 2 per 1,000 pts" means you can take up to 2 of that unit
+- You can have ONE or TWO Warlords
 
 ### Step 4: Choose Faction Blessings
 Select TWO blessings from your faction's blessing list.
@@ -65,12 +281,11 @@ Create a list showing:
 **Example Army List (Void - 1000pts):**
 ```
 WARLORD: Nightblade (255 pts) - Blessing of Shadows
-CORE: 10x Voidmarchers (180 pts)
-CORE: 10x Voidmarchers (180 pts)
+CORE: 10x Voidmarchers (220 pts)
+CORE: 10x Voidmarchers (220 pts)
 ELITE: 2x Voidmages (170 pts) - Blessing of Inevitability
-ELITE: 1x MK (180 pts)
 ELITE: Hollow Jester (75 pts)
-TOTAL: 1,040 pts [OVER - NEED TO ADJUST]
+TOTAL: 940 pts
 ```
 
 ---
@@ -112,8 +327,9 @@ The chosen player deploys their ENTIRE army first, then the opponent deploys.
 - All models must be in your deployment zone
 - Models must be at least 1cm apart from each other
 - Models cannot overlap terrain (unless they have special rules)
-- Warlord MUST be deployed (cannot go into Reserves)
+- Warlords with Deep Strike CAN go into Reserves
 - You may place up to 2 units with Deep Strike into Reserves (don't deploy them)
+- Note: If both your Warlords go into Reserves, you must have at least some units deployed
 
 **How to Deploy a Unit:**
 - Place all models from that unit together
@@ -171,6 +387,12 @@ You MUST complete each phase before moving to the next.
 
 **STEP 2: Battleshock Tests**
 - For EACH of your units that has lost 50% or more of its models, you must take a Battleshock test
+- **Calculating 50%:** ALWAYS ROUND UP. Examples:
+  - 10 models: 5+ lost = test (50%)
+  - 9 models: 5+ lost = test (4.5 rounds to 5)
+  - 7 models: 4+ lost = test (3.5 rounds to 4)
+  - 5 models: 3+ lost = test (2.5 rounds to 3)
+  - 3 models: 2+ lost = test (1.5 rounds to 2)
 - To take a Battleshock test:
   1. Roll 2D6
   2. Add the results together
@@ -189,6 +411,7 @@ You MUST complete each phase before moving to the next.
 - Unit cannot use special rules or abilities
 - Unit cannot benefit from Blessings or Faction Abilities
 - Unit's Objective Control becomes 0
+- Unit cannot fire Overwatch
 - Lasts until the start of YOUR NEXT Command Phase
 
 **STEP 3: Command Phase Abilities**
@@ -341,7 +564,7 @@ Your units fire their ranged weapons at enemy units.
 
 **STEP 1: Choose a Shooting Unit**
 Pick one of your units that hasn't shot yet this phase.
-Note: You can split a units attacks into multiple UNITS (eg: 3 Voidmarchers target the Solar Sentinels Unit, while the other two attack the Dawnbreaker)
+
 **STEP 2: Check if Unit Can Shoot**
 A unit CANNOT shoot if:
 - It Advanced this turn
@@ -354,7 +577,7 @@ Pick an enemy unit to shoot at.
 **STEP 4: Check Line of Sight**
 - Draw an imaginary line from your unit to the target
 - If you can see ANY part of an enemy model, you have line of sight
-- If terrain or models completely blocks the view, no line of sight
+- If terrain completely blocks the view, no line of sight
 - Some weapons (Indirect Fire) can shoot without line of sight
 
 **STEP 5: Check Range**
@@ -482,12 +705,16 @@ A unit CANNOT charge if:
 
 **STEP 4: Overwatch (Optional - Opponent's Choice)**
 The target unit may fire Overwatch:
-- Overwatch can be only used once per turn
+- Declare if you want to use Overwatch
+- **Limitation:** Each unit can only fire Overwatch ONCE per turn
+- **Restriction:** Units that Advanced or Fell Back this turn CANNOT fire Overwatch
+- **Restriction:** Battleshocked units CANNOT fire Overwatch
 - The target gets to shoot at your charging unit
-- Hit rolls of 6 (unmodified) hit, all others miss
+- Hit rolls: Only unmodified rolls of 6 hit, all others miss automatically
+- Some units have special Overwatch rules (like MK or Solar Guards) - check their datasheets
 - Resolve these attacks now, casualties are removed
 - If your entire unit is destroyed, charge fails
-- Overwatch cannot be used if Advanced, Fell Back or Battleshocked
+- **Strategic Note:** Once you use Overwatch, you can't use it again this turn even if another enemy charges you
 
 **STEP 5: Roll Charge Distance**
 - Roll 2D6
@@ -721,21 +948,42 @@ Let's walk through a complete attack from start to finish:
 
 ### Precision Weapons
 - Weapons with [PRECISION] keyword can target Characters in units
-- Normally, you must attack the unit as a whole
-- Precision lets you allocate attacks to visible Characters
+- Normally, you must attack the unit as a whole and opponent allocates wounds
+- Precision lets you declare: "I'm targeting Character X" before rolling
+- All hits from that attack go to the declared Character
+- Useful for assassinating embedded Characters
+
+**Example:**
+- Nightblade shoots at Solar Sentinels with Light-Singer attached
+- Phantom Shuriken has Precision
+- Declare: "Targeting the Light-Singer"
+- Make attacks - all wounds go to Light-Singer specifically
+- Solar Sentinels player cannot allocate to other models
+
+### Overwatch
+- When charged, units can fire Overwatch
+- Only unmodified 6s to hit (very low chance)
+- Each unit can only Overwatch ONCE per turn
+- Units that Advanced/Fell Back/are Battleshocked cannot Overwatch
+- Strategic: Save Overwatch for the most dangerous charger
+- Some units have improved Overwatch (check datasheets):
+  - MK: Hits on 3+ during Overwatch
+  - Paradox Sentries: Hits on 5+ when protecting nearby allies
+  - Starwing Interceptors: Can Overwatch even after Advancing
+  - Solar Guards: Can use melee attacks as Overwatch
 
 ### Character Targeting
-- Characters not joined to units can always be targeted
-- Characters joined to units use the Unit Leaders rule (see below)
+- Characters not joined to units can always be targeted normally
+- Characters joined to units are protected - attacker must target the whole unit
+- Exception: Precision weapons can target joined Characters directly
 
 ### Unit Leaders (Characters Joining Units)
-- At deployment, Character can join a unit with same faction keyword (1 character, 1 unit)
-- Units like VEHICLES and GOD-ENGINES can't be combined into a unit.
+- At deployment, Character can join a unit with same faction keyword
 - They move as one unit (use slowest Movement)
 - They count as one unit for targeting
 - Both benefit from each other's abilities
 - When taking casualties, controlling player chooses which models are removed
-- Units cannot be seperated once chosen as one.
+- If Character is removed, they cannot rejoin
 
 ---
 
@@ -769,8 +1017,8 @@ Let's walk through a complete attack from start to finish:
 **Action:**
 1. Declare: "Nightblade charges Solar Guards"
 2. Check: 8cm away, within 12cm = CAN CHARGE
-3. Opponent declares Overwatch: Solar Guards shoot
-4. Overwatch: 10 shots, only 6s hit. Roll: one 6, rest fail
+3. Opponent declares Overwatch: Solar Guards use Defensive Stance (melee Overwatch)
+4. Overwatch: 10 melee attacks, only 6s hit. Roll: one 6, rest fail
 5. Resolve Overwatch hit: Wound roll fails, no damage
 6. Roll charge: 2D6 = 4 + 5 = 9cm
 7. Move Nightblade 9cm toward Solar Guards
@@ -801,4 +1049,424 @@ Let's walk through a complete attack from start to finish:
 
 **Setup:**
 - Your Void Archmage is on the battlefield
-- Enemy Solar
+- Enemy Solar Sentinels are 18cm away
+- It's your Psychic Phase
+
+**Action:**
+1. Activate Void Archmage (Caster)
+2. Choose power: Unraveling Curse (Casting Value 7)
+3. Declare target: Solar Sentinels at 18cm (within 18cm range)
+4. Roll psychic test: 2D6 = 3 + 5 = 8
+5. 8 ≥ 7 = SUCCESS!
+6. Apply effects: Solar Sentinels must re-roll successful saves and -2 Leadership until your next turn
+7. Write this down so you remember!
+8. Void Archmage can cast more powers (he gets up to 4)
+
+### Scenario 5: Objective Control
+
+**Setup:**
+- Objective marker in center of board
+- You have 5 Solar Sentinels (OC: 1 each) within 3cm
+- Opponent has 3 Voidmarchers (OC: 1 each) within 3cm
+- Who controls it?
+
+**Action:**
+1. Count your OC: 5 models × OC 1 = 5 total
+2. Count opponent's OC: 3 models × OC 1 = 3 total
+3. Compare: 5 > 3
+4. **You control the objective!**
+
+**What if opponent brings reinforcements?**
+- Opponent moves 5 more Voidmarchers within 3cm
+- New count: 8 Voidmarchers × OC 1 = 8 total
+- Compare: Your 5 vs opponent's 8
+- **Opponent now controls the objective!**
+
+### Scenario 6: Using Faction Abilities
+
+**Setup:**
+- Your Solar Sentinels are being shot at by enemy Voidmages
+- You have 3 CP available
+- It's opponent's Shooting Phase
+
+**Action:**
+1. Opponent declares Voidmages shooting at your Solar Sentinels
+2. Before they roll, you interrupt: "I'm using Guiding Light"
+3. Check cost: Guiding Light costs 2 CP
+4. Pay cost: 3 CP - 2 CP = 1 CP remaining
+5. Effect: All incoming attacks have damage reduced by 1 (minimum 1)
+6. Opponent proceeds with shooting
+7. When they deal damage, reduce each by 1
+8. Example: Hit deals 2 damage, becomes 1 damage
+
+### Scenario 7: Reserve Deployment
+
+**Setup:**
+- Turn 2, your Movement Phase
+- You have Phantom Assassins in Reserves
+- You want to bring them in
+
+**Action:**
+1. During your Movement Phase, declare: "Bringing Phantom Assassins from Reserves"
+2. Choose board edge: Any edge except opponent's deployment zone
+3. Place unit: More than 9cm from all enemy models
+4. Check: Phantom Assassins are 10cm from nearest enemy = VALID
+5. They are now on the battlefield
+6. They count as having moved (cannot shoot Heavy weapons with bonuses)
+7. They CANNOT charge this turn (arrived from Reserves)
+
+### Scenario 8: Falling Back from Combat
+
+**Setup:**
+- Your Voidmarchers are in combat with enemy Solar Guards
+- You're losing badly
+- It's your Movement Phase
+
+**Action:**
+1. Select Voidmarchers unit
+2. Check: They are within 1cm of enemies = In Engagement Range
+3. Declare: "Voidmarchers are Falling Back"
+4. Check: Unit is not Battleshocked = CAN FALL BACK
+5. Move each model up to 6cm (their Movement)
+6. Must end more than 1cm from ALL enemies
+7. Place them safely away
+8. Mark unit: CANNOT SHOOT this turn, CANNOT CHARGE this turn
+
+### Scenario 9: Battleshock Test
+
+**Setup:**
+- Your unit of 10 Solar Sentinels has taken casualties
+- 6 models have been removed (4 remain = 60% casualties)
+- It's your Command Phase
+
+**Action:**
+1. Check: Unit has lost more than 50% of models = Must test
+2. Check Leadership: Solar Sentinels have Ld: 8
+3. Roll 2D6: 5 + 4 = 9
+4. Compare: 9 > 8 = FAILED!
+5. Unit is now Battleshocked:
+   - Cannot charge
+   - Cannot use special rules
+   - Cannot benefit from Blessings/Faction Abilities
+   - OC becomes 0
+   - Cannot fire Overwatch
+6. Lasts until start of your NEXT Command Phase
+
+### Scenario 10: Warlord Abilities
+
+**Setup:**
+- Your Nightblade (Warlord) is on the battlefield
+- Your Phantom Assassins are within 6cm of him
+- Nightblade has "Master of the Unseen Blade" trait
+
+**Action:**
+1. Phantom Assassins gain benefits while within 6cm:
+   - +1 Strength (S: 4 becomes S: 5)
+   - 4+ Invulnerable Save
+2. Track this: When Phantom Assassins attack, use S: 5
+3. When Phantom Assassins are targeted, can use 4+ Invulnerable
+4. If Phantom Assassins move more than 6cm from Nightblade, they lose these benefits
+5. Measure at the time of use
+
+---
+
+## 9. Quick Reference Tables
+
+### Attack Resolution Flowchart
+
+```
+1. Declare Shooting Unit → Choose Target
+2. Check Range → Measure distance
+3. Make Hit Rolls → Roll D6, compare to BS/WS
+4. Make Wound Rolls → Compare S vs T
+5. Target Makes Saves → Roll D6, compare to Save (modified by AP)
+6. Apply Damage → Reduce wounds, remove models at 0 wounds
+```
+
+### Wound Chart (Quick Reference)
+
+| Strength vs Toughness | Roll Needed to Wound |
+|----------------------|---------------------|
+| S is 2× T or more    | 2+                  |
+| S is greater than T  | 3+                  |
+| S equals T           | 4+                  |
+| S is less than T     | 5+                  |
+| S is half T or less  | 6+                  |
+
+**Example Table:**
+- S5 vs T3: S > T = Need 3+
+- S4 vs T4: S = T = Need 4+
+- S3 vs T5: S < T = Need 5+
+
+### Phase Order Checklist
+
+**Each Turn:**
+- ☐ Command Phase (Gain CP, Battleshock tests)
+- ☐ Movement Phase (Move units, Advance, Fall Back)
+- ☐ Psychic Phase (Manifest powers)
+- ☐ Shooting Phase (Ranged attacks)
+- ☐ Charge Phase (Declare and roll charges)
+- ☐ Fight Phase (Melee attacks)
+
+### Common Modifiers Quick Reference
+
+**To Hit:**
+- Advancing with Assault weapons: -1
+- Heavy weapon while stationary: +1
+- Special abilities: varies
+
+**To Save:**
+- Cover: +1 (better)
+- AP value: -X (worse)
+- Example: Save 4+, AP -2 = Need 6+
+
+**Movement:**
+- Advance: M + D6
+- Charge: 2D6
+- Fall Back: M (but cannot shoot/charge)
+
+### Keywords Quick Reference
+
+| Keyword | Effect |
+|---------|--------|
+| Deep Strike | Can deploy from Reserves |
+| Fly | Ignore terrain when moving |
+| Torrent | Auto-hit, no hit rolls needed |
+| [LETHAL HITS] | Unmodified 6s to hit auto-wound |
+| [DEVASTATING WOUNDS] | Unmodified 6s to wound deal 1 mortal wound |
+| [PRECISION] | Can target Characters in units |
+| Caster | Can manifest Psychic Powers |
+| Core | Basic troop unit |
+| Character | Can join units, provides buffs |
+| Warlord | Army leader |
+
+### Weapon Types Quick Reference
+
+| Weapon Type | Special Rules |
+|------------|---------------|
+| Rapid Fire X | Double shots at half range or less |
+| Assault X | Can shoot after Advancing (-1 to hit) |
+| Heavy X | +1 to hit if Remained Stationary |
+| Torrent | Automatically hits |
+| Indirect Fire | Can target without line of sight (+1 save to target) |
+
+### CP Costs Quick Reference
+
+**Turn-by-Turn CP:**
+- Turn 1: 1 CP
+- Turn 2: 2 CP total
+- Turn 3: 3 CP total
+- Turn 4: 4 CP total
+- Turn 5: 5 CP total
+
+**Common Ability Costs:**
+- 1 CP abilities: Can use multiple times
+- 2 CP abilities: Powerful effects
+- 3 CP abilities: Game-changing moments
+- Plan your CP spending carefully!
+
+### Distance Reference
+
+**Key Distances to Remember:**
+- **1cm:** Engagement Range (melee combat)
+- **3cm:** Objective Control range, Pile In/Consolidate distance
+- **6cm:** Common aura range
+- **9cm:** Reserve deployment minimum distance
+- **12cm:** Maximum charge declaration distance
+
+### Model Removal Priority
+
+**When removing casualties:**
+1. Remove models furthest from enemy first (protects your frontline)
+2. Remove models that keep unit in coherency (2cm apart)
+3. If unit has Characters attached, you choose which models to remove
+4. Characters can be removed if you choose
+
+### Victory Conditions
+
+**Standard Game (5 Rounds):**
+1. Control objectives at end of each round
+2. Score 1 point per objective controlled at end of each round
+3. At end of game, player with most points wins
+4. **Tiebreaker:** If tied on points, player who destroyed more enemy units wins. If still tied, roll-off.
+
+**How to Win:**
+- Control objectives consistently throughout the game
+- Deny enemy objectives
+- Survive to contest late-game objectives
+- Destroying enemy units is secondary to objective control
+
+---
+
+## 10. Common Mistakes and How to Avoid Them
+
+### Mistake 1: Forgetting Coherency
+**What:** Models in a unit must stay within 2cm of each other
+**Fix:** After moving each model, check that it's within 2cm of another model in the unit
+
+### Mistake 2: Measuring Wrong
+**What:** Measuring from the wrong model or to the wrong model
+**Fix:** Always measure from closest model to closest model (unless stated otherwise)
+
+### Mistake 3: Using Abilities After Rolling
+**What:** Trying to use re-roll abilities after seeing the result
+**Fix:** Declare all abilities BEFORE rolling dice
+
+### Mistake 4: Stacking the Same Ability
+**What:** Trying to use the same ability multiple times on the same unit
+**Fix:** Most abilities say "once per turn" or "once per battle" - check the text
+
+### Mistake 5: Forgetting Weapon Restrictions
+**What:** Shooting Heavy weapons after moving, or shooting after Advancing
+**Fix:** Before shooting, check: Did I move? Did I Advance? Does my weapon allow this?
+
+### Mistake 6: Ignoring Line of Sight
+**What:** Shooting at units you cannot see
+**Fix:** Before declaring target, check: Can I draw a line from my unit to the target?
+
+### Mistake 7: Charging Too Far
+**What:** Declaring charges against units more than 12cm away
+**Fix:** Before declaring charge, measure: Is target within 12cm?
+
+### Mistake 8: Forgetting Battleshock
+**What:** Not testing units that have lost 50%+ models
+**Fix:** At start of Command Phase, count models in each unit - if 50%+ gone (round up), must test
+
+### Mistake 9: Wrong Wound Chart
+**What:** Using wrong number for wound rolls
+**Fix:** Always compare S vs T:
+- S ≥ 2×T = 2+
+- S > T = 3+
+- S = T = 4+
+- S < T = 5+
+- S ≤ T/2 = 6+
+
+### Mistake 10: Forgetting Faction Keywords
+**What:** Using abilities on wrong faction units
+**Fix:** Check that unit has the right keyword (Lightborne, Paradox, or Void)
+
+---
+
+## 11. FAQ - Frequently Asked Questions
+
+**Q: Can I have two Warlords?**
+A: Yes, you can have 1 or 2 Warlords in your army.
+
+**Q: Can my Warlord go into Reserves?**
+A: Yes, if they have the Deep Strike keyword.
+
+**Q: Can I shoot and charge in the same turn?**
+A: Yes, but not if you Advanced or Fell Back.
+
+**Q: Can I Fall Back and shoot?**
+A: No, units that Fall Back cannot shoot or charge that turn.
+
+**Q: Do mortal wounds have saves?**
+A: No, mortal wounds bypass all saves unless specifically stated.
+
+**Q: Can I split a unit's attacks between multiple targets?**
+A: No, all attacks from a unit must target the same enemy unit.
+
+**Q: What happens if I roll a 1 for a charge?**
+A: 2D6 minimum is 2, you cannot roll a total of 1 for charges.
+
+**Q: Can Characters leave units they joined?**
+A: No, once joined they stay together for the entire game (unless the Character is destroyed).
+
+**Q: How many Psychic Powers can a Caster use per turn?**
+A: ONE, unless they have special rules allowing more.
+
+**Q: Can I use the same Faction Ability multiple times per turn?**
+A: Yes, if you have the CP and the ability doesn't say "once per turn."
+
+**Q: What if I run out of models but haven't reached the point limit?**
+A: That's fine, you don't have to spend all points. Just don't go over.
+
+**Q: Can I measure distances anytime?**
+A: Yes! You can measure distances at any point during the game.
+
+**Q: How does Overwatch work exactly?**
+A: When charged, you can declare Overwatch. Only unmodified 6s hit (unless unit has special rules). You can only Overwatch once per turn, so if multiple enemies charge, choose wisely!
+
+**Q: What's the point of NOT using Overwatch?**
+A: You can only Overwatch once per turn. If you Overwatch the first charger, you can't Overwatch the second charger. Save it for the bigger threat!
+
+**Q: How does Precision targeting work?**
+A: Declare you're targeting a specific Character before rolling. All your hits/wounds go to that Character specifically, bypassing normal wound allocation.
+
+**Q: For Battleshock, how do I calculate 50%?**
+A: Always round UP. A 7-model unit needs to lose 4+ models (3.5 rounds up to 4). A 5-model unit needs to lose 3+ (2.5 rounds up to 3).
+
+**Q: Can Void Archmage use Void Oblivion Turn 1?**
+A: No, it can only be used from Turn 2 onwards (balance reasons).
+
+**Q: How much damage does Void Oblivion overcharge deal to the Archmage?**
+A: D6 mortal wounds (with Line of Sight requirement added for balance).
+
+**Q: What weapon types are in the game?**
+A: Heavy, Rapid Fire, Assault, Torrent, and Indirect Fire. Each has different rules - check the Weapon Abilities Glossary above.
+
+---
+
+## 12. Final Checklist Before Your First Game
+
+### Before Game Starts:
+- ☐ Army list written with exact points
+- ☐ Warlord(s) clearly marked
+- ☐ Blessings assigned to units
+- ☐ Dice ready (10-15 D6 recommended)
+- ☐ Measuring tool (cm ruler/tape)
+- ☐ Tokens for wounds, objectives, CP
+- ☐ Paper for tracking game state
+- ☐ Opponent's faction identified
+- ☐ Agreed on points limit (1,000 standard)
+- ☐ Agreed on game length (5 rounds standard)
+
+### During Setup:
+- ☐ Terrain placed (if using)
+- ☐ Deployment zones determined
+- ☐ 3 objectives placed
+- ☐ Rolled for deployment order
+- ☐ Both armies deployed properly
+- ☐ Reserves declared (max 2 units with Deep Strike)
+- ☐ Rolled for first turn
+
+### During Game:
+- ☐ Follow phase order strictly
+- ☐ Announce what you're doing clearly
+- ☐ Roll dice openly where opponent can see
+- ☐ Track CP spending
+- ☐ Track wounds on multi-wound models
+- ☐ Remove casualties immediately
+- ☐ Check Battleshock each Command Phase
+- ☐ Measure before declaring actions
+- ☐ Have fun!
+
+---
+
+## 13. Conclusion
+
+You now have everything you need to play! Here's what to do:
+
+1. **Read through this rulebook once**
+2. **Build a small 500-point army for practice**
+3. **Set up a practice game**
+4. **Play through Turn 1 slowly, checking each step**
+5. **Reference this rulebook whenever you have questions**
+6. **After a few games, the rules will become natural**
+
+**Remember:**
+- The game flows: Command → Move → Psychic → Shoot → Charge → Fight
+- Always measure before declaring actions
+- Dice rolls are: Hit → Wound → Save → Damage
+- Objectives win games, not kills
+- Have fun and don't worry about perfect play at first!
+
+**When in Doubt:**
+- Check the phase order
+- Check the weapon type
+- Check the unit's keywords
+- Measure the distance
+- Ask your opponent - cooperation makes games better!
+
+Welcome to the battlefield, Commander. May your strategies be cunning and your dice rolls be blessed!
