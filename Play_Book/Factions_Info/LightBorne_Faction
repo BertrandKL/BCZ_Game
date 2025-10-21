@@ -45,7 +45,7 @@ You can choose two of these blessings to give to any units in your army. Remembe
 ## Core Units
 
 ### Solar Sentinels
-**Cost:** 22 pts per model
+**Cost:** 24 pts per model
 **Role:** Infantry
 **Keywords:** Core, Lightborne
 **Statline (per model):** M: 6 cm, WS: 4+, BS: 4+, S: 4, T: 4, W: 1, A: 2, Ld: 8, Save: 5+, OC: 1
@@ -54,7 +54,7 @@ You can choose two of these blessings to give to any units in your army. Remembe
 **Unit Size:** 5-10, **Army Limit:** Unlimited
 
 ### Solar Guards
-**Cost:** 42 pts per model
+**Cost:** 40 pts per model
 **Role:** Infantry
 **Keywords:** Core, Lightborne, Overwatch
 **Statline (per model):** M: 6 cm, WS: 3+, BS: 5+, S: 5, T: 4, W: 1, A: 3, Ld: 8, Save: 4+, OC: 1
@@ -192,7 +192,8 @@ You can choose two of these blessings to give to any units in your army. Remembe
 - Orbital Bombardment: Once per turn, you can select one enemy unit anywhere on the battlefield and roll a dice. On a 3+, that unit suffers D3 mortal wounds. 
 - Beacon of Hope: All friendly Lightborne Character units that do not have the Warlord keyword within 6 cm of this model gain a 6+ Invulnerable Save.
 - Stellar Aegis: This model has a 4+ Invulnerable Save.
-**Warlord Trait:** The Unbreakable Core: All friendly Lightborne Core units within 12 cm of this model gain +1 to their Armor Save and +1 Leadership. Armor Save cannot be better than 2+.
+- Recharge Cycle: After this model fires its Solar Annihilator, it cannot fire that weapon during your next Shooting Phase. It can still use Orbital Bombardment.
+**Warlord Trait:** The Unbreakable Core: All friendly Lightborne Core units within 12 cm of this model gain +1 to their Armor Save and +1 Leadership.
 
 ---
 
