@@ -95,7 +95,7 @@ You can choose two of these blessings to give to any units in your army. Remembe
 **Role:** Elite Melee Specialists
 **Keywords:** Void, Character, Deep Strike
 **Statline:** M: 8 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 3, Ld: 8, Save: 4+, OC: 2
-**Weapons:** Whisper of Dusk (Melee, S: 4, AP: -2, D: 2, Precision), Ashen Stars (Assault 3, 24 cm, S: 4, AP: -1, D: 1, Precision)
+**Weapons:** Whisper of Dusk (Melee, S: 4, AP: -2, D: 2, Precision), Ashen Stars (Assault 3, 18 cm, S: 3, AP: -1, D: 1, Precision)
 **Special Rules:** 
 - Shadow Step: Move 6 cm ignoring terrain once per turn. 
 - Assassin's Mark: Once per turn, select one enemy Character or Vehicle model. This model's attacks against that target have the [DEVASTATING WOUNDS] ability and improve the Armour Penetration characteristic of those attacks by 1.
@@ -189,7 +189,7 @@ You can choose two of these blessings to give to any units in your army. Remembe
 **Role:** Precision Assassin
 **Keywords:** Character, Void, Warlord
 **Statline:** M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 4, W: 5, A: 5, Ld: 9, Save: 2+, OC: 2
-**Weapons:** Whispering Shadow Blade (Melee, S: 4, AP: -3, D: 3, Precision), Phantom Shuriken (Assault 2, 12 cm, S: 3, AP: -1, D: 1, Precision)
+**Weapons:** Whispering Shadow Blade (Melee, S: 4, AP: -3, D: 3, Precision), Phantom Shuriken (Assault 3, 18 cm, S: 3, AP: -1, D: 1, Precision)
 **Special Rules:** 
 - Death Mark: At the start of the battle, after both sides have deployed, choose one enemy Character, Monster, God-Engine or Vehicle. All of Nightblade's attacks against that target automatically wound on unmodified hit rolls of 4+, and improve the AP of those attacks by 1. 
 - Shadow Infiltration: This model can be placed into Reserves for free (does not count toward the 2 unit Reserve limit). When arriving from Reserves, he can be placed anywhere more than 6 cm from enemies and can charge on the same turn. 
