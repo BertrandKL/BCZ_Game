@@ -140,7 +140,7 @@ Weapons or models with the [PRECISION] keyword can target specific models within
 
 A unit with the Character keyword can join a friendly unit that shares the same FACTION keyword at the deployment phase. Once they join, they function as a single unit with specific rules.
 
-**Who Can Join?** Any unit with the Character keyword (like Nightblade or the Void Archmage) can join another friendly unit. They cannot join a vehicle or a monstrous creature like the Dreadnaut.
+**Who Can Join?** Any unit with the Character keyword (like Nightblade or the Void Archmage) can join another friendly unit. They cannot join a vehicle or a God-Engine like the Dreadnaut.
 
 **How do Stats Work?** The combined unit moves at the speed of its slowest model. For example, if Nightblade (M: 10 cm) joins a unit of Voidmarchers (M: 6 cm), the entire unit's Movement becomes 6 cm.
 
@@ -1277,10 +1277,9 @@ Let's walk through a complete attack from start to finish:
 ### Model Removal Priority
 
 **When removing casualties:**
-1. Remove models furthest from enemy first (protects your frontline)
-2. Remove models that keep unit in coherency (2cm apart)
-3. If unit has Characters attached, you choose which models to remove
-4. Characters can be removed if you choose
+1. Remove models that keep unit in coherency (2cm apart)
+2. If unit has Characters attached, you choose which models to remove
+3. Characters can be removed if you choose
 
 ### Victory Conditions
 
@@ -1406,6 +1405,8 @@ A: D6 mortal wounds (with Line of Sight requirement added for balance).
 **Q: What weapon types are in the game?**
 A: Heavy, Rapid Fire, Assault, Torrent, and Indirect Fire. Each has different rules - check the Weapon Abilities Glossary above.
 
+**Q: Can I target multiple units in an attack?**
+A: Yes, you can choose which models in your unit to attack different targets, as long as they are in range.
 ---
 
 ## 12. Final Checklist Before Your First Game
