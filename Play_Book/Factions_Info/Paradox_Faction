@@ -6,15 +6,15 @@ The Paradox Faction exists in the spaces between truth and falsehood, reality an
 
 ## Faction Warcry
 
-**Temporal Paradox:** Once per game, at the start of any phase, you can declare this ability. Choose one friendly unit that was destroyed this turn. That unit is immediately restored to the battlefield at half strength (rounded down), placed anywhere more than 6 cm from enemy units. This unit gains the Never Was rule until the end of the turn (cannot be targeted by enemy abilities or attacks, but also cannot affect the game in any way).
+**Temporal Paradox:** Once per game, at the start of any phase, you can declare this ability. Choose one friendly unit that was destroyed earlier this turn. That unit immediately returns to the battlefield at half strength (round down, minimum 1 model), placed anywhere more than 6 cm from enemy units. The returned unit can act normally for the rest of the turn.
 
 ## Faction Abilities
 
 - **Temporal Shift (1 CP):** Use at the start of any phase. Choose one friendly unit. Until the end of the phase, that unit can move through terrain as if it were not there and gains +3cm to its Movement characteristic.
-- **Causal Loop (2 CP):** Use during your opponent's turn. Choose one enemy unit that just made an attack. That attack never happened—reverse all effects and return the game state to before the attack was declared.
+- **Causal Loop (2 CP):** Use during your opponent's Shooting or Fight Phase, immediately after an enemy unit has finished making all of its attacks against one of your units. Reverse all effects of those attacks - return any removed models, restore any lost wounds, and return any mortal wounds suffered. The attacking unit is considered to have acted this phase and cannot attack again.
 - **False Truth (1 CP):** Use when an enemy unit declares a charge against one of your units. That unit is actually charging a different friendly unit of your choice within 18 cm instead.
-- **Temporal Echo (3 CP):** Use during your turn. Choose one friendly unit. It can act twice this turn, but the second action must be exactly identical to the first.
-- **Paradox Field (2 CP):** Use at the start of any phase. Choose one terrain feature or objective marker. It doesn't exist this turn, but will return at the end of the turn.
+- **Temporal Echo (3 CP):** Use during your turn. Choose one friendly unit that has not yet acted this turn. It can immediately take one action (Move, Shoot, or Charge), then later in the appropriate phase it can take that same action again.
+- **Paradox Field (2 CP):** Use at the start of any phase. Choose one terrain feature or objective marker. Until the end of the turn, that terrain/objective does not exist for the purposes of line of sight, cover, and objective scoring. It returns at the start of your next turn.
 
 ## Faction Blessings
 
@@ -119,8 +119,10 @@ You can choose two of these blessings to give to any units in your army. Remembe
 **Statline:** M: 8 cm, WS: 3+, BS: 3+, S: 4, T: 4, W: 2, A: 3, Ld: 9, Save: 4+, OC: 2
 **Weapons:** Probability Rifle (Assault 3, 15 cm, S: 4, AP: -1, D: 1), Quantum Blade (Melee, S: 4, AP: -1, D: 1)
 **Special Rules:** 
-- Quantum Superposition: This unit exists in two states simultaneously. At the start of each turn, choose: either it has +1 Toughness and cannot move, OR +2 Movement and -1 Toughness. 
-- Observer Effect: When an enemy unit targets this unit, both units take the same damage from the attack.
+- Quantum State: At the start of each of your turns, choose one mode for this unit:
+  - Defensive Mode: +1 Toughness, this unit cannot make Normal Moves or Advance moves (can still charge)
+  - Aggressive Mode: +2 Movement, -1 Toughness
+- Shared Fate: When this unit is targeted by an attack, after all attacks are resolved, roll a D6. On a 4+, the attacking unit suffers 1 mortal wound for each unsaved wound this unit suffered (maximum 3 mortal wounds).
 **Unit Size:** 3-6, **Army Limit:** Max 2 per 1,000 pts
 
 ### Echo Dancers
@@ -130,7 +132,7 @@ You can choose two of these blessings to give to any units in your army. Remembe
 **Statline:** M: 12 cm, WS: 3+, BS: 4+, S: 4, T: 3, W: 2, A: 3, Ld: 8, Save: 4+, OC: 1
 **Weapons:** Phase Blades (Melee, S: 4, AP: -2, D: 1), Echo Shards (Assault 2, 15 cm, S: 4, AP: -1, D: 1)
 **Special Rules:** 
-- Temporal Echo: When this unit moves, it gains +2 to its Movement characteristic for that move. 
+- Afterimage Movement: After this unit completes a Normal Move, Advance, or charge move, it can immediately make an additional 3cm move in any direction.
 - Dance of Ages: This unit can charge after advancing, and when it charges, it can move through enemy units without stopping.
 **Unit Size:** 3-6, **Army Limit:** Max 3 per 1,000 pts
 
@@ -164,8 +166,11 @@ You can choose two of these blessings to give to any units in your army. Remembe
 **Statline:** M: 14 cm, WS: 3+, BS: 4+, S: 5, T: 4, W: 3, A: 4, Ld: 8, Save: 4+, OC: 2
 **Weapons:** Probability Lance (Melee, S: 6, AP: -2, D: 3), Quantum Bolters (Assault 2, 18 cm, S: 5, AP: -1, D: 1)
 **Special Rules:** 
-- Quantum Charge: When this unit charges, roll a D6. On a 1-2, it moves normally. On a 3-4, it can charge through terrain and models. On a 5-6, it can charge any unit on the battlefield regardless of distance. 
-- Superposition Strike: This unit's melee attacks hit on 2+ against units that moved this turn, and on 5+ against units that didn't move.
+- Probability Charge: When this unit declares a charge, roll 2D6 for charge distance as normal. Additionally, roll a D6:
+  - On a 1-2: Normal charge (use the 2D6 result)
+  - On a 3-4: This unit can move through terrain and models during the charge
+  - On a 5-6: Add +3cm to the charge distance
+- Aggressive Strikes: This unit's melee attacks hit on 2+ against units that moved this turn. Against units that did not move this turn, hit on 4+ instead of the normal 3+.
 **Unit Size:** 2-4, **Army Limit:** Max 2 per 1,000 pts
 
 ### Möbius Walkers
@@ -175,8 +180,8 @@ You can choose two of these blessings to give to any units in your army. Remembe
 **Statline:** M: 7 cm, WS: 4+, BS: 3+, S: 7, T: 8, W: 10, A: 3, Ld: 10, Save: 2+, OC: 4
 **Weapons:** Infinite Loop Cannon (Heavy 6, 30 cm, S: 8, AP: -2, D: 3), Causal Claws (Melee, S: 9, AP: -3, D: 3)
 **Special Rules:** 
-- Temporal Loop: At the end of each turn, this unit returns to its position at the start of the turn (but keeps any damage taken). 
-- Paradox Engine: Once per turn, when this unit would be destroyed, roll a D6. On a 3+, it instead returns to full wounds but cannot act next turn.
+- Reality Anchor: This model has a 4+ Invulnerable Save. Additionally, this model cannot be forced to move or Fall Back by any enemy abilities.
+- Paradox Engine: Once per turn, when this unit would be destroyed, roll a D6. On a 3+, it instead heals back to D6 wounds but cannot act during your next turn (cannot move, shoot, charge, or fight).
 **Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
 
 ---
