@@ -89,12 +89,12 @@ You can choose two of these blessings to give to any units in your army. Remembe
 ### Temporal Assassins
 **Cost:** 85 pts per model
 **Role:** Elite Melee Specialists
-**Keywords:** Elite, Paradox, Character, Temporal, Deep Strike
+**Keywords:** Elite, Paradox, Temporal, Deep Strike
 **Statline:** M: 10 cm, WS: 2+, BS: 4+, S: 5, T: 3, W: 3, A: 4, Ld: 9, Save: 4+, OC: 2
-**Weapons:** Paradox Blades (Melee, S: 5, AP: -2, D: 2, Misdirection, Precision), Temporal Shuriken (Assault 2, 18 cm, S: 4, AP: -1, D: 1, Precision)
+**Weapons:** Paradox Blades (Melee, S: 5, AP: -2, D: 2, Precision), Temporal Shuriken (Assault 2, 18 cm, S: 4, AP: -1, D: 1, Precision)
 **Special Rules:** 
 - Phased Strike: This unit can arrive from Deep Strike on Turn 1 instead of Turn 2.
-- Assassination Paradox: When this unit destroys an enemy Character, roll a D6. On a 6, all friendly Paradox units within 12cm gain +1 to hit rolls until the end of the turn.
+- Assassination Paradox: When this unit destroys an enemy Character, roll a D6. On a 6, all friendly Paradox units within 12cm gain +1 to hit rolls until the end of the turn. This unit also has Misdirection.
 **Unit Size:** 1-3, **Army Limit:** Max 3 per 1,000 pts
 
 ### Reality Weavers
