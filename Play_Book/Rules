@@ -144,9 +144,19 @@ A unit with the Character keyword can join a friendly unit that shares the same 
 
 **How do Stats Work?** The combined unit moves at the speed of its slowest model. For example, if Nightblade (M: 10 cm) joins a unit of Voidmarchers (M: 6 cm), the entire unit's Movement becomes 6 cm.
 
-**What are the Benefits?** The entire combined unit gains the benefit of the character's abilities and auras. If Nightblade joins a unit of Phantom Assassins, the entire unit gains the benefit of his Master of the Unseen Blade Warlord Trait.
+**What are the Benefits?** 
+- The entire combined unit gains the benefit of the character's abilities and auras
+- The entire combined unit ALSO gains the benefits of the unit's special rules
+- **Example:** If Nightblade joins Phantom Assassins:
+  - All models (including Nightblade) benefit from "Shadow Step" (move 6cm ignoring terrain)
+  - All models (including Phantom Assassins) benefit from Nightblade's "Master of the Unseen Blade" (+1S, 4++ save)
+  - They move as one unit using the slowest Movement (both have M:8-10, so use slowest)
 
-**What are the Drawbacks?** The biggest drawback is tactical inflexibility. You are combining two units into one high-value target, making them easier for the enemy to eliminate with a single powerful attack. You also lose the ability to have your units in two different places at once, which can cost you objectives.
+**What are the Drawbacks?** 
+- The biggest drawback is tactical inflexibility
+- You are combining two units into one high-value target, making them easier for the enemy to eliminate with a single powerful attack
+- You also lose the ability to have your units in two different places at once, which can cost you objectives
+- The combined unit moves at the speed of the SLOWEST model
 
 ---
 
@@ -203,53 +213,66 @@ The player with the highest total OC value within range of the objective control
 
 **Example:** You have 5 Solar Sentinels (OC: 1 each) and 1 Solar Colossus (OC: 6) within 3 cm of an objective. Your total OC is (5 * 1) + 6 = 11. If your opponent only has a unit of 10 Voidmarchers (OC: 1 each) near it, their total is 10. You control the objective because 11 > 10.
 
-Units in Engagement Range
-IMPORTANT: Units that are in Engagement Range (within 1cm of enemy models) have their OC reduced to 0 UNLESS they have a special rule that says otherwise.
-Example:
+#### Units in Engagement Range
 
-Your 10 Voidmarchers are within 3cm of an objective (normally OC: 10 total)
-Enemy Solar Guards charge and engage them in melee
-Now your Voidmarchers are in Engagement Range
-Their OC becomes 0 - they no longer control the objective!
+**IMPORTANT:** Units that are in Engagement Range (within 1cm of enemy models) have their OC reduced to 0 UNLESS they have a special rule that says otherwise.
 
-When to Count Objectives and Score Points
-SCORING HAPPENS AT THE END OF EACH ROUND (not each turn!)
-At the end of Round 1, 2, 3, 4, and 5:
+**Example:**
+- Your 10 Voidmarchers are within 3cm of an objective (normally OC: 10 total)
+- Enemy Solar Guards charge and engage them in melee
+- Now your Voidmarchers are in Engagement Range
+- Their OC becomes 0 - they no longer control the objective!
 
-Both players' turns are complete
-STOP and count objectives
-For each objective marker on the board:
+**Exception - Special Rules:**
+- Some units can hold objectives while in combat (like Solar Guards with "Hold the Line")
+- Check unit's special rules to see if they ignore this restriction
+- If a unit says it can "hold objectives while in Engagement Range," it keeps its OC
 
-Measure 3cm from center
-Count OC of all models within 3cm for each player
-Units in Engagement Range have OC: 0 (unless special rule says otherwise)
-Player with HIGHER total OC controls that objective
-If tied or no one is within 3cm, no one controls it
+**Strategic Implications:**
+- Charging onto objectives denies enemy control (their OC becomes 0)
+- You need units with "Hold the Line" type abilities to score while fighting
+- Most units lose objective control when engaged in melee
 
+#### When to Count Objectives and Score Points
 
-Each player scores 1 point for each objective they control
-Write down the score
-Start the next round
+**SCORING HAPPENS AT THE END OF EACH ROUND** (not each turn!)
 
-Example Scoring:
+At the **end of Round 1, 2, 3, 4, and 5:**
+1. Both players' turns are complete
+2. STOP and count objectives
+3. For each objective marker on the board:
+   - Measure 3cm from center
+   - Count OC of all models within 3cm for each player
+   - **Units in Engagement Range have OC: 0 (unless special rule says otherwise)**
+   - Player with HIGHER total OC controls that objective
+   - If tied or no one is within 3cm, no one controls it
+4. Each player scores **1 point** for each objective they control
+5. Write down the score
+6. Start the next round
 
-End of Round 1:
+**Example Scoring:**
+- End of Round 1:
+  - Center objective: You have 5 OC, opponent has 3 OC → You score 1 point
+  - Your objective: You have 10 OC, opponent has 0 OC → You score 1 point  
+  - Enemy objective: You have 0 OC, opponent has 8 OC → Opponent scores 1 point
+  - **Round 1 Score: You 2, Opponent 1**
 
-Center objective: You have 5 OC, opponent has 3 OC → You score 1 point
-Your objective: You have 10 OC, opponent has 0 OC → You score 1 point
-Enemy objective: You have 0 OC, opponent has 8 OC → Opponent scores 1 point
-Round 1 Score: You 2, Opponent 1
-
-
-End of Round 2:
-
-Center objective: Your units are in combat (OC: 0), opponent has 12 OC → Opponent scores 1 point
-Your objective: You have 6 OC, opponent has 0 OC → You score 1 point
-Enemy objective: You have 0 OC, opponent has 5 OC → Opponent scores 1 point
-Round 2 Score: You 1, Opponent 2
-Total Score: You 3, Opponent 3
+- End of Round 2:
+  - Center objective: Your units are in combat (OC: 0), opponent has 12 OC → Opponent scores 1 point
+  - Your objective: You have 6 OC, opponent has 0 OC → You score 1 point
+  - Enemy objective: You have 0 OC, opponent has 5 OC → Opponent scores 1 point
+  - **Round 2 Score: You 1, Opponent 2**
+  - **Total Score: You 3, Opponent 3**
 
 Continue this for all 5 rounds. At the end of Round 5, whoever has the most total points wins!
+
+**Important Notes:**
+- **Units in Engagement Range (within 1cm of enemies) have OC: 0** unless they have special rules
+- Battleshocked units have OC: 0 (don't count them!)
+- Control is contested if both players have equal OC (no one scores)
+- You only need ONE model within 3cm to contest, but higher OC wins
+- Units in Reserves don't count for OC (they're not on the board)
+
 ---
 
 ### CP Economy
@@ -747,8 +770,10 @@ A unit CANNOT charge if:
 
 **STEP 3: Declare Charge Target**
 - Choose which enemy unit you want to charge
+- You must have line of sight to at least one model in the target unit
 - Measure the distance from closest model to closest model
 - If more than 12cm away, you cannot charge them
+- If you cannot see any models in the target unit, you cannot charge them
 
 **STEP 4: Overwatch (Optional - Opponent's Choice)**
 The target unit may fire Overwatch:
@@ -1324,9 +1349,10 @@ Let's walk through a complete attack from start to finish:
 ### Model Removal Priority
 
 **When removing casualties:**
-1. Remove models that keep unit in coherency (2cm apart)
-2. If unit has Characters attached, you choose which models to remove
-3. Characters can be removed if you choose
+1. Remove models furthest from enemy first (protects your frontline)
+2. Remove models that keep unit in coherency (2cm apart)
+3. If unit has Characters attached, you choose which models to remove
+4. Characters can be removed if you choose
 
 ### Victory Conditions
 
@@ -1452,8 +1478,6 @@ A: D6 mortal wounds (with Line of Sight requirement added for balance).
 **Q: What weapon types are in the game?**
 A: Heavy, Rapid Fire, Assault, Torrent, and Indirect Fire. Each has different rules - check the Weapon Abilities Glossary above.
 
-**Q: Can I target multiple units in an attack?**
-A: Yes, you can choose which models in your unit to attack different targets, as long as they are in range.
 ---
 
 ## 12. Final Checklist Before Your First Game
