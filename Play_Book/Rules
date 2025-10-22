@@ -140,7 +140,7 @@ Weapons or models with the [PRECISION] keyword can target specific models within
 
 A unit with the Character keyword can join a friendly unit that shares the same FACTION keyword at the deployment phase. Once they join, they function as a single unit with specific rules.
 
-**Who Can Join?** Any unit with the Character keyword (like Nightblade or the Void Archmage) can join another friendly unit. They cannot join a vehicle or a God-Engine like the Dreadnaut.
+**Who Can Join?** Any unit with the Character keyword (like Nightblade or the Void Archmage) can join another friendly unit (max 2 different type of models). They cannot join a vehicle or a God-Engine like the Dreadnaut.
 
 **How do Stats Work?** The combined unit moves at the speed of its slowest model. For example, if Nightblade (M: 10 cm) joins a unit of Voidmarchers (M: 6 cm), the entire unit's Movement becomes 6 cm.
 
