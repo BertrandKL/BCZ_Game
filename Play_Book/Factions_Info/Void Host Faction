@@ -76,7 +76,7 @@ You can choose two of these blessings to give to any units in your army. Remembe
 ## Elite Units
 
 ### MK (Minuscule Knight)
-**Cost:** 200 pts per model
+**Cost:** 240 pts per model
 **Role:** Elite Champion / Anti-Tank
 **Keywords:** Void, Character, Overwatch
 **Statline:** M: 5 cm, WS: 3+, BS: 2+, S: 6, T: 6, W: 10, A: 3, Ld: 10, Save: 2+, OC: 4
@@ -89,13 +89,6 @@ You can choose two of these blessings to give to any units in your army. Remembe
 - **Suppressing Fire:** This model can fire Overwatch at BS 3+ instead of only hitting on 6s. Additionally, this model can fire Overwatch at any enemy unit that charges within 15cm, not just units charging this model directly.
 - **Reinforced Plating:** Reduce all incoming damage by 1 (to a minimum of 1).
 **Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts8, A: 2, Ld: 9, Save: 3+, OC: 4
-**Weapons:** Void-Breaker Cannon (Heavy 1, 30 cm, S: 16, AP: -4, D: D6+3), Abyssal Mini-Cannons (Heavy 10, 24 cm, S: 6, AP: -2, D: 2)
-**Special Rules:**
-- **Bulwark of the Machine:** If this unit did not move, its Cannon gains +1 BS
-- **Voidforged:** Ranged weapons can target units in combat, hitting on an unmodified 6
-- **Void-Hunter Rounds:** Each time an attack is made with this model's Void-Breaker Cannon, you can re-roll a wound roll of 1. If the target is a Vehicle or Monster, you can re-roll the wound roll
-- **Tactical Supremacy:** Enemy units within 12 cm of this model cannot use Reserves or any special deployment rules
-**Unit Size:** 1, **Army Limit:** Max 1 per 1,000 pts
 
 ### Phantom Assassins
 **Cost:** 70 pts per model
